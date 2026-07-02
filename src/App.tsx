@@ -202,8 +202,9 @@ export default function App() {
           {view3d ? (
             <Suspense
               fallback={
-                <div className="flex h-full items-center justify-center bg-slate-900 text-sm text-slate-300">
-                  🌎 Loading 3D globe…
+                <div className="flex h-full flex-col items-center justify-center gap-4 bg-slate-900 text-slate-100">
+                  <div className="h-10 w-10 animate-spin rounded-full border-4 border-slate-700 border-t-sky-400" />
+                  <div className="text-sm text-slate-300">🌎 Loading 3D globe…</div>
                 </div>
               }
             >
