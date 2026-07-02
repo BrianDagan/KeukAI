@@ -1,0 +1,113 @@
+[
+  {
+    "id": "finger-lakes-boating-museum",
+    "name": "Finger Lakes Boating Museum",
+    "categories": ["museum-historical"],
+    "lake": "Keuka",
+    "address": "8231 Pleasant Valley Road, Hammondsport, NY 14840",
+    "lat": 42.39856,
+    "lng": -77.25764,
+    "phone": "(607) 569-2222",
+    "website": "https://www.flbm.org",
+    "hours": {
+      "mon": { "open": "10:00", "close": "17:00" },
+      "tue": { "open": "10:00", "close": "17:00" },
+      "wed": { "open": "10:00", "close": "17:00" },
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": { "open": "10:00", "close": "17:00" }
+    },
+    "description": "Dedicated to the boating heritage of the Finger Lakes, the museum showcases dozens of historically significant wooden boats, restored runabouts, and period outboard motors in a purpose-built facility directly across from Pleasant Valley Winery on Keuka Lake.",
+    "reviews": { "rating": 4.6, "count": 117 },
+    "sourceUrl": "https://www.flbm.org/general-6",
+    "needsReview": false
+  },
+  {
+    "id": "yates-county-history-center",
+    "name": "Yates County History Center",
+    "categories": ["museum-historical"],
+    "lake": "Keuka",
+    "address": "107 Chapel Street, Penn Yan, NY 14527",
+    "lat": 42.6635,
+    "lng": -77.0533,
+    "phone": "(315) 536-7318",
+    "website": "http://www.yatespast.org",
+    "hours": {
+      "mon": null,
+      "tue": { "open": "09:00", "close": "16:00" },
+      "wed": { "open": "09:00", "close": "16:00" },
+      "thu": { "open": "09:00", "close": "16:00" },
+      "fri": { "open": "09:00", "close": "16:00" },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Closed major holidays and when local schools are closed due to weather. Group tours by appointment.",
+    "description": "Three-museum campus anchored by the 1852 Oliver House, an 18-room Italianate Victorian mansion with original period furnishings, Native American exhibits, and rotating local history galleries. Free admission with guided tours available.",
+    "reviews": { "rating": 4.6, "count": 20 },
+    "sourceUrl": "http://www.yatespast.org/",
+    "needsReview": false
+  },
+  {
+    "id": "garrett-memorial-chapel",
+    "name": "Garrett Memorial Chapel",
+    "categories": ["museum-historical"],
+    "lake": "Keuka",
+    "address": "5251 Skyline Drive, Bluff Point, NY 14478",
+    "lat": 42.6135,
+    "lng": -77.1090,
+    "phone": "(315) 536-3955",
+    "website": "https://www.garrettchapel.org",
+    "hours": {
+      "mon": null,
+      "tue": { "open": "13:00", "close": "16:00" },
+      "wed": null,
+      "thu": { "open": "13:00", "close": "16:00" },
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Seasonal June–September only; open Tues & Thurs 1–4 pm. Sunday nondenominational worship services July 4–Labor Day at 9 am. Grounds open during visiting hours; free admission.",
+    "description": "Norman Gothic limestone chapel built in 1931 by wine magnate Paul Garrett as a memorial to his son, listed on the National Register of Historic Places and commanding panoramic views of Keuka Lake from the Bluff Point peninsula.",
+    "sourceUrl": "https://www.garrettchapel.org/about.html",
+    "needsReview": false
+  },
+  {
+    "id": "greyton-h-taylor-wine-museum",
+    "name": "Greyton H. Taylor Wine Museum",
+    "categories": ["museum-historical"],
+    "lake": "Keuka",
+    "address": "8843 Greyton H. Taylor Memorial Drive, Hammondsport, NY 14840",
+    "lat": 42.430085,
+    "lng": -77.208577,
+    "phone": "(315) 403-3628",
+    "website": "https://www.bullyhillvineyards.com/about/finger-lakes-wine-museum",
+    "hours": {
+      "mon": { "open": "10:00", "close": "17:00" },
+      "tue": { "open": "10:00", "close": "17:00" },
+      "wed": { "open": "10:00", "close": "17:00" },
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": { "open": "10:00", "close": "16:00" }
+    },
+    "description": "Founded in 1972 by Walter S. Taylor on the original Taylor family winery site, the museum complex includes a Cooper Shop replica, two centuries of wine-making artifacts, and the Walter S. Taylor Art Gallery featuring the founder's distinctive folk-art paintings.",
+    "sourceUrl": "https://www.bullyhillvineyards.com/about/finger-lakes-wine-museum",
+    "needsReview": false
+  },
+  {
+    "id": "saunders-finger-lakes-museum",
+    "name": "Saunders Finger Lakes Museum",
+    "categories": ["museum-historical"],
+    "lake": "Keuka",
+    "address": "3369 Guyanoga Road, Branchport, NY 14418",
+    "lat": 42.6370,
+    "lng": -77.1546,
+    "phone": "(315) 595-2200",
+    "website": "https://www.fingerlakesmuseum.org",
+    "hoursNote": "Indoor exhibit building under construction; 30-acre outdoor campus open dawn–dusk year-round with wetland boardwalks, nature trails, and lakeside pavilion. Seasonal guided programs available.",
+    "description": "Museum-in-development on a 30-acre lakeside campus at the north end of Keuka Lake offering wetland boardwalks, nature trails, and year-round ecological and cultural heritage programs about the Finger Lakes region.",
+    "sourceUrl": "https://www.fingerlakesmuseum.org/visit/",
+    "needsReview": true
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "urgent-care-penn-yan",
+    "name": "Urgent Care – Penn Yan",
+    "categories": ["hospital-urgent-care"],
+    "lake": "Keuka",
+    "address": "418 North Main Street, 2nd Floor, Penn Yan, NY 14527",
+    "lat": 42.6706422,
+    "lng": -77.0610591,
+    "phone": "(315) 531-2020",
+    "website": "https://www.flhealth.org/location/urgent-care-penn-yan",
+    "hours": {
+      "mon": { "open": "08:00", "close": "20:00" },
+      "tue": { "open": "08:00", "close": "20:00" },
+      "wed": { "open": "08:00", "close": "20:00" },
+      "thu": { "open": "08:00", "close": "20:00" },
+      "fri": { "open": "08:00", "close": "20:00" },
+      "sat": { "open": "08:00", "close": "20:00" }
+    },
+    "hoursNote": "Open Monday–Saturday 8 a.m.–8 p.m.; closed Sunday. Walk-ins welcome; call ahead or book online at flhealth.org to reduce wait time. For emergencies, use the Soldiers & Sailors Memorial Hospital ER (24/7, same building, ground floor).",
+    "description": "Walk-in urgent care on the second floor of Soldiers & Sailors Memorial Hospital, operated by UR Medicine Finger Lakes Health. Opened February 2025. Treats minor injuries and illnesses including sprains, ear infections, and colds; rapid PCR COVID/flu/strep testing with 30-minute results, plus imaging and lab services on-site.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-penn-yan",
+    "needsReview": false
+  }
+]

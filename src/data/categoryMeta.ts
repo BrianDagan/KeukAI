@@ -19,7 +19,7 @@ export const CATEGORY_META: Record<Category, CategoryMeta> = {
   shopping: { label: 'Shopping & Boutiques', emoji: '🛍️', color: '#8e44ad' },
   'lodging-rental': { label: 'Lodging & Rentals', emoji: '🏡', color: '#2c3e50' },
   spa: { label: 'Spas & Wellness', emoji: '💆', color: '#c94c8c' },
-  'dog-friendly': { label: 'Dog-Friendly', emoji: '🐶', color: '#3f7d20' },
+  'trails-parks': { label: 'Trails & Parks', emoji: '🌲', color: '#2f855a' },
   'race-track': { label: 'Racing & Motorsports', emoji: '🏁', color: '#111827' },
   'hospital-urgent-care': {
     label: 'Emergency & Urgent Care',

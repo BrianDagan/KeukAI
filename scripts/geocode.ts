@@ -97,10 +97,25 @@ const CATEGORY_FILES = new Set([
   'shopping',
   'lodging-rental',
   'spa',
-  'dog-friendly',
+  'trails-parks',
   'race-track',
   'hospital-urgent-care',
 ]);
+
+/**
+ * dog-friendly is a cross-cutting attribute, not a category — convert it to the
+ * `dogFriendly` flag. Also drop any categories that aren't in our known set
+ * (e.g. an agent inventing "veterinarian"), so one stray value can't break the UI.
+ */
+function normalizeCategories(places: AnyPlace[]): void {
+  for (const p of places) {
+    const cats = Array.isArray(p.categories) ? (p.categories as string[]) : [];
+    if (cats.includes('dog-friendly')) p.dogFriendly = true;
+    const valid = cats.filter((c) => c !== 'dog-friendly' && CATEGORY_FILES.has(c));
+    p.categories = Array.from(new Set(valid));
+    if (p.categories.length === 0) console.warn(`  ! dropped all categories for: ${p.name}`);
+  }
+}
 
 function loadUpdates(): AnyPlace[] {
   if (!existsSync(UPDATES_DIR)) return [];
@@ -246,6 +261,7 @@ async function main() {
   const cache = loadCache();
 
   const merged = applyUpdates(mergeById(loadEnriched()), loadUpdates());
+  normalizeCategories(merged);
   console.log(`Merged ${merged.length} places. Geocoding…`);
 
   let done = 0;

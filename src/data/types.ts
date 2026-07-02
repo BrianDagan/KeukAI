@@ -9,7 +9,7 @@ export type Category =
   | 'shopping'
   | 'lodging-rental'
   | 'spa'
-  | 'dog-friendly'
+  | 'trails-parks'
   | 'race-track'
   | 'hospital-urgent-care';
 
@@ -47,6 +47,8 @@ export interface Place {
   hoursNote?: string;
   description?: string;
   reviews?: Reviews;
+  /** Cross-cutting attribute (not a category): venue welcomes dogs. */
+  dogFriendly?: boolean;
   sourceUrl?: string;
   needsReview?: boolean;
 }

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "keuka-lake-state-park",
+    "name": "Keuka Lake State Park",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "3600 Pepper Road, Bluff Point, NY 14478",
+    "lat": 42.6159,
+    "lng": -77.1122,
+    "phone": "(315) 536-3666",
+    "website": "https://parks.ny.gov/visit/state-parks/keuka-lake-state-park",
+    "hoursNote": "Dawn to dusk year-round. Max 2 pets per day-use area or campsite; leash ≤6 ft required at all times; proof of rabies vaccination on request. Pets not permitted on guarded beaches, in buildings, or on boardwalks.",
+    "description": "NYS state park at the Y-fork of Keuka Lake offering picnicking, hiking trails, a boat launch, and 150 campsites amid vineyard-covered slopes. Leashed dogs are welcome in day-use areas and on trails under the standard NY State Parks pet policy.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/keuka-lake-state-park",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-outlet-trail",
+    "name": "Keuka Outlet Trail",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "360 Elm Street, Penn Yan, NY 14527",
+    "lat": 42.66458,
+    "lng": -77.06321,
+    "hoursNote": "Dawn to dusk; dogs must be on leash for the full length of the trail; please pack out waste.",
+    "description": "Historic 7-mile linear trail tracing the old Keuka Lake Outlet canal from Penn Yan eastward toward Dresden, passing waterfalls, mill ruins, and wildlife habitat. Well-behaved leashed dogs are welcome for the entire route.",
+    "sourceUrl": "http://bikeitorhikeit.org/keuka_outlet_trail.htm",
+    "needsReview": false
+  },
+  {
+    "id": "red-jacket-park",
+    "name": "Red Jacket Park",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "309 Lake Street, Penn Yan, NY 14527",
+    "lat": 42.650618,
+    "lng": -77.058491,
+    "phone": "(315) 536-3015",
+    "hoursNote": "Dawn to dusk; dogs on leash required; owners must clean up after pets.",
+    "description": "Village-owned lakeside park in Penn Yan offering a scenic lakeshore walk, picnic areas, and open green space along Keuka Lake's northern outlet. Leashed dogs are welcome throughout the park.",
+    "sourceUrl": "https://www.villageofpennyan.gov/parks.html",
+    "needsReview": false
+  },
+  {
+    "id": "abandon-brewing-company",
+    "name": "Abandon Brewing Company",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "2994 Merritt Hill Road, Penn Yan, NY 14527",
+    "lat": 42.64444,
+    "lng": -77.13373,
+    "phone": "(585) 208-9088",
+    "website": "https://abandonbrewing.com",
+    "hours": {
+      "mon": {
+        "open": "15:00",
+        "close": "19:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "15:00",
+        "close": "19:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "19:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Closed Tuesday; hours vary seasonally—verify at abandonbrewing.com. Partners with North Paw Rescue; hosts regular dog-friendly events.",
+    "description": "Craft brewery in a restored 1800s barn perched above Keuka Lake with an outdoor deck and sweeping lake views. Leashed dogs are enthusiastically welcomed; the brewery's rescue mascot is Trip, a three-legged dog, and owners AJ and Sarah Noto actively partner with North Paw Rescue for adoption events.",
+    "sourceUrl": "https://hornellsun.com/2025/10/28/pints-paws-purpose-at-abandon-brewing/",
+    "needsReview": false
+  },
+  {
+    "id": "keg-and-barrel-brewing",
+    "name": "Keg & Barrel Brewing Co.",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "14720 NY-54, Dundee, NY 14837",
+    "lat": 42.4897,
+    "lng": -77.1101,
+    "phone": "(607) 292-6622",
+    "website": "https://kegandbarrelbrewing.com",
+    "hoursNote": "Seasonal hours; confirm at kegandbarrelbrewing.com before visiting.",
+    "description": "Craft brewery and kitchen on the eastern shore of Keuka Lake featuring 20+ taps of beer, cider, and sours alongside flatbreads and sandwiches. Dogs are welcome on the outdoor deck with direct views of the lake.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/95490",
+    "needsReview": false
+  },
+  {
+    "id": "heron-hill-winery-keuka",
+    "name": "Heron Hill Winery",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "9301 County Route 76, Hammondsport, NY 14840",
+    "lat": 42.4505,
+    "lng": -77.1981,
+    "phone": "(607) 868-4241",
+    "website": "https://www.heronhill.com",
+    "hoursNote": "Hours vary seasonally; call ahead or check heronhill.com. Leashed pets welcome both inside at your table and on the outdoor terrace.",
+    "description": "Award-winning Keuka Lake winery on a hillside bluff above the eastern arm with panoramic views of the water and vineyards. Leashed dogs are welcomed inside the tasting room at your table and on the outdoor terrace overlooking Keuka Lake.",
+    "sourceUrl": "https://www.bringfido.com/attraction/35582",
+    "needsReview": false
+  },
+  {
+    "id": "weis-vineyards",
+    "name": "Weis Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "10014 Day Road, Hammondsport, NY 14840",
+    "lat": 42.4846976,
+    "lng": -77.1377721,
+    "phone": "(607) 284-4011",
+    "website": "https://www.weisvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "No reservations; max group size 8. Last tasting starts at 4:45 PM. Dogs welcome at shaded outdoor tables; not permitted in the formal Zell Room.",
+    "description": "Multiple New York State Winery of the Year, offering tastings in a restored 1800s schoolhouse and rustic barn with sweeping Keuka Lake views. Leashed dogs are welcome at the shaded outdoor tables overlooking the lake; not permitted in the formal Zell Room.",
+    "sourceUrl": "https://www.bringfido.com/attraction/30020",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-spring-vineyards",
+    "name": "Keuka Spring Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "243 Route 54, Penn Yan, NY 14527",
+    "lat": 42.625955,
+    "lng": -77.067284,
+    "phone": "(315) 536-3147",
+    "website": "https://keukaspringvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open daily 11:00–17:00; outdoor Pavilion open Fri–Sat evenings in season, weather permitting. Hours may vary off-season.",
+    "description": "Highly regarded estate winery on Keuka Lake's eastern shore near Penn Yan, producing award-winning wines for nearly 40 years. Well-behaved leashed dogs are welcome at the outside seating area with scenic vineyard and lake views.",
+    "sourceUrl": "https://www.bringfido.com/attraction/30021",
+    "needsReview": false
+  },
+  {
+    "id": "bully-hill-vineyards",
+    "name": "Bully Hill Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "8843 Greyton H. Taylor Memorial Drive, Hammondsport, NY 14840",
+    "lat": 42.430085,
+    "lng": -77.208577,
+    "phone": "(607) 868-3610",
+    "website": "https://www.bullyhillvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tasting room daily 10:00–17:00; lunch served in on-site restaurant. Dogs not permitted inside buildings or in the restaurant.",
+    "description": "Iconic Keuka Lake winery near Hammondsport with 40+ wines, an art gallery, the FLX Wine Museum, and panoramic views. Leashed dogs are welcome on the outdoor brick patio; not permitted inside buildings or the restaurant.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/121706",
+    "needsReview": false
+  },
+  {
+    "id": "ravines-wine-cellars-keuka",
+    "name": "Ravines Wine Cellars",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "14630 State Route 54, Hammondsport, NY 14840",
+    "lat": 42.4571,
+    "lng": -77.1959,
+    "phone": "(607) 292-7007",
+    "website": "https://ravineswine.com",
+    "hoursNote": "Seasonal tasting room hours vary; verify at ravineswine.com or call before visiting. Reservations recommended.",
+    "description": "Keuka Lake tasting room of the critically acclaimed Ravines Wine Cellars, known for classically styled Finger Lakes Riesling and Pinot Noir. Dogs are welcomed both inside the tasting room and on the patio overlooking Keuka Lake; small plates available.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/117795",
+    "needsReview": false
+  },
+  {
+    "id": "vineyard-view-winery",
+    "name": "Vineyard View Winery",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "2971 Williams Hill Road, Keuka Park, NY 14478",
+    "lat": 42.55346,
+    "lng": -77.09166,
+    "phone": "(315) 694-7262",
+    "website": "https://vineyardviewwinery.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Peak season (Memorial Day–October) daily 10:00–17:00; off-season (November–May) Thu–Mon 12:00–17:00. Leashed dogs welcome inside tasting room and on patio/lawn.",
+    "description": "Certified-sustainable family winery on Keuka Lake's east bluff with sweeping lake and vineyard views. Leashed dogs are welcome inside the tasting room and on the patio and lawn; staff is known to offer treats to visiting pups.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/119389",
+    "needsReview": false
+  },
+  {
+    "id": "tractor-supply-penn-yan",
+    "name": "Tractor Supply Co.",
+    "categories": [
+      "shopping"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "2391 State Route 14A, Penn Yan, NY 14527",
+    "lat": 42.64412,
+    "lng": -77.07899,
+    "phone": "(315) 536-5656",
+    "website": "https://www.tractorsupply.com/tsc/store_PennYan-NY-14527_2287",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Company-wide policy welcomes leashed, well-behaved pets inside all store locations.",
+    "description": "Farm and ranch supply store in Penn Yan stocking a wide range of dog food brands, treats, accessories, crates, and other pet supplies. Tractor Supply's company-wide policy welcomes leashed pets inside all store locations.",
+    "sourceUrl": "https://www.tractorsupply.com/tsc/store_PennYan-NY-14527_2287",
+    "needsReview": false
+  }
+]

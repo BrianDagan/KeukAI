@@ -64,15 +64,18 @@ Suggested core fields — extend as needed but don't rename casually:
 type Category =
   | 'winery' | 'brewery-distillery' | 'restaurant' | 'cafe'
   | 'festival-event' | 'museum-historical' | 'marina-boat-rental'
-  | 'shopping' | 'lodging-rental' | 'spa' | 'dog-friendly'
+  | 'shopping' | 'lodging-rental' | 'spa' | 'trails-parks'
   | 'race-track'
   | 'hospital-urgent-care'; // safety/emergency
 
 // Each category maps to an emoji used as its map marker + filter icon:
 //   winery 🍷  brewery-distillery 🍺  restaurant 🍽️  cafe ☕
 //   festival-event 🎪  museum-historical 🏛️  marina-boat-rental ⛵
-//   shopping 🛍️  lodging-rental 🏡  spa 💆  dog-friendly 🐶  race-track 🏁
+//   shopping 🛍️  lodging-rental 🏡  spa 💆  trails-parks 🌲  race-track 🏁
 //   hospital-urgent-care 🚑    home base (Willow Landing) ⭐
+// Dog-friendliness is NOT a category — it's a cross-cutting `dogFriendly: boolean`
+// attribute shown as 🐶 in the detail pane. The geocode pipeline converts any legacy
+// `dog-friendly` category into this flag.
 // Keep this map in one place (e.g. src/data/categoryMeta.ts) — label + emoji + color.
 
 // Per-day opening hours, 24h "HH:MM". Enables the open/closed-now logic.

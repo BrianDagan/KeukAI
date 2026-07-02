@@ -1,5 +1,26 @@
 [
   {
+    "id": "beekman-house-1897",
+    "name": "1897 Beekman House Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "39 Main Street, Dundee, NY 14837",
+    "lat": 42.5309,
+    "lng": -76.9742,
+    "phone": "(315) 412-2697",
+    "website": "https://www.1897beekmanhouse.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Elegantly restored 1897 Victorian manor in Dundee, ranked #1 B&B in the area on TripAdvisor with 350+ reviews; approximately 6 miles east of Keuka Lake and convenient to the Keuka and Seneca wine trails.",
+    "reviews": {
+      "rating": 5,
+      "count": 350
+    },
+    "sourceUrl": "https://www.1897beekmanhouse.com",
+    "needsReview": false
+  },
+  {
     "id": "18th-amendment",
     "name": "18th Amendment",
     "categories": [
@@ -43,6 +64,46 @@
     "lng": -77.0531876
   },
   {
+    "id": "second-hand-treasures",
+    "name": "2nd Hand Treasures & Antiques",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "2-4-6 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 521-2249",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": null,
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Closed Wednesday and Sunday. Hours may vary; call ahead.",
+    "description": "Small Penn Yan antique shop on lower Main Street with a well-curated selection of glassware, collectibles, and small antiques run by a knowledgeable owner.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/antique-store/2000785439-2nd-hand-treasures-antiques",
+    "needsReview": false,
+    "lat": 42.6667271,
+    "lng": -77.05727
+  },
+  {
     "id": "abandon-brewing-company",
     "name": "Abandon Brewing Company",
     "categories": [
@@ -50,8 +111,8 @@
     ],
     "lake": "Keuka",
     "address": "2994 Merritt Hill Road, Penn Yan, NY 14527",
-    "lat": 42.6772,
-    "lng": -77.0782,
+    "lat": 42.64444,
+    "lng": -77.13373,
     "phone": "(585) 208-9088",
     "website": "https://abandonbrewing.com",
     "hours": {
@@ -59,6 +120,7 @@
         "open": "15:00",
         "close": "19:00"
       },
+      "tue": null,
       "wed": {
         "open": "15:00",
         "close": "19:00"
@@ -80,14 +142,15 @@
         "close": "17:00"
       }
     },
-    "hoursNote": "Closed Tuesday; hours vary seasonally—confirm at abandonbrewing.com.",
-    "description": "Craft brewery set in a restored barn on the northwest shore of Keuka Lake near Branchport, featuring rotating small-batch ales, sours, and IPAs with stunning lake views. Outdoor beer garden with regular food truck and live music events.",
+    "hoursNote": "Closed Tuesday; hours vary seasonally—verify at abandonbrewing.com. Partners with North Paw Rescue; hosts regular dog-friendly events.",
+    "description": "Craft brewery in a restored 1800s barn perched above Keuka Lake with an outdoor deck and sweeping lake views. Leashed dogs are enthusiastically welcomed; the brewery's rescue mascot is Trip, a three-legged dog, and owners AJ and Sarah Noto actively partner with North Paw Rescue for adoption events.",
     "reviews": {
       "rating": 4.8,
       "count": 355
     },
-    "sourceUrl": "https://abandonbrewing.com",
-    "needsReview": false
+    "sourceUrl": "https://hornellsun.com/2025/10/28/pints-paws-purpose-at-abandon-brewing/",
+    "needsReview": false,
+    "dogFriendly": true
   },
   {
     "id": "abbotts-frozen-custard",
@@ -187,6 +250,27 @@
     "needsReview": false
   },
   {
+    "id": "amity-rose-bb",
+    "name": "Amity Rose Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "8264 Main Street Extension, Hammondsport, NY 14840",
+    "lat": 42.4093,
+    "lng": -77.2264,
+    "phone": "(607) 569-3402",
+    "website": "https://www.amityroseinn.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Warm family-run B&B near downtown Hammondsport hosted by proprietor Sandy; consistently praised for charming rooms, generous breakfasts, and a short walk to Keuka Lake and village restaurants.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 48
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g47853-d646384-Reviews-Amity_Rose_Bed_and_Breakfast-Hammondsport_Finger_Lakes_New_York.html",
+    "needsReview": false
+  },
+  {
     "id": "angels-family-restaurant",
     "name": "Angel's Family Restaurant",
     "categories": [
@@ -282,36 +366,126 @@
     "id": "apple-barrel-orchards",
     "name": "Apple Barrel Orchards",
     "categories": [
-      "brewery-distillery"
+      "brewery-distillery",
+      "shopping"
     ],
     "lake": "Keuka",
-    "address": "2673 Sand Hill Rd, Penn Yan, NY 14527",
-    "lat": 42.65977,
-    "lng": -77.08539,
+    "address": "2673 Sand Hill Road, Penn Yan, NY 14527",
+    "lat": 42.672,
+    "lng": -77.0788,
     "phone": "(315) 536-2744",
-    "website": "https://applebarrelorchards.com",
+    "website": "https://applebarrelorchards.com/",
     "hours": {
       "fri": {
-        "open": "15:00",
+        "open": "14:00",
         "close": "19:00"
       },
       "sat": {
         "open": "12:00",
         "close": "19:00"
-      },
-      "sun": {
-        "open": "12:00",
-        "close": "17:00"
       }
     },
-    "hoursNote": "Open Friday–Sunday only; seasonal—verify at applebarrelorchards.com.",
-    "description": "Fourth-generation family farm and cidery near Keuka Lake offering 9+ hand-crafted hard ciders on tap in a historic 1896 barn tasting room, made from estate-grown apples with no additives or sulfites. Multi-medal winner at the U.S. Open Cider Championship.",
+    "hoursNote": "Farm store and cidery open seasonally in fall (typically September–November); U-pick apples, cherries, and grapes available seasonally. Hours vary—check website before visiting.",
+    "description": "Fourth-generation family farm and cidery northwest of Penn Yan with a farm store selling local apples, craft cider, honey, maple syrup, and cheese; U-pick orchard available in season.",
     "reviews": {
       "rating": 4.9,
       "count": 98
     },
-    "sourceUrl": "https://applebarrelorchards.com/cidery",
+    "sourceUrl": "https://applebarrelorchards.com/",
     "needsReview": false
+  },
+  {
+    "id": "ardin-kay-boutique",
+    "name": "Ardin Kay Boutique",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "112 Main Street, Penn Yan, NY 14527",
+    "website": "http://ardinkayboutique.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "13:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Award-winning boutique; hours may vary. Phone not publicly listed—check website.",
+    "description": "Women's clothing boutique on Penn Yan's Main Street, named Best Women's Clothing Store in Yates County in 2024 and 2025, carrying thoughtfully curated fashion in a wide range of styles and sizes.",
+    "sourceUrl": "https://www.discoverflx.com/directory/ardin-kay-boutique/",
+    "needsReview": false,
+    "lat": 42.6612612,
+    "lng": -77.0541391
+  },
+  {
+    "id": "aroma-coffee-art-gallery",
+    "name": "Aroma Coffee Art Gallery",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Keuka",
+    "address": "60 Shethar Street, Hammondsport, NY 14840",
+    "lat": 42.4097,
+    "lng": -77.2221,
+    "phone": "(607) 569-3060",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "15:30"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "15:30"
+      },
+      "wed": {
+        "open": "08:30",
+        "close": "15:30"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "15:30"
+      },
+      "fri": {
+        "open": "08:30",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "08:30",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "08:30",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "Hours sourced from directory listings; no official website found. Confirm before visiting.",
+    "description": "Hammondsport café and gallery on Shethar Street serving specialty coffee, Mediterranean-inspired breakfast and lunch, and fresh baked goods, with rotating local artwork on the walls.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 120
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g47853-d4766107-Reviews-Aroma_Coffee_Art_Gallery-Hammondsport_Finger_Lakes_New_York.html",
+    "needsReview": true
   },
   {
     "id": "artizanns",
@@ -409,6 +583,27 @@
     "description": "Interactive public-art resource for murals, sculptures, mosaics, and other artworks around Ithaca and Tompkins County.",
     "sourceUrl": "https://www.artscapeithaca.com/",
     "needsReview": true
+  },
+  {
+    "id": "aubergine-bb",
+    "name": "Aubergine Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "311 Clinton Street, Penn Yan, NY 14527",
+    "lat": 42.6597,
+    "lng": -77.0514,
+    "phone": "(315) 719-0381",
+    "website": "https://auberginebandb.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Historic Victorian B&B in a quiet Penn Yan neighborhood with homemade breakfasts featuring fresh local ingredients; walkable to downtown shops and a short drive to Keuka Lake.",
+    "reviews": {
+      "rating": 5,
+      "count": 27
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g48378-d8291257-Reviews-Aubergine-Penn_Yan_Finger_Lakes_New_York.html",
+    "needsReview": false
   },
   {
     "id": "auburn-community-hospital",
@@ -663,11 +858,92 @@
     "hoursNote": "Restaurant, bar, and grill hours are seasonal; check the official website or call before visiting."
   },
   {
+    "id": "bee-hive-antiques",
+    "name": "Bee Hive Antiques",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "17 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-9060",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Closed Monday and Tuesday.",
+    "description": "Penn Yan antique and décor shop specializing in primitive antiques, home furnishings, gifts, and jewelry; a well-reviewed local favorite on Main Street.",
+    "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g48378-d23477056-Reviews-Bee_Hive_Antiques-Penn_Yan_Finger_Lakes_New_York.html",
+    "needsReview": false,
+    "lat": 42.6607615,
+    "lng": -77.0533036
+  },
+  {
+    "id": "best-western-hammondsport",
+    "name": "Best Western Plus The Hammondsport Hotel",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "8440 State Route 54, Hammondsport, NY 14840",
+    "lat": 42.4143,
+    "lng": -77.2207,
+    "phone": "(607) 224-4120",
+    "website": "https://www.bestwestern.com/en_US/book/hotels-in-hammondsport/best-western-plus-the-hammondsport-hotel/propertyCode.33166.html",
+    "hoursNote": "Check-in 3 pm, check-out 11 am",
+    "description": "Modern hotel on Route 54 near Hammondsport with indoor pool, outdoor fire pits, and free hot breakfast; highly rated by guests and convenient to Keuka Lake, the Keuka Wine Trail, and the Glenn H. Curtiss Museum.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 574
+    },
+    "sourceUrl": "https://www.bestwestern.com/en_US/book/hotels-in-hammondsport/best-western-plus-the-hammondsport-hotel/propertyCode.33166.html",
+    "needsReview": false
+  },
+  {
+    "id": "best-western-vineyard-inn-penn-yan",
+    "name": "Best Western Plus Vineyard Inn & Suites",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "lat": 42.6608,
+    "lng": -77.0565,
+    "phone": "(315) 536-8473",
+    "website": "https://www.vineyardinnandsuites.com",
+    "hoursNote": "Check-in 3 pm, check-out 11 am",
+    "description": "Ranked #1 hotel in Penn Yan on TripAdvisor, this Best Western offers a heated indoor pool, hot tub, fitness center, and complimentary breakfast near the Keuka Lake Wine Trail. Pet-friendly rooms available.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 1000
+    },
+    "sourceUrl": "https://www.vineyardinnandsuites.com",
+    "needsReview": false
+  },
+  {
     "id": "birdhouse-brewing-company",
     "name": "Birdhouse Brewing Company",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Honeoye",
     "address": "8716 Main Street, Honeoye, NY 14471",
@@ -707,6 +983,7 @@
     "description": "Honeoye craft brewery with food, live music, and a creekside backyard reported by pet-travel listings as dog-friendly.",
     "sourceUrl": "https://birdhousebrewing.beer/contact-us/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.789981,
     "lng": -77.5151683
   },
@@ -865,12 +1142,114 @@
     "needsReview": false
   },
   {
+    "id": "body-dynamics-massage-therapy-penn-yan",
+    "name": "Body Dynamics Massage Therapy",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "165 Main St, Penn Yan, NY 14527",
+    "lat": 42.6612,
+    "lng": -77.0543,
+    "phone": "(315) 536-2789",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": null,
+      "sun": null
+    },
+    "description": "Therapeutic massage practice at 165 Main Street, Penn Yan, open weekdays. Therapist Suzanne is known for professional sessions that clients describe as restorative.",
+    "reviews": {
+      "rating": 5,
+      "count": 1
+    },
+    "sourceUrl": "https://reviews.birdeye.com/body-dynamics-massage-therapy-170018195390126",
+    "needsReview": true
+  },
+  {
+    "id": "branchport-july4-parade-fireworks-2026",
+    "name": "Branchport Fourth of July Parade & Fireworks",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "3686 NY-54A, Branchport, NY 14418",
+    "lat": 42.5608,
+    "lng": -77.2188,
+    "phone": "",
+    "website": "https://www.iloveny.com/event/branchport-fourth-of-july-parade/80801/",
+    "hoursNote": "July 4, 2026; chicken BBQ noon, parade 2pm, live music & food trucks 7pm, fireworks 10pm",
+    "description": "The Branchport-Keuka Park Fire Department hosts Yates County's main Independence Day fireworks display on July 4, 2026. Events run through the day: drive-through chicken BBQ at noon, community parade through Branchport's four corners at 2pm, live music (Black Robin Band) and food trucks at 7pm, and fireworks launched over Keuka Lake at 10pm.",
+    "sourceUrl": "https://www.fingerlakescountrysides.com/flx-blog/july-4th-events-in-yates-county-ny/",
+    "needsReview": false
+  },
+  {
+    "id": "browsers-hammondsport",
+    "name": "Browsers",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "33 Shethar Street, Hammondsport, NY 14840",
+    "lat": 42.4077,
+    "lng": -77.2242,
+    "phone": "(607) 569-2497",
+    "website": "https://browsers.business.site/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Closed Monday and Tuesday. Hours may vary seasonally; call ahead.",
+    "description": "Two-story Keuka Lake-themed gift shop in Hammondsport's village center with locally inspired gifts, apparel, artisan crafts, and Finger Lakes souvenirs.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/hammondsport/gift-shop/2004882225-browsers",
+    "needsReview": false
+  },
+  {
     "id": "bully-hill-vineyards",
     "name": "Bully Hill Vineyards",
     "categories": [
       "winery",
       "cafe"
     ],
+    "dogFriendly": true,
     "lake": "Keuka",
     "address": "8843 Greyton H. Taylor Memorial Drive, Hammondsport, NY 14840",
     "lat": 42.430085,
@@ -1313,8 +1692,7 @@
     "id": "cb-craft-brewers",
     "name": "CB Craft Brewers",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Conesus",
     "address": "300 Village Square Boulevard, Honeoye Falls, NY 14472",
@@ -1332,6 +1710,7 @@
     "description": "Former Honeoye Falls craft brewery from the dog-friendly source list; it appears permanently closed and should not be recommended as an active dog-friendly stop.",
     "sourceUrl": "https://absolutebeer.com/news/new-york-based-cb-craft-brewers-to-close/",
     "needsReview": true,
+    "dogFriendly": true,
     "lat": 42.9522855,
     "lng": -77.5902759
   },
@@ -1504,6 +1883,27 @@
     "needsReview": false,
     "lat": 42.9033265,
     "lng": -76.8556312
+  },
+  {
+    "id": "country-comforts-bb",
+    "name": "Country Comforts Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "2915 East Valley Road, Branchport, NY 14418",
+    "lat": 42.5753,
+    "lng": -77.2014,
+    "phone": "(315) 595-2532",
+    "website": "https://countrycomfortsbandb.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Peaceful #1-rated B&B near Branchport about two miles from Keuka Lake, hosted by Brenda and Gary; celebrated for country breakfasts with fresh local eggs, warm hospitality, and a relaxing front porch.",
+    "reviews": {
+      "rating": 5,
+      "count": 54
+    },
+    "sourceUrl": "https://countrycomfortsbandb.com",
+    "needsReview": false
   },
   {
     "id": "crab-shack-restaurant-pub",
@@ -1751,7 +2151,6 @@
     "id": "deer-run-winery",
     "name": "Deer Run Winery",
     "categories": [
-      "dog-friendly",
       "winery",
       "cafe"
     ],
@@ -1792,7 +2191,8 @@
     "sourceUrl": "https://www.deerrunwinery.com/",
     "needsReview": false,
     "lat": 42.82222,
-    "lng": -77.7178
+    "lng": -77.7178,
+    "dogFriendly": true
   },
   {
     "id": "depot-park-hammondsport-boat-launch",
@@ -1908,7 +2308,6 @@
     "id": "eagle-crest-vineyards",
     "name": "Eagle Crest Vineyards",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": null,
@@ -1934,6 +2333,7 @@
     "description": "Historic Eagle Crest/O-Neh-Da vineyard near Hemlock Lake; pet-friendly visitor listings describe the property as welcoming to dogs.",
     "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.740236,
     "lng": -77.623063
   },
@@ -2178,6 +2578,27 @@
     "lng": -76.7022772
   },
   {
+    "id": "feather-tick-n-thyme",
+    "name": "Feather Tick 'N Thyme Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "7661 Tuttle Road, Prattsburgh, NY 14873",
+    "lat": 42.5229,
+    "lng": -77.2872,
+    "phone": "(607) 522-4113",
+    "website": "https://www.ftntbb.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Victorian country B&B on 220 acres between Canandaigua and Keuka Lakes near Prattsburgh (~8 miles west of Keuka); popular retreat for Finger Lakes wine country visitors and small weddings.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 11
+    },
+    "sourceUrl": "https://www.iloveny.com/listing/feather-tick-n-thyme-b%26b/44561/",
+    "needsReview": false
+  },
+  {
     "id": "finger-lakes-beer-company",
     "name": "Finger Lakes Beer Company",
     "categories": [
@@ -2229,11 +2650,60 @@
     "needsReview": false
   },
   {
+    "id": "finger-lakes-boating-museum",
+    "name": "Finger Lakes Boating Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "8231 Pleasant Valley Road, Hammondsport, NY 14840",
+    "lat": 42.39856,
+    "lng": -77.25764,
+    "phone": "(607) 569-2222",
+    "website": "https://www.flbm.org",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "description": "Dedicated to the boating heritage of the Finger Lakes, the museum showcases dozens of historically significant wooden boats, restored runabouts, and period outboard motors in a purpose-built facility directly across from Pleasant Valley Winery on Keuka Lake.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 117
+    },
+    "sourceUrl": "https://www.flbm.org/general-6",
+    "needsReview": false
+  },
+  {
     "id": "finger-lakes-distilling-company",
     "name": "Finger Lakes Distilling Company",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Seneca",
     "address": "4676 NYS Route 414, Burdett, NY 14818",
@@ -2277,6 +2747,7 @@
     },
     "sourceUrl": "https://fingerlakesdistilling.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.4200726,
     "lng": -76.8488463
   },
@@ -2402,7 +2873,6 @@
     "id": "flpp-lakefront-homes",
     "name": "FLPP Lakefront Homes",
     "categories": [
-      "dog-friendly",
       "lodging-rental"
     ],
     "lake": null,
@@ -2413,6 +2883,7 @@
     "sourceUrl": "https://www.fingerlakespremierproperties.com/",
     "needsReview": false,
     "hoursNote": "Vacation-rental availability varies by property and date; regular office hours were not verified.",
+    "dogFriendly": true,
     "lat": 42.6566996,
     "lng": -77.0549135
   },
@@ -2436,7 +2907,6 @@
     "id": "fox-run-vineyards",
     "name": "Fox Run Vineyards",
     "categories": [
-      "dog-friendly",
       "winery",
       "cafe"
     ],
@@ -2482,6 +2952,7 @@
     },
     "sourceUrl": "https://foxrunvineyards.com/tasting-room",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.6603037,
     "lng": -77.0540989
   },
@@ -2618,6 +3089,38 @@
     "needsReview": false,
     "lat": 42.8347085,
     "lng": -77.7013585
+  },
+  {
+    "id": "garrett-memorial-chapel",
+    "name": "Garrett Memorial Chapel",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "5251 Skyline Drive, Bluff Point, NY 14478",
+    "lat": 42.6135,
+    "lng": -77.109,
+    "phone": "(315) 536-3955",
+    "website": "https://www.garrettchapel.org",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "13:00",
+        "close": "16:00"
+      },
+      "wed": null,
+      "thu": {
+        "open": "13:00",
+        "close": "16:00"
+      },
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Seasonal June–September only; open Tues & Thurs 1–4 pm. Sunday nondenominational worship services July 4–Labor Day at 9 am. Grounds open during visiting hours; free admission.",
+    "description": "Norman Gothic limestone chapel built in 1931 by wine magnate Paul Garrett as a memorial to his son, listed on the National Register of Historic Places and commanding panoramic views of Keuka Lake from the Bluff Point peninsula.",
+    "sourceUrl": "https://www.garrettchapel.org/about.html",
+    "needsReview": false
   },
   {
     "id": "genesee-country-village-museum",
@@ -2897,6 +3400,27 @@
     "lng": -76.4878868
   },
   {
+    "id": "gone-with-the-wind-keuka",
+    "name": "Gone with the Wind on Keuka Lake",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "14905 West Lake Road, Pulteney, NY 14874",
+    "lat": 42.457,
+    "lng": -77.252,
+    "phone": "(607) 868-3088",
+    "website": "https://gonewiththewindonkeukalake.com",
+    "hoursNote": "Check-in 3 pm; contact property by phone for reservations",
+    "description": "Intimate 1887 Georgian stone mansion B&B on the west shore of Keuka Lake in Pulteney with themed rooms, lake-view verandas, home-cooked breakfasts, and access to a private swimming cove.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 15
+    },
+    "sourceUrl": "https://gonewiththewindonkeukalake.com",
+    "needsReview": false
+  },
+  {
     "id": "greater-ithaca-art-trail",
     "name": "Greater Ithaca Art Trail",
     "categories": [
@@ -2910,10 +3434,156 @@
     "needsReview": true
   },
   {
+    "id": "greyton-h-taylor-wine-museum",
+    "name": "Greyton H. Taylor Wine Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "8843 Greyton H. Taylor Memorial Drive, Hammondsport, NY 14840",
+    "lat": 42.430085,
+    "lng": -77.208577,
+    "phone": "(315) 403-3628",
+    "website": "https://www.bullyhillvineyards.com/about/finger-lakes-wine-museum",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "description": "Founded in 1972 by Walter S. Taylor on the original Taylor family winery site, the museum complex includes a Cooper Shop replica, two centuries of wine-making artifacts, and the Walter S. Taylor Art Gallery featuring the founder's distinctive folk-art paintings.",
+    "sourceUrl": "https://www.bullyhillvineyards.com/about/finger-lakes-wine-museum",
+    "needsReview": false
+  },
+  {
+    "id": "hammondsport-firemans-carnival-2026",
+    "name": "Hammondsport Fireman's Carnival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Champlin Beach Park, Hammondsport, NY 14840",
+    "lat": 42.4151,
+    "lng": -77.2184,
+    "phone": "",
+    "website": "https://hfd-ny.com",
+    "hoursNote": "July 2–4, 2026; rides open July 4 1pm–10pm; Fireman's Parade July 4 at 6pm; fireworks ~10:30pm",
+    "description": "The Hammondsport Fire Department's annual carnival runs July 2–4, 2026 at Champlin Beach Park, with rides, clams, sausage, salt potatoes, and carnival games. July 4 highlights include fire-truck rides for kids (11am–1pm), the Annual Fireman's Parade at 6pm, and a fireworks show over Keuka Lake at approximately 10:30pm.",
+    "sourceUrl": "https://hfd-ny.com/hammondsport-carnival-july-2nd-3rd-and-4th/",
+    "needsReview": false
+  },
+  {
+    "id": "hammondsport-music-in-the-park-2026",
+    "name": "Hammondsport Music in the Park",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Village Square, Shethar St, Hammondsport, NY 14840",
+    "lat": 42.4083,
+    "lng": -77.2236,
+    "phone": "",
+    "website": "https://hammondsport.org/",
+    "hoursNote": "Thursdays 6pm–8pm throughout July 2026; free; July 9 falls in-window",
+    "description": "Hammondsport's beloved free outdoor concert series fills the historic Village Square with live music every Thursday evening in July, 6–8pm. The July 9, 2026 performance falls within the July 4–11 stay; bring a chair or blanket for this community tradition in the heart of the village.",
+    "sourceUrl": "https://www.keukalakeassociation.org/local-events.php",
+    "needsReview": true
+  },
+  {
+    "id": "hampton-inn-penn-yan",
+    "name": "Hampton Inn by Hilton Penn Yan",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "110 Mace Street, Penn Yan, NY 14527",
+    "lat": 42.6645,
+    "lng": -77.0539,
+    "phone": "(315) 536-8202",
+    "website": "https://www.hilton.com/en/hotels/elmpyhx-hampton-penn-yan/",
+    "hoursNote": "Check-in 3 pm, check-out noon",
+    "description": "Full-service hotel on the shore of Keuka Lake in Penn Yan with free hot breakfast, indoor pool, fitness center, and lakeside patio with fire pit. Consistently rated among the top hotels in the Finger Lakes region.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 560
+    },
+    "sourceUrl": "https://www.hilton.com/en/hotels/elmpyhx-hampton-penn-yan/",
+    "needsReview": false
+  },
+  {
+    "id": "hayes-auction-barn",
+    "name": "Hayes Auction Barn & Antique Shop",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "1644 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-8818",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Hours may vary on scheduled auction days; established since 1960. Call ahead to confirm.",
+    "description": "Long-running Penn Yan antique shop and auction barn on Route 14A with furniture, collectibles, and vintage items; live auctions scheduled periodically throughout the year.",
+    "sourceUrl": "https://www.openingtimes.co/hayes-auction-barn-and-antiques-shop-penn-yan-ny",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
     "id": "hazlitt-1852-vineyards",
     "name": "Hazlitt 1852 Vineyards",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": "Seneca",
@@ -2958,6 +3628,7 @@
     },
     "sourceUrl": "https://hazlitt1852.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.5106365,
     "lng": -76.8757755
   },
@@ -3006,7 +3677,6 @@
     "id": "heron-hill-tasting-room",
     "name": "Heron Hill Tasting Room",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": "Canandaigua",
@@ -3047,6 +3717,7 @@
     "description": "Canandaigua Lake tasting room with an outdoor deck and patio where leashed dogs are welcome.",
     "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.762564,
     "lng": -77.336452
   },
@@ -3054,7 +3725,6 @@
     "id": "heron-hill-tasting-room-on-canandaigua-lake",
     "name": "Heron Hill Tasting Room on Canandaigua Lake",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": "Canandaigua",
@@ -3099,15 +3769,33 @@
     },
     "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.762564,
     "lng": -77.336452
+  },
+  {
+    "id": "heron-hill-winery-keuka",
+    "name": "Heron Hill Winery",
+    "categories": [
+      "winery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "9301 County Route 76, Hammondsport, NY 14840",
+    "lat": 42.4505,
+    "lng": -77.1981,
+    "phone": "(607) 868-4241",
+    "website": "https://www.heronhill.com",
+    "hoursNote": "Hours vary seasonally; call ahead or check heronhill.com. Leashed pets welcome both inside at your table and on the outdoor terrace.",
+    "description": "Award-winning Keuka Lake winery on a hillside bluff above the eastern arm with panoramic views of the water and vineyards. Leashed dogs are welcomed inside the tasting room at your table and on the outdoor terrace overlooking Keuka Lake.",
+    "sourceUrl": "https://www.bringfido.com/attraction/35582",
+    "needsReview": false
   },
   {
     "id": "hidden-marsh-distillery",
     "name": "Hidden Marsh Distillery",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Cayuga",
     "address": "2981 U.S. Route 20, Seneca Falls, NY 13148",
@@ -3147,6 +3835,7 @@
     "description": "Pet-friendly Martin Family craft distillery co-located with Montezuma Winery, offering small-batch spirits and tastings in Seneca Falls.",
     "sourceUrl": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.910719,
     "lng": -76.7967848
   },
@@ -3191,6 +3880,26 @@
     "lng": -77.4030253
   },
   {
+    "id": "horizon-therapeutic-massage-penn-yan",
+    "name": "Horizon Therapeutic Massage and Wellness",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "270 Lake St #4, Penn Yan, NY 14527",
+    "lat": 42.655,
+    "lng": -77.0607,
+    "phone": "(315) 694-8650",
+    "hoursNote": "By appointment only",
+    "description": "Private therapeutic massage studio in downtown Penn Yan offering relaxation and targeted bodywork. Therapist Laurie is highly praised by clients for professional, attentive, and effective massage.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 8
+    },
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/massage-therapist/1331032415-horizon-therapeutic-massage-and-wellness",
+    "needsReview": true
+  },
+  {
     "id": "hunt-country-vineyards",
     "name": "Hunt Country Vineyards",
     "categories": [
@@ -3233,6 +3942,52 @@
     "lng": -77.1724255
   },
   {
+    "id": "indian-pines-farm-market",
+    "name": "Indian Pines Farm Market",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "2406 State Route 54A, Penn Yan, NY 14527",
+    "lat": 42.6576,
+    "lng": -77.0803,
+    "phone": "(315) 536-3944",
+    "hours": {
+      "mon": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "tue": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "wed": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "thu": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "fri": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "sat": {
+        "open": "08:30",
+        "close": "17:30"
+      },
+      "sun": {
+        "open": "08:30",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open seasonally spring through mid-December; season ends with Christmas trees and holiday greenery. Hours may vary.",
+    "description": "Roadside farm market on West Lake Road (Route 54A) along the west arm of Keuka Lake, selling fresh produce, baked goods, and seasonal items including Christmas trees and holiday greens.",
+    "sourceUrl": "https://bedientfarms.com/locations/indian-pines-farm-market",
+    "needsReview": false
+  },
+  {
     "id": "inspirations-trail",
     "name": "Inspirations Trail",
     "website": "https://inspirationstrail.com/",
@@ -3248,7 +4003,6 @@
     "id": "inspire-moore-winery-vineyard",
     "name": "Inspire Moore Winery & Vineyard",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": "Canandaigua",
@@ -3290,7 +4044,8 @@
     "sourceUrl": "https://inspiremoorewinery.com/contact/",
     "needsReview": false,
     "lat": 42.6252215,
-    "lng": -77.3948381
+    "lng": -77.3948381,
+    "dogFriendly": true
   },
   {
     "id": "ira-davenport-memorial-hospital",
@@ -3490,6 +4245,24 @@
     "hoursNote": "No public Finger Lakes storefront, phone number, or boat-rental operation was verified."
   },
   {
+    "id": "keg-and-barrel-brewing",
+    "name": "Keg & Barrel Brewing Co.",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "14720 NY-54, Dundee, NY 14837",
+    "lat": 42.4897,
+    "lng": -77.1101,
+    "phone": "(607) 292-6622",
+    "website": "https://kegandbarrelbrewing.com",
+    "hoursNote": "Seasonal hours; confirm at kegandbarrelbrewing.com before visiting.",
+    "description": "Craft brewery and kitchen on the eastern shore of Keuka Lake featuring 20+ taps of beer, cider, and sours alongside flatbreads and sandwiches. Dogs are welcome on the outdoor deck with direct views of the lake.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/95490",
+    "needsReview": false
+  },
+  {
     "id": "keuka-boat-rentals",
     "name": "Keuka Boat Rentals",
     "categories": [
@@ -3558,6 +4331,134 @@
     "needsReview": false
   },
   {
+    "id": "keuka-cove-inn",
+    "name": "Keuka Cove Inn",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "1756 West Lake Road, Penn Yan, NY 14527",
+    "lat": 42.63,
+    "lng": -77.079,
+    "phone": "(315) 924-3060",
+    "website": "https://www.keukacoveinn.com",
+    "hoursNote": "Self check-in; contact property for details",
+    "description": "Boutique 17-unit hilltop motel south of Penn Yan near Keuka Lake with streaming TVs, fiber internet, guest grill, and complimentary fire pit wood; close to Keuka College and local wineries.",
+    "reviews": {
+      "rating": 5,
+      "count": 12
+    },
+    "sourceUrl": "https://www.keukacoveinn.com",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-creamery",
+    "name": "Keuka Creamery",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Keuka",
+    "address": "8471 State Route 54, Hammondsport, NY 14840",
+    "lat": 42.4263,
+    "lng": -77.2235,
+    "phone": "(607) 329-3857",
+    "website": "https://www.facebook.com/TheKeukaCreamery/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Seasonal operation, typically April–October; hours from directory listings (noon–8 PM). Confirm current hours on Facebook before visiting.",
+    "description": "Seasonal soft-serve and hard ice cream stand on Route 54 north of Hammondsport, offering Dole Whip, milkshakes, bagels, and coffee. Drive-thru available; family-run and dog-friendly.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 85
+    },
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/hammondsport/ice-cream-shop/2032902338-keuka-creamery",
+    "needsReview": true
+  },
+  {
+    "id": "keuka-lake-motel",
+    "name": "Keuka Lake Motel",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "14720 State Route 54, Dundee, NY 14837",
+    "lat": 42.4168,
+    "lng": -77.178,
+    "phone": "(607) 292-6622",
+    "website": "https://keukalakemotel.com",
+    "hoursNote": "Self check-in available; contact for details",
+    "description": "Waterfront budget motel on the eastern shore of Keuka Lake with on-site Keg & Barrel Brewing Company taproom; located across from a public boat launch near Ravines Winery.",
+    "reviews": {
+      "rating": 3.4,
+      "count": 26
+    },
+    "sourceUrl": "https://keukalakemotel.com",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-lake-ring-of-fire-2026",
+    "name": "Keuka Lake Ring of Fire (Flares Around Keuka Lake)",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Keuka Lake shoreline (lake-wide), NY",
+    "lat": 42.525,
+    "lng": -77.185,
+    "phone": "",
+    "website": "https://www.keukalakeassociation.org/event.php?id=48",
+    "hoursNote": "July 4, 2026 at 9:30pm; annual tradition coordinated by Keuka Lake Association",
+    "description": "Each July 4th at 9:30pm, residents and visitors around the entire shoreline simultaneously light red emergency flares, tracing Keuka Lake's unique Y-shape in a ring of light lasting roughly 30 minutes. This beloved tradition, coordinated by the Keuka Lake Association, is visible from any point on the water or shoreline.",
+    "sourceUrl": "https://www.keukalakeassociation.org/event.php?id=48",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-lake-state-park",
+    "name": "Keuka Lake State Park",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "3600 Pepper Road, Bluff Point, NY 14478",
+    "lat": 42.6159,
+    "lng": -77.1122,
+    "phone": "(315) 536-3666",
+    "website": "https://parks.ny.gov/visit/state-parks/keuka-lake-state-park",
+    "hoursNote": "Dawn to dusk year-round. Max 2 pets per day-use area or campsite; leash ≤6 ft required at all times; proof of rabies vaccination on request. Pets not permitted on guarded beaches, in buildings, or on boardwalks.",
+    "description": "NYS state park at the Y-fork of Keuka Lake offering picnicking, hiking trails, a boat launch, and 150 campsites amid vineyard-covered slopes. Leashed dogs are welcome in day-use areas and on trails under the standard NY State Parks pet policy.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/keuka-lake-state-park",
+    "needsReview": false
+  },
+  {
     "id": "keuka-lake-state-park-boat-launch",
     "name": "Keuka Lake State Park Boat Launch",
     "categories": [
@@ -3579,6 +4480,23 @@
     "needsReview": false
   },
   {
+    "id": "keuka-lake-state-park-campground",
+    "name": "Keuka Lake State Park Campground",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "3560 Pepper Road, Bluff Point, NY 14478",
+    "lat": 42.5507,
+    "lng": -77.1052,
+    "phone": "(315) 536-3666",
+    "website": "https://parks.ny.gov/parks/keukalake",
+    "hoursNote": "Open mid-May through mid-October; reserve sites at reserveamerica.com or by calling the park",
+    "description": "NYS campground on Keuka Lake's west bluff peninsula with electric and non-electric tent/RV sites, restrooms with showers, and direct lake access; popular for swimming, boating, and fishing.",
+    "sourceUrl": "https://parks.ny.gov/parks/keukalake",
+    "needsReview": false
+  },
+  {
     "id": "keuka-lake-vineyards",
     "name": "Keuka Lake Vineyards",
     "categories": [
@@ -3594,6 +4512,43 @@
     "description": "Small estate winery on Keuka Lake's south shore specializing in premium dry wines, produced with a focus on sustainable viticulture in the Finger Lakes tradition.",
     "sourceUrl": "https://klvineyards.com/contact/",
     "needsReview": true
+  },
+  {
+    "id": "keuka-lakeside-inn",
+    "name": "Keuka Lakeside Inn",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "24 Water Street, Hammondsport, NY 14840",
+    "lat": 42.4081,
+    "lng": -77.2257,
+    "phone": "(607) 569-2600",
+    "website": "https://keukalakesideinn.com",
+    "hoursNote": "Check-in 3 pm; contact property for details",
+    "description": "Family-owned inn with 17 rooms and 230 feet of private Keuka Lake frontage in the heart of Hammondsport; #1-rated hotel in Hammondsport on TripAdvisor, ideal for fishing, kayaking, and walking to village shops.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 720
+    },
+    "sourceUrl": "https://keukalakesideinn.com",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-outlet-trail",
+    "name": "Keuka Outlet Trail",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "360 Elm Street, Penn Yan, NY 14527",
+    "lat": 42.66458,
+    "lng": -77.06321,
+    "hoursNote": "Dawn to dusk; dogs must be on leash for the full length of the trail; please pack out waste.",
+    "description": "Historic 7-mile linear trail tracing the old Keuka Lake Outlet canal from Penn Yan eastward toward Dresden, passing waterfalls, mill ruins, and wildlife habitat. Well-behaved leashed dogs are welcome for the entire route.",
+    "sourceUrl": "http://bikeitorhikeit.org/keuka_outlet_trail.htm",
+    "needsReview": false
   },
   {
     "id": "keuka-overlook-wine-cellars",
@@ -3621,6 +4576,23 @@
     "description": "Premium hilltop winery and bed-and-breakfast perched on a ridge with panoramic views of both Keuka Lake and Waneta Lake, producing award-winning New York State wines.",
     "sourceUrl": "http://www.keukaoverlook.com",
     "needsReview": true
+  },
+  {
+    "id": "keuka-peaceful-roots-hammondsport",
+    "name": "Keuka Peaceful Roots",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "49 Shethar Street, 2nd Floor, Hammondsport, NY 14840",
+    "lat": 42.4098,
+    "lng": -77.2234,
+    "phone": "(607) 794-2278",
+    "website": "https://www.keukapeacefulroots.com",
+    "hoursNote": "By appointment for massage; contact for class schedules",
+    "description": "Community wellness center in downtown Hammondsport offering yoga classes, guided meditation, therapeutic massage, bodywork, somatic healing, and Taiji for all ages and ability levels.",
+    "sourceUrl": "https://www.keukapeacefulroots.com/",
+    "needsReview": false
   },
   {
     "id": "keuka-restaurant",
@@ -3678,6 +4650,7 @@
     "categories": [
       "winery"
     ],
+    "dogFriendly": true,
     "lake": "Keuka",
     "address": "243 Route 54, Penn Yan, NY 14527",
     "lat": 42.625955,
@@ -3717,6 +4690,47 @@
     "hoursNote": "Open daily 11:00–17:00. Outdoor Pavilion open Friday and Saturday evenings 18:00–21:00 in season, weather dependent. Hours may vary in the off-season.",
     "description": "Family-owned estate winery on Keuka Lake's east shore offering daily tastings, a wine club, and a seasonal outdoor concert pavilion open on summer evenings.",
     "sourceUrl": "https://keukaspringvineyards.com",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-trail-farm-market",
+    "name": "Keuka Trail Farm Market",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "3554 Darbys Corners Road, Branchport, NY 14418",
+    "lat": 42.5914,
+    "lng": -77.1456,
+    "phone": "(315) 694-2934",
+    "website": "https://ktfmproducts.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Closed Sunday and Monday. After-hours appointments available for shed and building purchases by calling ahead.",
+    "description": "Branchport farm market on Keuka Lake's west arm selling honey, organic produce, farm goods, and storage buildings; also operates a satellite location in Hammondsport.",
+    "sourceUrl": "https://ktfmproducts.com/",
     "needsReview": false
   },
   {
@@ -3792,11 +4806,54 @@
     "lng": -77.0071032
   },
   {
+    "id": "knapp-and-co-salon-day-spa-penn-yan",
+    "name": "Knapp and Co. Salon & Day Spa",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "2 Main St, Penn Yan, NY 14527",
+    "lat": 42.661,
+    "lng": -77.0535,
+    "phone": "(315) 536-6637",
+    "website": "https://www.facebook.com/knappandcompany",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "14:00"
+      },
+      "sun": null
+    },
+    "description": "Downtown Penn Yan day spa and salon offering facials, chemical peels, Reiki, Raindrop essential-oil treatments, acupuncture, and full hair and beauty services. Listed by the Yates County Chamber of Commerce under Health, Wellness & Personal Care.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 18
+    },
+    "sourceUrl": "https://business.yatesny.com/list/member/knapp-and-co-salon-day-spa-968",
+    "needsReview": false
+  },
+  {
     "id": "krooked-tusker-distillery",
     "name": "Krooked Tusker Distillery",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Keuka",
     "address": "10303 County Route 76, Hammondsport, NY 14840",
@@ -3830,6 +4887,7 @@
     "description": "West-side Keuka Lake distillery with small-batch spirits, cocktails, tastings, and panoramic lake views.",
     "sourceUrl": "https://www.krookedtusker.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.4906791,
     "lng": -77.1901311
   },
@@ -3949,7 +5007,6 @@
     "id": "lakewood-vineyards",
     "name": "Lakewood Vineyards",
     "categories": [
-      "dog-friendly",
       "winery"
     ],
     "lake": "Seneca",
@@ -3990,6 +5047,7 @@
     "description": "Watkins Glen winery on Seneca Lake that welcomes dogs in outdoor areas.",
     "sourceUrl": "https://lakewoodvineyards.com/contact-us/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.3810555,
     "lng": -76.8705777
   },
@@ -3998,8 +5056,7 @@
     "name": "Lamoreaux Landing Wine Cellars",
     "categories": [
       "museum-historical",
-      "winery",
-      "dog-friendly"
+      "winery"
     ],
     "lake": "Seneca",
     "address": "9224 NY-414, Lodi, NY 14860",
@@ -4039,6 +5096,7 @@
     "description": "Estate winery on the east side of Seneca Lake offering tastings of estate-grown wines with panoramic lake views. Its building was designed to resemble a Greek Revival temple.",
     "sourceUrl": "https://lamoreauxwine.com/visit/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.5741209,
     "lng": -76.8574242
   },
@@ -4134,6 +5192,77 @@
     "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
     "sourceUrl": "https://inspirationstrail.com/about",
     "needsReview": true
+  },
+  {
+    "id": "longs-cards-and-books",
+    "name": "Longs' Cards and Books",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "115 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-3131",
+    "website": "http://longscardsandbooks.com/",
+    "hours": {
+      "mon": {
+        "open": "08:30",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "08:30",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "08:30",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "08:30",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "08:30",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:30"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "description": "Downtown Penn Yan variety store selling books, cards, gifts, toys, office supplies, and local novelties; a longtime Main Street staple open seven days a week.",
+    "reviews": {
+      "rating": 3.8,
+      "count": 4
+    },
+    "sourceUrl": "http://longscardsandbooks.com/",
+    "needsReview": false,
+    "lat": 42.6613978,
+    "lng": -77.0537519
+  },
+  {
+    "id": "los-gatos-bb",
+    "name": "Los Gatos Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "1491 Route 14A, Penn Yan, NY 14527",
+    "lat": 42.673,
+    "lng": -77.052,
+    "phone": "(315) 536-0686",
+    "website": "https://losgatosbandb.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Perennially top-rated B&B north of Penn Yan offering rooms in the main house and private log cabins; acclaimed for outstanding gourmet breakfasts, scenic decks, and stargazing on the grounds.",
+    "reviews": {
+      "rating": 5,
+      "count": 400
+    },
+    "sourceUrl": "https://losgatosbandb.com",
+    "needsReview": false
   },
   {
     "id": "love-geneva-mural",
@@ -4356,6 +5485,27 @@
     "lng": -76.8733908
   },
   {
+    "id": "microtel-wyndham-penn-yan",
+    "name": "Microtel by Wyndham Penn Yan Finger Lakes Region",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "124 Elm Street, Penn Yan, NY 14527",
+    "lat": 42.6605,
+    "lng": -77.0543,
+    "phone": "(315) 517-1074",
+    "website": "https://www.wyndhamhotels.com/microtel/penn-yan-new-york/microtel-inn-and-suites-penn-yan/overview",
+    "hoursNote": "Check-in 3 pm, check-out 11 am",
+    "description": "Budget-friendly Wyndham hotel in downtown Penn Yan with complimentary breakfast and indoor pool; a convenient and well-reviewed base for exploring Keuka Lake and area wineries.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 700
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g48378-d8460718-Reviews-Microtel_by_Wyndham_Penn_Yan_Finger_Lakes_Region-Penn_Yan_Finger_Lakes_New_York.html",
+    "needsReview": false
+  },
+  {
     "id": "mill-art-center-gallery",
     "name": "Mill Art Center & Gallery",
     "categories": [
@@ -4520,6 +5670,46 @@
     "description": "Amish-style restaurant and bakery on Route 14A near Penn Yan. Serves traditional dishes like chicken pot pie and shoofly pie alongside freshly baked breads and pastries.",
     "sourceUrl": "https://www.zmenu.com/millers-essenhaus-restaurant-and-bakery-penn-yan-online-menu/",
     "needsReview": false
+  },
+  {
+    "id": "millys-pantry",
+    "name": "Milly's Pantry Market & Café",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "19 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-7350",
+    "website": "https://www.millyspantry.org/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "description": "Penn Yan market, café, and artisan shop selling locally made jams, pickles, sauces, baked goods, Keuka Lake souvenirs, handwoven baskets, jewelry, and espresso drinks from a restored Main Street storefront with an old-fashioned soda fountain.",
+    "sourceUrl": "https://www.millyspantry.org/Store-and-Cafe.html",
+    "needsReview": false,
+    "lat": 42.6608288,
+    "lng": -77.0533198
   },
   {
     "id": "morgan-marine",
@@ -4775,8 +5965,7 @@
     "id": "no-bs-brew-company",
     "name": "No BS Brew Company",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Conesus",
     "address": "3474 Bronson Hill Road, Livonia, NY 14487",
@@ -4816,6 +6005,7 @@
     "description": "Livonia brewery near Conesus Lake with a large tap list, food options, and reported leashed-dog-friendly spaces.",
     "sourceUrl": "https://www.bsbrewcompany.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.8337682,
     "lng": -77.6919168
   },
@@ -4823,8 +6013,7 @@
     "id": "noble-shepherd-craft-brewery",
     "name": "Noble Shepherd Craft Brewery",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Canandaigua",
     "address": "7853 State Route 20A, Bloomfield, NY 14469",
@@ -4855,6 +6044,7 @@
     "description": "Bloomfield craft brewery with food service; pet-travel listings report dogs are welcome in the taproom and outdoor patio.",
     "sourceUrl": "https://www.nobleshepherdbrewery.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.8950641,
     "lng": -77.4347128
   },
@@ -4981,11 +6171,57 @@
     "lng": -77.0540989
   },
   {
+    "id": "opera-house-antiques",
+    "name": "Opera House Antiques",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "61-63 Shethar Street, Hammondsport, NY 14840",
+    "lat": 42.4083,
+    "lng": -77.2244,
+    "phone": "(607) 569-3525",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Closed Tuesdays. Hours may vary seasonally.",
+    "description": "Antique shop occupying Hammondsport's historic opera house building, with a curated selection of furniture, glassware, collectibles, and vintage finds displayed across spacious rooms.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 6
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g47853-d3747979-Reviews-Opera_House_Antiques-Hammondsport_Finger_Lakes_New_York.html",
+    "needsReview": false
+  },
+  {
     "id": "osb-ciderworks",
     "name": "OSB Ciderworks",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Conesus",
     "address": "5901 Big Tree Road, Lakeville, NY 14480",
@@ -5019,8 +6255,26 @@
     "description": "Lakeville cidery also known as Original Stump Blower Ciderworks; pet-friendly listings report dogs are welcome indoors and outdoors.",
     "sourceUrl": "https://www.bringfido.com/restaurant/80370",
     "needsReview": true,
+    "dogFriendly": true,
     "lat": 42.83517,
     "lng": -77.6987144
+  },
+  {
+    "id": "outlaw-speedway",
+    "name": "Outlaw Speedway",
+    "categories": [
+      "race-track"
+    ],
+    "lake": "Keuka",
+    "address": "82 Main St, Dundee, NY 14837",
+    "lat": 42.5176,
+    "lng": -76.9743,
+    "phone": "(607) 678-4044",
+    "website": "https://outlawspeedwayllc.com/",
+    "hoursNote": "Race nights typically Friday evenings, April through October; Thursday Night Thunder special events scheduled periodically — check website for full seasonal calendar.",
+    "description": "A 4/10-mile semi-banked clay dirt oval in Dundee (Yates County), formerly Black Rock Speedway and now one of New York's premier weekly dirt-track venues. Friday-night programs feature Modifieds, Crate Sportsman, Street Stocks, Sprint Cars, and 4-Cylinders; major specials include the Short Track Super Series and the annual $25,000 Fireworks Spectacular.",
+    "sourceUrl": "https://www.outlawspeedwayllc.com/",
+    "needsReview": false
   },
   {
     "id": "parkers-grille-tap-house",
@@ -5063,6 +6317,44 @@
       "count": 294
     },
     "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/miscellaneous/2027559306-parker-s-grille-penn-yan",
+    "needsReview": false
+  },
+  {
+    "id": "peak-performance-therapeutic-massage-penn-yan",
+    "name": "Peak Performance Therapeutic Massage",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "110 Main St, Penn Yan, NY 14527",
+    "lat": 42.6627,
+    "lng": -77.0531,
+    "phone": "(315) 759-9109",
+    "website": "https://peakperformancetm.amtamembers.com",
+    "hoursNote": "By appointment only",
+    "description": "Licensed massage therapist Jackie Bauda offers deep tissue, Swedish, hot stone, sports, trigger point, myofascial release, and reflexology massage in Penn Yan. Gift certificates available.",
+    "reviews": {
+      "rating": 5,
+      "count": 3
+    },
+    "sourceUrl": "https://peakperformancetm.amtamembers.com",
+    "needsReview": false
+  },
+  {
+    "id": "penn-yan-farmers-market-2026",
+    "name": "Penn Yan Farmers' Market (Yates County Cooperative Farm and Craft Market)",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "417 Liberty St., Penn Yan, NY 14527",
+    "lat": 42.6633,
+    "lng": -77.0545,
+    "phone": "",
+    "website": "https://www.fingerlakes1.com/2026/05/29/penn-yan-farmers-market-marks-50-years-with-move-and-vendor-recruitment-effort/",
+    "hoursNote": "Saturdays 9am–1pm; season opens June 20, 2026; open July 4 & July 11",
+    "description": "The Penn Yan Farmers' Market celebrates its 50th season in 2026, moving to the Yates County Office Building parking lot at 417 Liberty St. This producer-only market runs every Saturday 9am–1pm through late fall, offering local produce, meats, baked goods, and crafts — open on both July 4 and July 11 during the stay.",
+    "sourceUrl": "https://www.fingerlakes1.com/2026/06/19/penn-yan-farmers-market-opens-50th-season-in-new-location/",
     "needsReview": false
   },
   {
@@ -5132,6 +6424,7 @@
     "id": "pleasant-valley-inn",
     "name": "Pleasant Valley Inn",
     "categories": [
+      "lodging-rental",
       "restaurant"
     ],
     "lake": "Keuka",
@@ -5140,6 +6433,14 @@
     "lng": -77.2616,
     "phone": "(607) 569-2282",
     "website": "https://pleasantvalleyinn.com/",
+    "hoursNote": "The Pub open Thu–Sun 4–10pm (kitchen closes 9pm); seasonal operation May–October only. Closed Mon–Wed.",
+    "description": "Charming country inn and pub on Route 54 near the south end of Keuka Lake. Serves pub fare made with local ingredients alongside New York wines and craft beers.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 35
+    },
+    "sourceUrl": "https://pleasantvalleyinn.com/the-pub/",
+    "needsReview": true,
     "hours": {
       "thu": {
         "open": "16:00",
@@ -5157,11 +6458,7 @@
         "open": "16:00",
         "close": "22:00"
       }
-    },
-    "hoursNote": "The Pub open Thu–Sun 4–10pm (kitchen closes 9pm); seasonal operation May–October only. Closed Mon–Wed.",
-    "description": "Charming country inn and pub on Route 54 near the south end of Keuka Lake. Serves pub fare made with local ingredients alongside New York wines and craft beers.",
-    "sourceUrl": "https://pleasantvalleyinn.com/the-pub/",
-    "needsReview": true
+    }
   },
   {
     "id": "pleasant-valley-wine-company",
@@ -5261,6 +6558,49 @@
     "needsReview": false,
     "lat": 42.4079347,
     "lng": -77.2236302
+  },
+  {
+    "id": "polishing-touches-penn-yan",
+    "name": "Polishing Touches",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "6 Bush Park, Penn Yan, NY 14527",
+    "lat": 42.6625,
+    "lng": -77.0515,
+    "phone": "(315) 536-1200",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "13:00"
+      },
+      "sun": null
+    },
+    "description": "Full-service Penn Yan salon offering facials, waxing, massage therapy, manicures, pedicures, and tanning in a spa-like atmosphere.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 24
+    },
+    "sourceUrl": "https://reviews.birdeye.com/polishing-touches-nail-salon-167915746456018",
+    "needsReview": true
   },
   {
     "id": "pops-bakery-deli",
@@ -5404,6 +6744,7 @@
     "categories": [
       "winery"
     ],
+    "dogFriendly": true,
     "lake": "Keuka",
     "address": "14630 State Route 54, Hammondsport, NY 14840",
     "lat": 42.4571,
@@ -5457,11 +6798,27 @@
     }
   },
   {
+    "id": "red-jacket-park",
+    "name": "Red Jacket Park",
+    "categories": [
+      "trails-parks"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "309 Lake Street, Penn Yan, NY 14527",
+    "lat": 42.650618,
+    "lng": -77.058491,
+    "phone": "(315) 536-3015",
+    "hoursNote": "Dawn to dusk; dogs on leash required; owners must clean up after pets.",
+    "description": "Village-owned lakeside park in Penn Yan offering a scenic lakeshore walk, picnic areas, and open green space along Keuka Lake's northern outlet. Leashed dogs are welcome throughout the park.",
+    "sourceUrl": "https://www.villageofpennyan.gov/parks.html",
+    "needsReview": false
+  },
+  {
     "id": "relative-risk-brewing",
     "name": "Relative Risk Brewing",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Seneca",
     "address": "1166 Earls Hill Road, Penn Yan, NY 14527",
@@ -5489,6 +6846,7 @@
     "description": "Family-friendly craft brewery on Earls Hill Road with local ingredients, picnic space, and reported dog-friendly amenities.",
     "sourceUrl": "https://www.relativeriskbrewing.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.7584095,
     "lng": -76.9874047
   },
@@ -5612,8 +6970,7 @@
     "id": "rising-storm-brewing-company",
     "name": "Rising Storm Brewing Company",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Conesus",
     "address": "5750 South Lima Road, Avon, NY 14414",
@@ -5647,6 +7004,7 @@
     "description": "Rising Storm's Livonia/Avon taproom sits on a 12-acre property; visitor listings describe its outdoor areas as dog-friendly.",
     "sourceUrl": "https://www.risingstormbrewing.com/rsbc-livonia/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.8550204,
     "lng": -77.7062297
   },
@@ -5698,11 +7056,51 @@
     "needsReview": false
   },
   {
+    "id": "route-54-antiques",
+    "name": "Route 54 Antiques",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "1888 Stiles Road, Penn Yan, NY 14527",
+    "phone": "(315) 694-2657",
+    "website": "https://route54antiques.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Seasonal, typically open April through October. Closed Monday and Tuesday. Call ahead in shoulder months.",
+    "description": "Multi-dealer antique shop with 5,000 sq ft of furniture, primitives, collectibles, glassware, and vintage items; open seasonally April through October.",
+    "sourceUrl": "https://route54antiques.com/",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
     "id": "sampson-state-park",
     "name": "Sampson State Park",
     "categories": [
-      "museum-historical",
-      "dog-friendly"
+      "museum-historical"
     ],
     "lake": "Seneca",
     "address": "6096 Route 96A, Romulus, NY 14541",
@@ -5736,8 +7134,26 @@
         "close": "15:00"
       }
     },
+    "dogFriendly": true,
     "lat": 42.7520803,
     "lng": -76.833708
+  },
+  {
+    "id": "saunders-finger-lakes-museum",
+    "name": "Saunders Finger Lakes Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "3369 Guyanoga Road, Branchport, NY 14418",
+    "lat": 42.637,
+    "lng": -77.1546,
+    "phone": "(315) 595-2200",
+    "website": "https://www.fingerlakesmuseum.org",
+    "hoursNote": "Indoor exhibit building under construction; 30-acre outdoor campus open dawn–dusk year-round with wetland boardwalks, nature trails, and lakeside pavilion. Seasonal guided programs available.",
+    "description": "Museum-in-development on a 30-acre lakeside campus at the north end of Keuka Lake offering wetland boardwalks, nature trails, and year-round ecological and cultural heritage programs about the Finger Lakes region.",
+    "sourceUrl": "https://www.fingerlakesmuseum.org/visit/",
+    "needsReview": true
   },
   {
     "id": "scuteris-cannoli-connection",
@@ -5930,6 +7346,52 @@
     "description": "Culinary salt brand with an official online presence; public visitor details were not verified.",
     "sourceUrl": "https://senecasalt.com/",
     "needsReview": true
+  },
+  {
+    "id": "service-station-flx",
+    "name": "Service Station FLX",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Keuka",
+    "address": "43 Main Street, Hammondsport, NY 14840",
+    "lat": 42.4098,
+    "lng": -77.225,
+    "phone": "(607) 377-0221",
+    "website": "https://www.servicestationflx.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "15:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "15:00"
+      }
+    },
+    "description": "Bike-friendly coffee roastery and café on Hammondsport's Main Street, opened April 2025 by Keuka Lake cyclists. Serves in-house roasted espresso drinks, breakfast wraps, avocado toast, and paninis.",
+    "sourceUrl": "https://keukasun.com/2025/11/05/small-business-feature-service-station-flx-in-hammondsport-opened-in-april-2025/",
+    "needsReview": false
   },
   {
     "id": "shoreline-rentals-penn-yan",
@@ -6152,8 +7614,7 @@
     "id": "snug-harbor-restaurant",
     "name": "Snug Harbor Restaurant",
     "categories": [
-      "restaurant",
-      "dog-friendly"
+      "restaurant"
     ],
     "lake": "Keuka",
     "address": "9068A Snug Harbor Dr, Hammondsport, NY 14840",
@@ -6187,6 +7648,7 @@
     },
     "sourceUrl": "https://www.snugharborkeukalake.com/contact",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.4079347,
     "lng": -77.2236302
   },
@@ -6388,6 +7850,7 @@
     "id": "spotted-duck",
     "name": "Spotted Duck",
     "categories": [
+      "cafe",
       "restaurant"
     ],
     "lake": "Keuka",
@@ -6436,8 +7899,7 @@
     "name": "Staving Artist Woodwork",
     "categories": [
       "museum-historical",
-      "shopping",
-      "dog-friendly"
+      "shopping"
     ],
     "lake": "Keuka",
     "address": "101 Main Street, Penn Yan, NY 14527",
@@ -6471,6 +7933,7 @@
       },
       "sun": null
     },
+    "dogFriendly": true,
     "lat": 42.661103,
     "lng": -77.0535
   },
@@ -6586,6 +8049,23 @@
     "needsReview": false
   },
   {
+    "id": "stony-brook-gift-company",
+    "name": "Stony Brook Gift Company",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "68 Shethar Street, Hammondsport, NY 14840",
+    "lat": 42.4085,
+    "lng": -77.2241,
+    "phone": "(607) 224-4075",
+    "website": "https://www.etsy.com/shop/StonyBrookGiftco",
+    "hoursNote": "Hours vary seasonally; call ahead or check Etsy shop for current availability.",
+    "description": "Hammondsport boutique gift shop on Shethar Street with handmade and locally crafted items; also sells through its Etsy shop.",
+    "sourceUrl": "https://placewing.com/stony-brook-gift-company-14840/",
+    "needsReview": true
+  },
+  {
     "id": "sudsys-hot-sauce",
     "name": "Sudsy's Hot Sauce",
     "categories": [
@@ -6668,6 +8148,28 @@
     "lng": -77.0527919
   },
   {
+    "id": "black-sheep-inn-spa",
+    "name": "The Black Sheep Inn and Spa",
+    "categories": [
+      "lodging-rental",
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "8329 Pleasant Valley Rd, Hammondsport, NY 14840",
+    "lat": 42.4047,
+    "lng": -77.2436,
+    "phone": "(607) 569-3767",
+    "website": "https://www.stayblacksheepinn.com",
+    "hoursNote": "Spa by appointment; book when reserving room or at least 72 hours in advance",
+    "description": "Historic 19th-century octagon house B&B on the outskirts of Hammondsport offering Swedish, hot stone, and deep tissue massage by licensed therapists in a tranquil vegan-friendly inn. Spa services are available to guests and can be booked with accommodations.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 320
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Hotel_Review-g47853-d784615-Reviews-The_Black_Sheep_Inn_And_Spa-Hammondsport_Finger_Lakes_New_York.html",
+    "needsReview": false
+  },
+  {
     "id": "the-boat-yard-grill",
     "name": "The Boatyard Grill",
     "categories": [
@@ -6710,11 +8212,57 @@
     }
   },
   {
+    "id": "cinnamon-stick-hammondsport",
+    "name": "The Cinnamon Stick",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "26 Mechanic Street, Hammondsport, NY 14840",
+    "lat": 42.4068,
+    "lng": -77.223,
+    "phone": "(607) 569-2277",
+    "website": "http://www.cinnamonstick.com",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Year-round; hours may vary around major holidays.",
+    "description": "Year-round gourmet gift shop in Hammondsport's village square with two floors of collectibles, gourmet foods, candles, cards, and unique gifts.",
+    "sourceUrl": "https://www.manta.com/c/mmgxxjv/cinnamon-stick",
+    "needsReview": false
+  },
+  {
     "id": "the-cove",
     "name": "The Cove",
     "categories": [
-      "restaurant",
-      "dog-friendly"
+      "restaurant"
     ],
     "lake": "Canandaigua",
     "address": "205 Lakeshore Drive, Canandaigua, NY 14424",
@@ -6754,8 +8302,52 @@
     "description": "Contemporary American restaurant at Hotel Canandaigua with lake views, a wraparound patio, seasonal Finger Lakes ingredients, and cocktails.",
     "sourceUrl": "https://www.hotelcanandaiguany.com/dining",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.8727871,
     "lng": -77.2558081
+  },
+  {
+    "id": "flower-cart-gift-shoppe",
+    "name": "The Flower Cart & Gift Shoppe",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "134 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-7136",
+    "website": "https://flowercartandgiftshoppe.com",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "14:00"
+      },
+      "sun": null
+    },
+    "description": "Penn Yan florist and gift shop on upper Main Street with custom floral arrangements and unique gift selections for all occasions.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/florist/6824303-the-flower-cart-and-gift-shoppe",
+    "needsReview": false,
+    "lat": 42.6617128,
+    "lng": -77.0543666
   },
   {
     "id": "the-gallery-in-the-valley",
@@ -6771,6 +8363,58 @@
     "sourceUrl": "https://www.visitgeneseo.com/arts-culture-directory/gallery-in-the-valley",
     "lat": 42.7963075,
     "lng": -77.8165485
+  },
+  {
+    "id": "keuka-candy-emporium",
+    "name": "The Keuka Candy Emporium",
+    "categories": [
+      "cafe",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "131 Main Street, Penn Yan, NY 14527",
+    "lat": 42.6611,
+    "lng": -77.0549,
+    "phone": "(315) 531-4700",
+    "website": "https://www.keukacandyemporium.com/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; confirm via website.",
+    "description": "Old-fashioned candy shop on Penn Yan's Main Street offering handmade chocolates, nostalgic bulk candy, taffy, and ice cream in a classic soda-fountain atmosphere.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 37
+    },
+    "sourceUrl": "https://www.keukacandyemporium.com/",
+    "needsReview": false
   },
   {
     "id": "the-lake-house-on-canandaigua-lake",
@@ -6795,9 +8439,31 @@
     "lng": -77.2742877
   },
   {
+    "id": "laurentide-inn",
+    "name": "The Laurentide Inn",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "158 Main Street, Penn Yan, NY 14527",
+    "lat": 42.6617,
+    "lng": -77.0542,
+    "phone": "(315) 719-3445",
+    "website": "https://thelaurentideinn.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Beautifully renovated historic B&B in downtown Penn Yan with multicourse gourmet breakfasts and a direct connection to Laurentide Brewing Company next door. Formerly the Fox Inn.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 235
+    },
+    "sourceUrl": "https://thelaurentideinn.com",
+    "needsReview": false
+  },
+  {
     "id": "mansion-at-keuka-lake",
     "name": "The Mansion at Keuka Lake",
     "categories": [
+      "lodging-rental",
       "restaurant"
     ],
     "lake": "Keuka",
@@ -6808,52 +8474,55 @@
     "website": "https://themansionny.com/",
     "hoursNote": "Open for lunch and dinner Wed–Sun; closed Mon–Tue. Reservations strongly recommended. Check OpenTable or call for current times.",
     "description": "Upscale Greek Revival mansion perched above Keuka Lake at Keuka Park, formerly known as Esperanza Mansion. Chef-inspired seasonal menus, Finger Lakes wines, and panoramic lake views.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 239
+    },
     "sourceUrl": "https://www.opentable.com/r/the-mansion-at-keuka-lake-keuka-park",
     "needsReview": true
   },
   {
-    "id": "the-new-york-kitchen",
-    "name": "The New York Kitchen",
-    "address": "800 South Main Street, Canandaigua, NY 14424",
-    "phone": "(585) 394-7070",
-    "website": "https://nykitchen.com/",
+    "id": "the-nest-egg",
+    "name": "The Nest Egg",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "125 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-3488",
+    "website": "https://www.thenestegg.net",
     "hours": {
       "mon": {
-        "open": "12:00",
-        "close": "18:00"
+        "open": "09:00",
+        "close": "17:00"
       },
-      "tue": null,
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
       "wed": {
-        "open": "12:00",
-        "close": "18:00"
+        "open": "09:00",
+        "close": "17:00"
       },
       "thu": {
-        "open": "11:00",
-        "close": "21:00"
+        "open": "09:00",
+        "close": "17:00"
       },
       "fri": {
-        "open": "11:00",
-        "close": "21:00"
+        "open": "09:00",
+        "close": "17:00"
       },
       "sat": {
-        "open": "11:00",
-        "close": "21:00"
-      },
-      "sun": {
-        "open": "11:00",
-        "close": "20:00"
+        "open": "09:00",
+        "close": "17:00"
       }
     },
-    "hoursNote": "Restaurant, tasting room, class, and event hours vary by program and season; check the official website before visiting.",
-    "description": "Canandaigua culinary center celebrating New York State food, agriculture, craft beverages, cooking classes, tasting room experiences, and events.",
-    "sourceUrl": "https://nykitchen.com/",
-    "needsReview": false,
-    "categories": [
-      "museum-historical",
-      "restaurant"
-    ],
-    "lat": 42.871446,
-    "lng": -77.277754
+    "hoursNote": "Some sources list 7 days a week; Sunday hours unconfirmed—call ahead.",
+    "description": "Penn Yan gift boutique on Main Street with jewelry, women's accessories, home décor, Finger Lakes-themed gifts, greeting cards, and baby gifts.",
+    "sourceUrl": "https://www.iloveny.com/listing/the-nest-egg/11221/",
+    "needsReview": true,
+    "lat": 42.6615769,
+    "lng": -77.0537693
   },
   {
     "id": "the-olney-place",
@@ -7134,6 +8803,34 @@
     "needsReview": false
   },
   {
+    "id": "windmill-farm-craft-market",
+    "name": "The Windmill Farm & Craft Market",
+    "categories": [
+      "festival-event",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "3900 NY-14A, Penn Yan, NY 14527",
+    "lat": 42.6343,
+    "lng": -77.0528,
+    "phone": "(315) 536-3032",
+    "website": "https://www.thewindmill.com/",
+    "hoursNote": "Open Saturdays only, third Saturday in April through last Saturday in November, plus Memorial Day, July 4th, Labor Day, and Black Friday. 8:00 AM–4:30 PM. Admission free.",
+    "description": "Large outdoor/indoor market on 44 acres just south of Penn Yan with 175+ vendors selling handcrafted goods, fresh produce, artisan foods, local wine and cider tastings, clothing, furniture, and gifts. Ranked #1 shopping destination in Penn Yan on Tripadvisor.",
+    "sourceUrl": "https://www.thewindmill.com/",
+    "needsReview": false,
+    "hours": {
+      "sat": {
+        "open": "08:00",
+        "close": "16:30"
+      }
+    },
+    "reviews": {
+      "rating": 4.2,
+      "count": 323
+    }
+  },
+  {
     "id": "the-wisdom-mural",
     "name": "The Wisdom Mural",
     "address": "125 Main Street, Geneseo, NY 14454",
@@ -7202,6 +8899,100 @@
     "lng": -76.923675
   },
   {
+    "id": "tomions-farm-market",
+    "name": "Tomion's Farm Market",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "200 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(585) 526-5400",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Seasonal farm market; hours may vary by season and year. Call ahead to confirm current schedule.",
+    "description": "Seasonal farm market near Penn Yan on Route 14A with U-pick berries, fresh produce, baked goods, and local farm products.",
+    "sourceUrl": "https://www.mapquest.com/us/new-york/tomions-farm-market-279316891",
+    "needsReview": true,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "tractor-supply-penn-yan",
+    "name": "Tractor Supply Co.",
+    "categories": [
+      "shopping"
+    ],
+    "dogFriendly": true,
+    "lake": "Keuka",
+    "address": "2391 State Route 14A, Penn Yan, NY 14527",
+    "lat": 42.64412,
+    "lng": -77.07899,
+    "phone": "(315) 536-5656",
+    "website": "https://www.tractorsupply.com/tsc/store_PennYan-NY-14527_2287",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Company-wide policy welcomes leashed, well-behaved pets inside all store locations.",
+    "description": "Farm and ranch supply store in Penn Yan stocking a wide range of dog food brands, treats, accessories, crates, and other pet supplies. Tractor Supply's company-wide policy welcomes leashed pets inside all store locations.",
+    "sourceUrl": "https://www.tractorsupply.com/tsc/store_PennYan-NY-14527_2287",
+    "needsReview": false
+  },
+  {
     "id": "tree-huggers-cafe",
     "name": "Tree Huggers Café",
     "categories": [
@@ -7252,11 +9043,31 @@
     "lng": -77.1099925
   },
   {
+    "id": "trimmer-house-bb",
+    "name": "Trimmer House Bed & Breakfast",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "145 E Main Street, Penn Yan, NY 14527",
+    "lat": 42.6614,
+    "lng": -77.0521,
+    "phone": "(585) 315-7659",
+    "website": "https://www.trimmerhouse.com",
+    "hoursNote": "Check-in 3–6 pm; contact property for details",
+    "description": "Charming five-room Victorian B&B in downtown Penn Yan featuring period furnishings, private baths, and gourmet breakfasts; steps from shops and a short drive to Keuka Lake and the wine trail.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 293
+    },
+    "sourceUrl": "https://www.trimmerhouse.com",
+    "needsReview": false
+  },
+  {
     "id": "twisted-rail-brewing",
     "name": "Twisted Rail Brewing",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Canandaigua",
     "address": "169 Lakeshore Drive, Canandaigua, NY 14424",
@@ -7300,6 +9111,7 @@
     },
     "sourceUrl": "https://www.twistedrailbrewing.com/locations",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.8749936,
     "lng": -77.2621098
   },
@@ -7307,8 +9119,7 @@
     "id": "two-goats-brewing",
     "name": "Two Goats Brewing",
     "categories": [
-      "brewery-distillery",
-      "dog-friendly"
+      "brewery-distillery"
     ],
     "lake": "Seneca",
     "address": "5027 State Route 414, Burdett, NY 14818",
@@ -7348,6 +9159,7 @@
     "description": "Locally owned Seneca Lake brewpub known for beer, lake views, live music, and its Beef-on-Weck sandwich.",
     "sourceUrl": "https://twogoatsbrewing.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.4766954,
     "lng": -76.8697173
   },
@@ -7585,6 +9397,49 @@
     "lng": -77.816947
   },
   {
+    "id": "urgent-care-penn-yan",
+    "name": "Urgent Care – Penn Yan",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Keuka",
+    "address": "418 North Main Street, 2nd Floor, Penn Yan, NY 14527",
+    "lat": 42.6706422,
+    "lng": -77.0610591,
+    "phone": "(315) 531-2020",
+    "website": "https://www.flhealth.org/location/urgent-care-penn-yan",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Open Monday–Saturday 8 a.m.–8 p.m.; closed Sunday. Walk-ins welcome; call ahead or book online at flhealth.org to reduce wait time. For emergencies, use the Soldiers & Sailors Memorial Hospital ER (24/7, same building, ground floor).",
+    "description": "Walk-in urgent care on the second floor of Soldiers & Sailors Memorial Hospital, operated by UR Medicine Finger Lakes Health. Opened February 2025. Treats minor injuries and illnesses including sprains, ear infections, and colds; rapid PCR COVID/flu/strep testing with 30-minute results, plus imaging and lab services on-site.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-penn-yan",
+    "needsReview": false
+  },
+  {
     "id": "urgent-care-of-auburn",
     "name": "Urgent care of Auburn",
     "address": "303 Grant Avenue, Auburn, NY 13021",
@@ -7772,11 +9627,33 @@
     "needsReview": true
   },
   {
+    "id": "vinehurst-inn-suites",
+    "name": "Vinehurst Inn & Suites",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Keuka",
+    "address": "7988 State Route 54, Hammondsport, NY 14840",
+    "lat": 42.3975,
+    "lng": -77.2177,
+    "phone": "(607) 569-2300",
+    "website": "https://www.vinehurstinn.com",
+    "hoursNote": "Check-in 3 pm; contact property for details",
+    "description": "Quiet 3.5-acre inn south of Hammondsport with spacious renovated rooms and suites including whirlpool options; complimentary continental breakfast and organic amenities included.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 109
+    },
+    "sourceUrl": "https://www.vinehurstinn.com",
+    "needsReview": false
+  },
+  {
     "id": "vineyard-view-winery",
     "name": "Vineyard View Winery",
     "categories": [
       "winery"
     ],
+    "dogFriendly": true,
     "lake": "Keuka",
     "address": "2971 Williams Hill Road, Keuka Park, NY 14478",
     "lat": 42.55346,
@@ -7823,7 +9700,6 @@
     "name": "Wagner Valley Brewing Co",
     "categories": [
       "brewery-distillery",
-      "dog-friendly",
       "restaurant"
     ],
     "lake": "Seneca",
@@ -7865,13 +9741,13 @@
     "sourceUrl": "https://wagnerbrewing.com/contact-us/",
     "needsReview": false,
     "lat": 42.5713572,
-    "lng": -76.8588534
+    "lng": -76.8588534,
+    "dogFriendly": true
   },
   {
     "id": "wagner-vineyards-estate-winery",
     "name": "Wagner Vineyards Estate Winery",
     "categories": [
-      "dog-friendly",
       "winery",
       "brewery-distillery",
       "cafe"
@@ -7914,6 +9790,7 @@
     "description": "Seneca Lake estate winery where leashed dogs are allowed on the lawn and Vantage Point deck, with service animals only inside.",
     "sourceUrl": "https://wagnervineyards.com/",
     "needsReview": false,
+    "dogFriendly": true,
     "lat": 42.5713572,
     "lng": -76.8588534
   },
@@ -7982,6 +9859,7 @@
     "categories": [
       "winery"
     ],
+    "dogFriendly": true,
     "lake": "Keuka",
     "address": "10014 Day Road, Hammondsport, NY 14840",
     "lat": 42.4846976,
@@ -8480,6 +10358,65 @@
     "hoursNote": "June–October open daily 12:00–18:00. May and November open Friday–Sunday only. Check website for winter hours or closure periods.",
     "description": "Boutique family winery in a historic 19th-century mansion in Keuka Park, offering estate-grown varietal wines with scenic views of Keuka Lake.",
     "sourceUrl": "https://www.yatescellars.com/?page_id=4",
+    "needsReview": false
+  },
+  {
+    "id": "yates-county-history-center",
+    "name": "Yates County History Center",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "107 Chapel Street, Penn Yan, NY 14527",
+    "lat": 42.6635,
+    "lng": -77.0533,
+    "phone": "(315) 536-7318",
+    "website": "http://www.yatespast.org",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "16:00"
+      },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Closed major holidays and when local schools are closed due to weather. Group tours by appointment.",
+    "description": "Three-museum campus anchored by the 1852 Oliver House, an 18-room Italianate Victorian mansion with original period furnishings, Native American exhibits, and rotating local history galleries. Free admission with guided tours available.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 20
+    },
+    "sourceUrl": "http://www.yatespast.org/",
+    "needsReview": false
+  },
+  {
+    "id": "zazen-massage-hammondsport",
+    "name": "ZaZen Massage",
+    "categories": [
+      "spa"
+    ],
+    "lake": "Keuka",
+    "address": "8494 State Route 54, Hammondsport, NY 14840",
+    "lat": 42.4032,
+    "lng": -77.213,
+    "phone": "(607) 664-7069",
+    "website": "https://zazen.massagetherapy.com",
+    "hoursNote": "By appointment only; call or text to book",
+    "description": "Boutique massage studio on Route 54 at the south tip of Keuka Lake offering Thai, hot stone, CBD-infused, Lomi Lomi, and reflexology massage plus an infrared sauna. Owner-therapist Chameil Haney, LMT, also maintains a local artisan boutique on site.",
+    "sourceUrl": "https://zazen.massagetherapy.com/home",
     "needsReview": false
   }
 ]

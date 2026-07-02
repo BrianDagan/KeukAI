@@ -57,6 +57,14 @@ export default function PlaceDetail({ place, drive, onClose }: Props) {
             {state === 'open' ? 'Open now' : state === 'closed' ? 'Closed now' : 'Hours unknown'}
           </span>
           <span className="text-gray-600 dark:text-slate-300">🚗 {formatDrive(drive)} from Willow Landing</span>
+          {place.dogFriendly && (
+            <span
+              title="This venue welcomes dogs"
+              className="rounded bg-amber-100 px-2 py-0.5 text-xs font-medium text-amber-800 dark:bg-amber-900/40 dark:text-amber-300"
+            >
+              🐶 Dog-friendly
+            </span>
+          )}
         </div>
 
         <div className="flex gap-2">

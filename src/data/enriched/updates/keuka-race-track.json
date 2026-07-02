@@ -1,0 +1,17 @@
+[
+  {
+    "id": "outlaw-speedway",
+    "name": "Outlaw Speedway",
+    "categories": ["race-track"],
+    "lake": "Keuka",
+    "address": "82 Main St, Dundee, NY 14837",
+    "lat": 42.5176,
+    "lng": -76.9743,
+    "phone": "(607) 678-4044",
+    "website": "https://outlawspeedwayllc.com/",
+    "hoursNote": "Race nights typically Friday evenings, April through October; Thursday Night Thunder special events scheduled periodically — check website for full seasonal calendar.",
+    "description": "A 4/10-mile semi-banked clay dirt oval in Dundee (Yates County), formerly Black Rock Speedway and now one of New York's premier weekly dirt-track venues. Friday-night programs feature Modifieds, Crate Sportsman, Street Stocks, Sprint Cars, and 4-Cylinders; major specials include the Short Track Super Series and the annual $25,000 Fireworks Spectacular.",
+    "sourceUrl": "https://www.outlawspeedwayllc.com/",
+    "needsReview": false
+  }
+]
