@@ -38,6 +38,7 @@ export default function App() {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [query, setQuery] = useState('');
   const [view3d, setView3d] = useState(false);
+  const [homeSignal, setHomeSignal] = useState(0);
   // Re-render every minute so open/closed state stays current.
   const [minute, setMinute] = useState(0);
   useEffect(() => {
@@ -95,28 +96,40 @@ export default function App() {
     });
   };
 
+  // Clicking the ⭐ KeukAI title recenters the map/globe on the home base.
+  const goHome = () => {
+    setSelectedId(null);
+    setHomeSignal((s) => s + 1);
+  };
+
   return (
     <div className="flex h-full flex-col bg-white text-gray-900 dark:bg-slate-900 dark:text-slate-100">
-      <header className="flex items-center justify-between gap-3 bg-keuka-deep px-4 py-2 text-white dark:bg-slate-950">
+      <header className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 bg-keuka-deep px-3 py-2 text-white dark:bg-slate-950 sm:px-4">
         <div className="flex items-baseline gap-2">
-          <h1 className="text-lg font-bold">
+          <button
+            onClick={goHome}
+            title="Recenter the map on Willow Landing (home base)"
+            className="text-lg font-bold transition hover:opacity-80"
+          >
             ⭐ KeukAI
-          </h1>
+          </button>
           <span className="hidden text-xs text-white/70 sm:inline">
             Keuka Lake vacation guide · home base: {HOME_BASE.name}
           </span>
         </div>
-        <div className="flex items-center gap-3">
-          <div className="flex items-center gap-2 text-xs">
+        <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex items-center gap-1.5 text-xs">
             <span className="rounded-full bg-green-500/20 px-2 py-0.5 font-medium text-green-100">
-              🟢 {openCounts.open} open
+              🟢 {openCounts.open}
+              <span className="hidden sm:inline"> open</span>
             </span>
             <span className="rounded-full bg-red-500/20 px-2 py-0.5 font-medium text-red-100">
-              🔴 {openCounts.closed} closed
+              🔴 {openCounts.closed}
+              <span className="hidden sm:inline"> closed</span>
             </span>
             {openCounts.unknown > 0 && (
-              <span className="hidden rounded-full bg-white/10 px-2 py-0.5 font-medium text-white/70 md:inline">
-                {openCounts.unknown} hrs&nbsp;?
+              <span className="hidden rounded-full bg-white/10 px-2 py-0.5 font-medium text-white/70 sm:inline">
+                {openCounts.unknown} unknown
               </span>
             )}
           </div>
@@ -131,8 +144,8 @@ export default function App() {
         </div>
       </header>
 
-      <div className="flex min-h-0 flex-1">
-        <aside className="flex w-full max-w-sm flex-col border-r border-gray-200 bg-white dark:border-slate-700 dark:bg-slate-900">
+      <div className="flex min-h-0 flex-1 flex-col md:flex-row">
+        <aside className="order-2 flex min-h-0 flex-1 flex-col border-t border-gray-200 bg-white dark:border-slate-700 dark:bg-slate-900 md:order-1 md:w-full md:max-w-sm md:flex-none md:border-r md:border-t-0">
           {selected ? (
             <PlaceDetail
               place={selected}
@@ -171,7 +184,7 @@ export default function App() {
           )}
         </aside>
 
-        <main className="relative min-h-0 flex-1">
+        <main className="relative order-1 h-[48vh] shrink-0 md:order-2 md:h-auto md:min-h-0 md:flex-1">
           <TravelFlyout places={visible} driveTimes={driveTimes} onSelect={(p) => setSelectedId(p.id)} />
 
           <div className="absolute bottom-6 left-3 z-[1000] flex overflow-hidden rounded-full bg-white shadow-md ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/10">
@@ -212,6 +225,7 @@ export default function App() {
                 places={visible}
                 selected={selected}
                 onSelect={(p) => setSelectedId(p.id)}
+                homeSignal={homeSignal}
               />
             </Suspense>
           ) : (
@@ -220,6 +234,7 @@ export default function App() {
               selected={selected}
               onSelect={(p) => setSelectedId(p.id)}
               driveTimes={driveTimes}
+              homeSignal={homeSignal}
             />
           )}
         </main>

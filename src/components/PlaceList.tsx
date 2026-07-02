@@ -9,7 +9,7 @@ function OpenBadge({ place }: { place: Place }) {
     return <span className="rounded bg-green-100 px-1.5 py-0.5 text-[10px] font-medium text-green-700 dark:bg-green-900/50 dark:text-green-300">Open</span>;
   if (state === 'closed')
     return <span className="rounded bg-red-100 px-1.5 py-0.5 text-[10px] font-medium text-red-700 dark:bg-red-900/50 dark:text-red-300">Closed</span>;
-  return <span className="rounded bg-gray-100 px-1.5 py-0.5 text-[10px] font-medium text-gray-500 dark:bg-slate-700 dark:text-slate-300">Hours ?</span>;
+  return <span className="rounded bg-gray-100 px-1.5 py-0.5 text-[10px] font-medium text-gray-500 dark:bg-slate-700 dark:text-slate-300">Unknown</span>;
 }
 
 interface Props {

@@ -71,7 +71,7 @@ type Category =
 // Each category maps to an emoji used as its map marker + filter icon:
 //   winery 🍷  brewery-distillery 🍺  restaurant 🍽️  cafe ☕
 //   festival-event 🎪  museum-historical 🏛️  marina-boat-rental ⛵
-//   shopping 🛍️  lodging-rental 🏡  spa 💆  dog-friendly 🐾  race-track 🏁
+//   shopping 🛍️  lodging-rental 🏡  spa 💆  dog-friendly 🐶  race-track 🏁
 //   hospital-urgent-care 🚑    home base (Willow Landing) ⭐
 // Keep this map in one place (e.g. src/data/categoryMeta.ts) — label + emoji + color.
 

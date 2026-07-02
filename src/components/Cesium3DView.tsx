@@ -85,9 +85,10 @@ interface Props {
   places: Place[];
   selected: Place | null;
   onSelect: (p: Place) => void;
+  homeSignal: number;
 }
 
-export default function Cesium3DView({ places, selected, onSelect }: Props) {
+export default function Cesium3DView({ places, selected, onSelect, homeSignal }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const viewerRef = useRef<Cesium.Viewer | null>(null);
   const cesiumRef = useRef<typeof import('cesium') | null>(null);
@@ -220,6 +221,25 @@ export default function Cesium3DView({ places, selected, onSelect }: Props) {
       duration: 1.0,
     });
   }, [selected, ready]);
+
+  // Fly back to the home base when the ⭐ KeukAI title is clicked.
+  const homeRef = useRef(homeSignal);
+  useEffect(() => {
+    const C = cesiumRef.current;
+    const viewer = viewerRef.current;
+    if (!C || !viewer || homeSignal === homeRef.current) {
+      homeRef.current = homeSignal;
+      return;
+    }
+    homeRef.current = homeSignal;
+    const height = viewer.camera.positionCartographic.height;
+    const latOffset = 0.03 * (height / 6000);
+    viewer.camera.flyTo({
+      destination: C.Cartesian3.fromDegrees(HOME_BASE.lng, HOME_BASE.lat - latOffset, height),
+      orientation: { heading: 0, pitch: C.Math.toRadians(-40), roll: 0 },
+      duration: 1.2,
+    });
+  }, [homeSignal, ready]);
 
   return (
     <div className="relative h-full w-full">

@@ -35,7 +35,7 @@ export default function TravelFlyout({ places, driveTimes, onSelect }: Props) {
       </button>
 
       {open && (
-        <div className="mt-2 max-h-[70vh] w-72 overflow-y-auto rounded-lg bg-white shadow-xl ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/10">
+        <div className="mt-2 max-h-[55vh] w-72 max-w-[80vw] overflow-y-auto rounded-lg bg-white shadow-xl ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/10">
           <div className="sticky top-0 border-b border-gray-100 bg-white px-3 py-2 text-xs font-semibold uppercase tracking-wide text-gray-500 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-400">
             Nearest first · {ranked.length} shown
           </div>

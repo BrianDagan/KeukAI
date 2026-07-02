@@ -1,4 +1,4 @@
-import { useEffect, useMemo } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import type { Place } from '../data/types';
@@ -33,14 +33,28 @@ function FlyTo({ place }: { place: Place | null }) {
   return null;
 }
 
+function FlyHome({ signal }: { signal: number }) {
+  const map = useMap();
+  const first = useRef(true);
+  useEffect(() => {
+    if (first.current) {
+      first.current = false;
+      return;
+    }
+    map.flyTo([HOME_BASE.lat, HOME_BASE.lng], map.getZoom(), { duration: 0.7 });
+  }, [signal, map]);
+  return null;
+}
+
 interface Props {
   places: Place[];
   selected: Place | null;
   onSelect: (p: Place) => void;
   driveTimes: Record<string, DriveEstimate | null>;
+  homeSignal: number;
 }
 
-export default function MapView({ places, selected, onSelect, driveTimes }: Props) {
+export default function MapView({ places, selected, onSelect, driveTimes, homeSignal }: Props) {
   const homeIcon = useMemo(() => emojiIcon(HOME_BASE_EMOJI, false, true), []);
 
   return (
@@ -96,6 +110,7 @@ export default function MapView({ places, selected, onSelect, driveTimes }: Prop
       })}
 
       <FlyTo place={selected} />
+      <FlyHome signal={homeSignal} />
     </MapContainer>
   );
 }
