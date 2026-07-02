@@ -104,7 +104,7 @@ export default function App() {
 
   return (
     <div className="flex h-full flex-col bg-white text-gray-900 dark:bg-slate-900 dark:text-slate-100">
-      <header className="flex flex-wrap items-center justify-between gap-x-3 gap-y-1 bg-keuka-deep px-3 py-2 text-white dark:bg-slate-950 sm:px-4">
+      <header className="header-safe flex flex-wrap items-center justify-between gap-x-3 gap-y-1 bg-keuka-deep pb-2 text-white dark:bg-slate-950">
         <div className="flex items-baseline gap-2">
           <button
             onClick={goHome}
@@ -161,18 +161,18 @@ export default function App() {
                 onAll={() => setActive(new Set(ALL_CATEGORIES))}
                 onNone={() => setActive(new Set())}
               />
-              <div className="p-3">
-                <input
-                  value={query}
-                  onChange={(e) => setQuery(e.target.value)}
-                  placeholder="Search places…"
-                  className="w-full rounded border border-gray-200 px-3 py-1.5 text-sm focus:border-keuka-water focus:outline-none dark:border-slate-600 dark:bg-slate-800 dark:text-slate-100 dark:placeholder-slate-500"
-                />
-              </div>
-              <div className="px-3 pb-1 text-xs text-gray-400 dark:text-slate-500">
-                {visible.length} shown · {now.weekday}
-              </div>
               <div className="min-h-0 flex-1 overflow-y-auto">
+                <div className="p-3">
+                  <input
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
+                    placeholder="Search places…"
+                    className="w-full rounded border border-gray-200 px-3 py-1.5 text-sm focus:border-keuka-water focus:outline-none dark:border-slate-600 dark:bg-slate-800 dark:text-slate-100 dark:placeholder-slate-500"
+                  />
+                </div>
+                <div className="px-3 pb-1 text-xs text-gray-400 dark:text-slate-500">
+                  {visible.length} shown · {now.weekday}
+                </div>
                 <PlaceList
                   places={visible}
                   selectedId={selectedId}
@@ -184,10 +184,10 @@ export default function App() {
           )}
         </aside>
 
-        <main className="relative order-1 h-[48vh] shrink-0 md:order-2 md:h-auto md:min-h-0 md:flex-1">
+        <main className="relative order-1 h-[48dvh] shrink-0 md:order-2 md:h-auto md:min-h-0 md:flex-1">
           <TravelFlyout places={visible} driveTimes={driveTimes} onSelect={(p) => setSelectedId(p.id)} />
 
-          <div className="absolute bottom-6 left-3 z-[1000] flex overflow-hidden rounded-full bg-white shadow-md ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/10">
+          <div className="inset-safe-left absolute bottom-6 z-[1000] flex overflow-hidden rounded-full bg-white shadow-md ring-1 ring-black/5 dark:bg-slate-800 dark:ring-white/10">
             <button
               onClick={() => setView3d(false)}
               className={

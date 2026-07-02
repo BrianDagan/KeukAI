@@ -24,7 +24,7 @@ export default function TravelFlyout({ places, driveTimes, onSelect }: Props) {
   }, [places, driveTimes]);
 
   return (
-    <div className="absolute right-3 top-3 z-[1000] flex flex-col items-end">
+    <div className="inset-safe-right absolute top-3 z-[1000] flex flex-col items-end">
       <button
         onClick={() => setOpen((o) => !o)}
         title="Sort visible places by drive time from Willow Landing"

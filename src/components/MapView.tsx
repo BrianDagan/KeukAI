@@ -46,6 +46,21 @@ function FlyHome({ signal }: { signal: number }) {
   return null;
 }
 
+/** Redraw Leaflet after viewport/orientation changes so tiles fill the new size. */
+function ResizeHandler() {
+  const map = useMap();
+  useEffect(() => {
+    const onResize = () => map.invalidateSize();
+    window.addEventListener('resize', onResize);
+    window.addEventListener('orientationchange', onResize);
+    return () => {
+      window.removeEventListener('resize', onResize);
+      window.removeEventListener('orientationchange', onResize);
+    };
+  }, [map]);
+  return null;
+}
+
 interface Props {
   places: Place[];
   selected: Place | null;
@@ -111,6 +126,7 @@ export default function MapView({ places, selected, onSelect, driveTimes, homeSi
 
       <FlyTo place={selected} />
       <FlyHome signal={homeSignal} />
+      <ResizeHandler />
     </MapContainer>
   );
 }

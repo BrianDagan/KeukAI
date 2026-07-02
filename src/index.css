@@ -5,12 +5,37 @@
 html,
 body,
 #root {
-  height: 100%;
   margin: 0;
+  height: 100%;
+}
+/* Lock the app to the *dynamic* viewport so mobile browser chrome can't create a
+   scrollable gap (the "white band"), and stop scroll-chaining to the page. */
+html {
+  height: 100dvh;
+}
+html,
+body {
+  overflow: hidden;
+  overscroll-behavior: none;
 }
 
 body {
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: #0b3d5c; /* keuka-deep: avoids white in any safe-area / overscroll gap */
+}
+
+/* Respect device safe areas (notches) when the page fills edge-to-edge
+   (viewport-fit=cover) so content isn't tucked under the notch in landscape. */
+.header-safe {
+  padding-left: max(0.75rem, env(safe-area-inset-left));
+  padding-right: max(0.75rem, env(safe-area-inset-right));
+  padding-top: max(0.5rem, env(safe-area-inset-top));
+}
+.inset-safe-left {
+  left: max(0.75rem, env(safe-area-inset-left));
+}
+.inset-safe-right {
+  right: max(0.75rem, env(safe-area-inset-right));
 }
 
 /* Emoji map markers */
