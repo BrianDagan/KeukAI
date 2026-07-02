@@ -626,6 +626,9 @@
     "description": "UR Medicine urgent care clinic in Canandaigua for non-life-threatening illnesses and injuries, with imaging and lab services available on site.",
     "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
     "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ],
     "lat": 42.850682,
     "lng": -77.3191454
   },
@@ -1087,6 +1090,9 @@
     "description": "Hammondsport museum preserving the legacy of Glenn H. Curtiss and early aviation, motorcycles, and regional transportation history.",
     "sourceUrl": "https://glennhcurtissmuseum.org/",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.4079347,
     "lng": -77.2236302
   },
@@ -1259,7 +1265,10 @@
         "open": "17:00",
         "close": "20:00"
       }
-    }
+    },
+    "categories": [
+      "restaurant"
+    ]
   },
   {
     "id": "edgars-at-belhurst-castle",
@@ -1797,7 +1806,10 @@
     "hoursNote": "Finger Lakes Health lists Geneva Urgent Care as open 8:00 AM-8:00 PM every day; call ahead before going to limit waiting-room time.",
     "description": "Finger Lakes Health Geneva Urgent Care provides non-emergency care for minor injuries and unexpected illnesses, with testing, X-rays, point-of-care lab testing, and telemedicine options.",
     "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ]
   },
   {
     "id": "galene-new-american-restaurant",
@@ -1918,6 +1930,9 @@
     "description": "Living-history museum in Mumford interpreting 19th-century New York life through a historic village, collections, nature center, and programs.",
     "sourceUrl": "https://www.gcv.org/admission/",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.9959465,
     "lng": -77.8836067
   },
@@ -2460,7 +2475,10 @@
     "hoursNote": "Self-guided public-art trail through nine Livingston County downtowns; no single venue address, public phone, or set hours were verified.",
     "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
     "sourceUrl": "https://inspirationstrail.com/about",
-    "needsReview": true
+    "needsReview": true,
+    "categories": [
+      "museum-historical"
+    ]
   },
   {
     "id": "inspire-moore-winery-vineyard",
@@ -2666,6 +2684,9 @@
     "description": "Cornell University's art museum in an I. M. Pei-designed building overlooking Ithaca and Cayuga Lake.",
     "sourceUrl": "https://museum.cornell.edu/about/visit/",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.4507213,
     "lng": -76.4862064
   },
@@ -3062,7 +3083,10 @@
     "id": "mico-diner",
     "name": "Mico Diner",
     "description": "Could not verify a separate Finger Lakes restaurant under this spelling; likely needs review against Micro Diner in Watkins Glen.",
-    "needsReview": true
+    "needsReview": true,
+    "categories": [
+      "restaurant"
+    ]
   },
   {
     "id": "micro-diner",
@@ -3167,6 +3191,9 @@
     "description": "Honeoye Falls community art center and gallery offering exhibitions, classes, workshops, and lectures.",
     "sourceUrl": "https://www.millartcenter.com/new-page-3",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.9560001,
     "lng": -77.5887408
   },
@@ -3695,6 +3722,9 @@
     "description": "Honeoye gallery associated with sculptor Philippe Faraut, located in the Cornerstone Building on Main Street.",
     "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.790512,
     "lng": -77.516387
   },
@@ -4078,7 +4108,10 @@
     },
     "description": "Canandaigua Mexican restaurant from Familia Tomatlan, serving Mexican dishes, margaritas, and cocktails.",
     "sourceUrl": "https://www.familiatomatlan.com/riotomatlan",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "restaurant"
+    ]
   },
   {
     "id": "rio-tomatlan",
@@ -4505,7 +4538,10 @@
     "hoursNote": "Official site currently says Snug Harbor is closed through 9/7 and fall hours are coming soon.",
     "description": "Snug Harbor Restaurant on Keuka Lake; the entry appears to refer to its shareable butcher-board menu items.",
     "sourceUrl": "https://www.snugharborkeukalake.com/",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "restaurant"
+    ]
   },
   {
     "id": "soldiers-and-sailors-memorial-hospital",
@@ -4599,7 +4635,10 @@
     "hoursNote": "Finger Lakes Health states the Soldiers & Sailors Emergency Department is open 24 hours a day, seven days a week; call 911 for life-threatening emergencies.",
     "description": "Finger Lakes Health acute-care hospital in Penn Yan with an emergency department and inpatient and outpatient services.",
     "sourceUrl": "https://www.flhealth.org/location/soldiers-sailors-memorial-hospital",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ]
   },
   {
     "id": "sonnenberg-gardens",
@@ -4635,6 +4674,9 @@
     "description": "Canandaigua estate, gardens, mansion, and New York State Historic Park preserving the former Thompson estate.",
     "sourceUrl": "https://www.sonnenberg.org/visit/",
     "needsReview": false,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.8957477,
     "lng": -77.2737329
   },
@@ -4994,6 +5036,10 @@
     "description": "Canandaigua culinary center celebrating New York State food, agriculture, craft beverages, cooking classes, tasting room experiences, and events.",
     "sourceUrl": "https://nykitchen.com/",
     "needsReview": false,
+    "categories": [
+      "museum-historical",
+      "restaurant"
+    ],
     "lat": 42.871446,
     "lng": -77.277754
   },
@@ -5198,6 +5244,9 @@
     "description": "Geneseo LivCo Walls mural by artist duo KEY DETAIL, part of Livingston County's Inspirations Trail.",
     "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
     "needsReview": true,
+    "categories": [
+      "museum-historical"
+    ],
     "lat": 42.7949731,
     "lng": -77.8168356
   },
@@ -5405,6 +5454,9 @@
     "description": "UR Medicine emergency department at F.F. Thompson Hospital in Canandaigua for life-threatening and serious medical emergencies.",
     "sourceUrl": "https://www.urmc.rochester.edu/locations/er-thompson",
     "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ],
     "lat": 42.8763062,
     "lng": -77.2904945
   },
@@ -5448,6 +5500,9 @@
     "description": "UR Medicine Noyes urgent care in Geneseo for non-life-threatening illnesses and injuries, with no appointment needed.",
     "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
     "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ],
     "lat": 42.795896,
     "lng": -77.816947
   },
@@ -5593,6 +5648,9 @@
     "description": "Auburn Community Hospital urgent care clinic for non-emergent conditions, minor medical needs, lab and port draws, and X-rays; no appointment needed.",
     "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
     "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ],
     "lat": 42.955046,
     "lng": -76.5445255
   },
@@ -5847,7 +5905,10 @@
   {
     "id": "water-street-coffee",
     "name": "Water Street Coffee",
-    "needsReview": true
+    "needsReview": true,
+    "categories": [
+      "cafe"
+    ]
   },
   {
     "id": "welinow-urgent-care",
@@ -5890,7 +5951,10 @@
     "hoursNote": "WellNow official location data lists Geneva office hours as 8:00 AM-8:00 PM Monday-Sunday; check online or call for holiday changes.",
     "description": "WellNow urgent care center in Geneva treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
     "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ]
   },
   {
     "id": "wellnow-urgent-care-canandaigua",
@@ -6083,7 +6147,10 @@
     "hoursNote": "WellNow official location data lists Canandaigua office hours as 8:00 AM-8:00 PM Monday-Friday and Sunday, with no Saturday office hours listed; call or check online before visiting.",
     "description": "WellNow urgent care center in Canandaigua treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
     "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
-    "needsReview": false
+    "needsReview": false,
+    "categories": [
+      "hospital-urgent-care"
+    ]
   },
   {
     "id": "wisdom-livco-walls-mural",

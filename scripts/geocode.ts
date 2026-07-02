@@ -85,14 +85,47 @@ function mergeById(enriched: AnyPlace[]): AnyPlace[] {
   return [...byId.values()];
 }
 
+/** Category-named update files imply the category for any new place they introduce. */
+const CATEGORY_FILES = new Set([
+  'winery',
+  'brewery-distillery',
+  'restaurant',
+  'cafe',
+  'festival-event',
+  'museum-historical',
+  'marina-boat-rental',
+  'shopping',
+  'lodging-rental',
+  'spa',
+  'dog-friendly',
+  'race-track',
+  'hospital-urgent-care',
+]);
+
 function loadUpdates(): AnyPlace[] {
   if (!existsSync(UPDATES_DIR)) return [];
   const out: AnyPlace[] = [];
   for (const f of readdirSync(UPDATES_DIR)) {
     if (!f.endsWith('.json')) continue;
+    const fileCat = f.replace(/\.json$/, '');
+    const inferred = CATEGORY_FILES.has(fileCat) ? fileCat : null;
     try {
       const arr = readJson<AnyPlace[]>(join(UPDATES_DIR, f));
-      if (Array.isArray(arr)) out.push(...arr);
+      if (!Array.isArray(arr)) continue;
+      for (const e of arr) {
+        // Gap-fill entries in a category file may omit categories (they used to
+        // inherit them from the seed record). Backfill from the filename so a new
+        // place is never left uncategorized.
+        const cats = e.categories;
+        if (
+          inferred &&
+          e.remove !== true &&
+          (!Array.isArray(cats) || cats.length === 0)
+        ) {
+          e.categories = [inferred];
+        }
+        out.push(e);
+      }
     } catch (e) {
       console.warn(`Skipping update ${f}: ${(e as Error).message}`);
     }
