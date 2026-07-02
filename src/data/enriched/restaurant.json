@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "oak-leaf-cafe-bakery",
+    "name": "Oak Leaf Cafe & Bakery",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "3173 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-0836",
+    "website": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Cafe is part of Oak Hill Bulk Foods and is closed Sundays.",
+    "description": "Cafe and bakery at Oak Hill Bulk Foods serving breakfast, lunch, soups, baked goods, and fry pies.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 97
+    },
+    "sourceUrl": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "needsReview": false
+  },
+  {
+    "id": "rheinblick-german-restaurant",
+    "name": "Rheinblick German Restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "224 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 905-0950",
+    "website": "https://www.rheinblick.net/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Saturday has split lunch and dinner service (12:00-15:30 and 16:00-20:00), which cannot be represented as a single interval here.",
+    "description": "German restaurant in Canandaigua serving traditional German entrees, beer, and weekend lunch specials.",
+    "sourceUrl": "https://www.rheinblick.net/",
+    "needsReview": false
+  },
+  {
+    "id": "tree-huggers-cafe",
+    "name": "Tree Huggers Café",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "description": "Could not verify a currently operating Finger Lakes cafe or restaurant by this name from public web listings.",
+    "needsReview": true
+  },
+  {
+    "id": "kindred-fare",
+    "name": "Kindred Fare",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "512 Hamilton St, Geneva, NY 14456",
+    "phone": "(315) 787-0400",
+    "website": "https://kindredfare.com/",
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Dinner served daily; last seating is listed as 20:45.",
+    "description": "Farm-to-table restaurant in Geneva with a seasonal menu, visible kitchen, craft cocktails, and Finger Lakes wines.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 443
+    },
+    "sourceUrl": "https://kindredfare.com/locations-hours",
+    "needsReview": false
+  },
+  {
+    "id": "rio-tomatlan",
+    "name": "Rio Tomatlan",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "106 Bemis St, Canandaigua, NY 14424",
+    "phone": "(585) 394-9380",
+    "website": "https://www.familiatomatlan.com/riotomatlan",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "21:00"
+      }
+    },
+    "description": "Mexican restaurant in Canandaigua from Familia Tomatlan, known for regional Mexican dishes, margaritas, and cocktails.",
+    "sourceUrl": "https://www.familiatomatlan.com/riotomatlan",
+    "needsReview": false
+  },
+  {
+    "id": "scuteris-cannoli-connection",
+    "name": "Scuteri's Cannoli Connection",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "409 E 4th St, Watkins Glen, NY 14891",
+    "phone": "(607) 535-7568",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours are from public directory listings and may vary seasonally.",
+    "description": "Watkins Glen bakery and casual eatery associated with Italian pastries, cannoli, and pizza.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/watkins-glen/bakery/2032670925-scuteri-s-cannoli-connection",
+    "needsReview": true
+  },
+  {
+    "id": "the-lake-house-on-canandaigua-lake",
+    "name": "The Lake House on Canandaigua Lake",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "770 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 394-1480",
+    "website": "https://lakehousecanandaigua.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "22:00"
+      }
+    },
+    "hoursNote": "Hours are for Rose Tavern dining at The Lake House: breakfast or brunch plus daily dinner; bar hours extend later.",
+    "description": "Lakefront resort on Canandaigua Lake with Rose Tavern, an upscale seasonal American restaurant, and the seasonal Sand Bar.",
+    "sourceUrl": "https://lakehousecanandaigua.com/restaurants-bars/rose-tavern/",
+    "needsReview": false
+  },
+  {
+    "id": "the-rabbit-room",
+    "name": "The Rabbit Room",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "61 N Main St, Honeoye Falls, NY 14472",
+    "website": "http://thelowermill.com/rabbit-room",
+    "description": "Historic-mill restaurant and event space in Honeoye Falls; recent reports indicate the concept has been reimagined as Grist, so current status should be confirmed.",
+    "sourceUrl": "https://www.fingerlakes1.com/2025/08/19/historic-mill-reborn-as-upscale-restaurant/",
+    "needsReview": true
+  },
+  {
+    "id": "prison-city-pub-brewery",
+    "name": "Prison City Pub & Brewery",
+    "categories": [
+      "brewery-distillery",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "28 State St, Auburn, NY 13021",
+    "phone": "(315) 604-1277",
+    "website": "https://www.prisoncitybrewing.com/",
+    "hours": {
+      "mon": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Downtown Auburn brewpub serving Prison City beer with a full pub menu at the State Street restaurant location.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 400
+    },
+    "sourceUrl": "https://www.prisoncitybrewing.com/home-3",
+    "needsReview": false
+  },
+  {
+    "id": "lake-life-catering-company",
+    "name": "Lake Life Catering Company",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "8719 Coryell Road, Hammondsport, NY 14840",
+    "description": "Finger Lakes catering business associated with private events and weddings; public restaurant hours were not found.",
+    "sourceUrl": "https://opengovny.com/corporation/6626291",
+    "needsReview": true
+  },
+  {
+    "id": "ports-cafe",
+    "name": "Ports Cafe",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "4432 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 789-2020",
+    "website": "https://portscafe.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "description": "Seneca Lake-area restaurant serving seasonal American fare, steaks, seafood, Finger Lakes wines, and craft beer.",
+    "sourceUrl": "https://portscafe.com/",
+    "needsReview": false
+  },
+  {
+    "id": "glenn-scott-farms",
+    "name": "Glenn Scott Farms",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "10304 County Route 76, Pulteney, NY 14840",
+    "website": "https://www.parkinnflx.com/gsf",
+    "description": "Sustainable farm associated with The Park Inn and Point of the Bluff Vineyards; no public restaurant hours were verified.",
+    "sourceUrl": "https://www.parkinnflx.com/gsf",
+    "needsReview": true
+  },
+  {
+    "id": "ithaca-farmers-market",
+    "name": "Ithaca Farmers Market",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "545 3rd Street, Ithaca, NY 14850",
+    "phone": "(607) 273-7109",
+    "website": "https://www.ithacamarket.com/",
+    "hours": {
+      "sat": {
+        "open": "09:00",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "Saturday pavilion market is 09:00-15:00 Apr-Oct; seasonal Sunday, Tuesday, and winter markets vary by date and location.",
+    "description": "Waterfront farmers market at Steamboat Landing with local produce, prepared foods, crafts, plants, and live music.",
+    "sourceUrl": "https://www.ithacamarket.com/markets/",
+    "needsReview": false
+  },
+  {
+    "id": "muranda-cheese-company",
+    "name": "Muranda Cheese Company",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": null,
+    "address": "3075 NY-96, Waterloo, NY 13165",
+    "phone": "(315) 246-1457",
+    "website": "https://www.murandacheese.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Last tastings are listed at 16:45.",
+    "description": "Waterloo artisan cheese producer with an on-site tasting room and shop featuring local Finger Lakes products.",
+    "sourceUrl": "https://www.murandacheese.com/visitus",
+    "needsReview": false
+  },
+  {
+    "id": "red-jacket-orchards",
+    "name": "Red Jacket Orchards",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Seneca",
+    "address": "957 Routes 5 & 20, Geneva, NY 14456",
+    "phone": "(315) 781-2749",
+    "website": "https://redjacketorchards.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Farm store hours were verified through tourism and business listings rather than a clearly published official hours page.",
+    "description": "Geneva orchard and farm store known for cold-pressed juices, fresh fruit, and Finger Lakes specialty foods.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/red-jacket-orchards",
+    "needsReview": true
+  },
+  {
+    "id": "simply-crepes",
+    "name": "Simply Crêpes",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "1229 Bay Road, Canandaigua, NY 14424",
+    "phone": "(585) 236-1056",
+    "website": "https://www.simplycrepes.com/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Canandaigua location of the family-owned crêpe restaurant serving sweet and savory crêpes, brunch, lunch, dinner, and cocktails.",
+    "sourceUrl": "https://www.simplycrepes.com/all-locations",
+    "needsReview": false
+  },
+  {
+    "id": "the-park-inn",
+    "name": "The Park Inn",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "37 Shethar Street, Hammondsport, NY 14840",
+    "phone": "(607) 224-4004",
+    "website": "https://www.parkinnflx.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": null
+    },
+    "description": "Historic Hammondsport inn and restaurant near Keuka Lake serving dinner with locally sourced Finger Lakes ingredients.",
+    "sourceUrl": "https://www.parkinnflx.com/stay",
+    "needsReview": false
+  },
+  {
+    "id": "18th-amendment",
+    "name": "18th Amendment",
+    "categories": [
+      "brewery-distillery",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "7 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-9032",
+    "website": "https://18thamendmentkitchencocktailbar.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Dinner seating and seasonal hours should be confirmed before visiting.",
+    "description": "Penn Yan kitchen and cocktail bar with a Prohibition-inspired setting, craft cocktails, and a locally sourced dinner menu.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 150
+    },
+    "sourceUrl": "https://18thamendmentkitchencocktailbar.com/",
+    "needsReview": false
+  },
+  {
+    "id": "new-york-kitchen",
+    "name": "New York Kitchen",
+    "categories": [
+      "museum-historical",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "800 S Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-7070",
+    "website": "https://www.nykitchen.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours are for the tasting room; cooking classes and events follow separate schedules.",
+    "description": "Canandaigua nonprofit culinary center with cooking classes, events, and a tasting room showcasing New York wine, beer, spirits, and agricultural products.",
+    "sourceUrl": "https://www.nykitchen.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "babes-burger",
+    "name": "Babe's Burger",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "phone": "(607) 546-2010",
+    "website": "https://www.babesburger.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "tue": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Operates at Lucky Hare Brewing in Hector; hours reflect the Hector taproom schedule and may vary.",
+    "description": "Gourmet burger business operating at Lucky Hare Brewing in Hector, with locally sourced ingredients and vegetarian and gluten-free options.",
+    "sourceUrl": "https://www.luckyharebrewing.com/hector",
+    "needsReview": true
+  },
+  {
+    "id": "beachcomber-of-conesus",
+    "name": "Beachcomber of Conesus",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/",
+    "description": "Lakefront Conesus Lake complex with the Crab Shack Restaurant & Pub, Dockside Grill, Cabana Bar, hotel rooms, boat slips, and live music.",
+    "sourceUrl": "https://business.livingstoncountychamber.com/list/member/beachcomber-of-conesus-llc-915",
+    "needsReview": true
+  },
+  {
+    "id": "cabana-bar-dockside-grill",
+    "name": "Cabana Bar & Dockside Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/",
+    "description": "Seasonal outdoor bar and casual dockside grill at the Beachcomber of Conesus lakefront complex.",
+    "sourceUrl": "https://business.livingstoncountychamber.com/list/member/beachcomber-of-conesus-llc-915",
+    "needsReview": true
+  },
+  {
+    "id": "connies-diner",
+    "name": "Connie's Diner",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "205 E Main Street, Waterloo, NY 13165",
+    "phone": "(315) 539-9556",
+    "website": "http://www.connieswaterloo.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Breakfast is served all day; cash only per the restaurant website.",
+    "description": "Classic stainless-steel diner in Waterloo serving all-day breakfast, lunch, and home-style comfort food.",
+    "sourceUrl": "http://www.connieswaterloo.com/",
+    "needsReview": false
+  },
+  {
+    "id": "crab-shack-restaurant-pub",
+    "name": "Crab Shack Restaurant & Pub",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/",
+    "hours": {
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours are off-season listings from regional sources; summer service is generally daily from noon but should be confirmed.",
+    "description": "Full-service restaurant and pub at the Beachcomber of Conesus, serving seafood, steaks, barbecue, sandwiches, and pub fare.",
+    "sourceUrl": "https://business.livingstoncountychamber.com/list/member/beachcomber-of-conesus-llc-915",
+    "needsReview": true
+  },
+  {
+    "id": "edgars-at-belhurst-castle",
+    "name": "Edgar's at Belhurst Castle",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "4069 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 781-0201",
+    "website": "https://www.belhurst.com/",
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Fine-dining restaurant inside historic Belhurst Castle on Seneca Lake, serving American cuisine, steaks, seafood, and Belhurst wines.",
+    "sourceUrl": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "needsReview": false
+  },
+  {
+    "id": "galene-new-american-restaurant",
+    "name": "Galene New American Restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5870 Big Tree Road, Lakeville, NY 14480",
+    "phone": "(585) 346-7231",
+    "website": "https://www.galeneny.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "16:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Summer season hours; winter hours are shorter and more limited.",
+    "description": "Waterfront New American restaurant on Conesus Lake with steaks, seafood, raw bar items, craft cocktails, patio dining, and a seasonal tiki bar.",
+    "sourceUrl": "https://www.galeneny.com/",
+    "needsReview": false
+  },
+  {
+    "id": "gola-osteria",
+    "name": "Gola Osteria",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "115 S Quarry Street, Ithaca, NY 14850",
+    "phone": "(607) 273-0333",
+    "website": "https://golaosteria.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "description": "Italian restaurant in Ithaca's historic Quarry Arms building serving house pastas, seasonal Italian dishes, cocktails, and Italian and Finger Lakes wines.",
+    "sourceUrl": "https://golaosteria.com/about-us",
+    "needsReview": false
+  },
+  {
+    "id": "main-deck",
+    "name": "Main Deck",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "301 Lake Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-7536",
+    "website": "https://www.maindeckpy.com/",
+    "hoursNote": "Hours vary seasonally and were not confidently verified from the official site.",
+    "description": "Waterfront restaurant on the north end of Keuka Lake in Penn Yan, with lake views and a menu of seafood, steaks, pasta, and New York comfort food.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/main-deck-restaurant",
+    "needsReview": true
+  },
+  {
+    "id": "mill-creek-cafe",
+    "name": "Mill Creek Cafe",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8705 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2620",
+    "website": "https://millcreekcafe.com/",
+    "hoursNote": "Published hours vary by source; call or check current social updates before visiting.",
+    "description": "Honeoye cafe and restaurant serving breakfast items, American favorites, baked goods, specialty coffee, and dinner specials.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 89
+    },
+    "sourceUrl": "https://millcreekcafe.com/",
+    "needsReview": true
+  },
+  {
+    "id": "nicks-chop-house-martini-bar",
+    "name": "Nick's Chop House & Martini Bar",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "5 Beeman Street, Canandaigua, NY 14424",
+    "phone": "(585) 393-0303",
+    "website": "https://nickschophouseandbar.com/",
+    "hours": {
+      "mon": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours should be confirmed because the official hours page was not consistently accessible.",
+    "description": "Downtown Canandaigua steakhouse and martini bar serving steaks, chops, seafood, duck, pasta, cocktails, and a pub menu at the bar.",
+    "sourceUrl": "https://nickschophouseandbar.com/",
+    "needsReview": true
+  },
+  {
+    "id": "smokin-petes-bbq",
+    "name": "Smokin' Pete's BBQ",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "5286 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 412-9542",
+    "website": "https://www.smokinpetes.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "21:00"
+      }
+    },
+    "description": "Texas-style barbecue restaurant on Seneca Lake's west side with brisket, ribs, pulled pork, wings, bourbon, and craft beer.",
+    "sourceUrl": "https://www.smokinpetes.com/",
+    "needsReview": false
+  },
+  {
+    "id": "the-olney-place",
+    "name": "The Olney Place",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "823 E Lake Rd, Branchport, NY 14418",
+    "phone": "(315) 536-5454",
+    "website": "https://www.keukalake.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Open May-October; closing times are from public listings and should be confirmed.",
+    "description": "Keuka Lake general store, deli, and marina stop with sandwiches, soups, groceries, beverages, boat fuel, and dockside pickup.",
+    "sourceUrl": "https://www.keukalake.com/pages/about-us",
+    "needsReview": true
+  },
+  {
+    "id": "the-social-restaurant-tap-room-at-the-naples-hotel",
+    "name": "The Social Restaurant & Tap Room at The Naples Hotel",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "111 S Main St, Naples, NY 14512",
+    "phone": "(585) 374-5630",
+    "website": "https://napleshotelny.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "The hotel states dining operates seasonally; confirm current restaurant hours before visiting.",
+    "description": "Restaurant and tap room in the historic Naples Hotel, offering casual dining, brunch, craft drinks, and live music near the south end of Canandaigua Lake.",
+    "sourceUrl": "https://napleshotelny.com/",
+    "needsReview": true
+  },
+  {
+    "id": "wolffys-grill-marina",
+    "name": "Wolffy's Grill & Marina",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "2943 Lower Lake Rd, Seneca Falls, NY 13148",
+    "phone": "(315) 257-0077",
+    "website": "https://www.wolffysgrill.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Typical summer hours; seasonal changes should be confirmed.",
+    "description": "Casual lakefront bar and grill on Seneca Lake with marina access, outdoor deck seating, American fare, and sunset views.",
+    "reviews": {
+      "rating": 4.0,
+      "count": 245
+    },
+    "sourceUrl": "https://www.wolffysgrill.com/contact-us",
+    "needsReview": false
+  },
+  {
+    "id": "y-knot-country-store-eatery",
+    "name": "Y-Knot Country Store & Eatery",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "9208 County Route 74, Pulteney, NY 14874",
+    "phone": "(607) 868-3839",
+    "website": "https://yknotkeuka.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours were verified from public listing data; confirm on social media or by phone.",
+    "description": "Country store and casual eatery on Keuka Lake's west side serving pizza, wings, sandwiches, wraps, daily specials, local beer, wine, and cottage essentials.",
+    "sourceUrl": "https://yknotkeuka.com/",
+    "needsReview": true
+  },
+  {
+    "id": "coho-pizza-wine-bar",
+    "name": "COHO Pizza & Wine Bar",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "811 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 577-8008",
+    "website": "https://cohopizzawine.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "description": "Canandaigua Lake pizzeria and wine bar serving Roman- and Neapolitan-style pizzas, Italian-inspired dishes, burgers, and Finger Lakes wines.",
+    "reviews": {
+      "rating": 3.7,
+      "count": 21
+    },
+    "sourceUrl": "https://cohopizzawine.com/",
+    "needsReview": false
+  },
+  {
+    "id": "coltivare",
+    "name": "Coltivare",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "235 S Cayuga St, Ithaca, NY 14850",
+    "description": "Former TC3-operated culinary teaching restaurant in Ithaca; local reporting says it permanently closed in January 2025.",
+    "sourceUrl": "https://www.14850.com/012839793-coltivare-ithaca-closed/",
+    "needsReview": true
+  },
+  {
+    "id": "ember-woodfire-grill",
+    "name": "Ember Woodfire Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "21 Livonia Station, Livonia, NY 14487",
+    "phone": "(585) 346-0222",
+    "website": "https://www.emberwoodfiregrill.com/",
+    "hours": {
+      "mon": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "tue": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:30"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:30"
+      },
+      "sun": null
+    },
+    "hoursNote": "Summer kitchen hours; seasonal changes should be confirmed.",
+    "description": "Scratch kitchen in Livonia's historic train station centered on a wood-fired hearth, serving pizzas, steaks, chops, seafood, pasta, and craft cocktails.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 276
+    },
+    "sourceUrl": "https://www.emberwoodfiregrill.com/",
+    "needsReview": false
+  },
+  {
+    "id": "fargo-bar-grill",
+    "name": "Fargo Bar & Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "384 Main St, Aurora, NY 13026",
+    "phone": "(315) 364-8006",
+    "website": "https://fargogrill.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Bar may remain open later on Friday and Saturday.",
+    "description": "Rustic tavern in Aurora on Cayuga Lake's east side, known for burgers, pub fare, craft beer, a fireside lounge, and a courtyard patio.",
+    "sourceUrl": "https://fargogrill.com/hoursandlocation",
+    "needsReview": false
+  },
+  {
+    "id": "micro-diner",
+    "name": "Micro Diner",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "501 N Franklin St, Watkins Glen, NY 14891",
+    "phone": "(607) 377-6000",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "11:00",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "Seasonal operation; call ahead because sources disagree and some list the diner as closed outside warm-weather months.",
+    "description": "Tiny seasonal Watkins Glen diner known as the world's smallest diner, serving Coney-style hot dogs and casual sandwiches.",
+    "sourceUrl": "https://www.dinerville.info/ny/watkins-glen/micro-diner",
+    "needsReview": true
+  },
+  {
+    "id": "pops-bakery-deli",
+    "name": "Pop's Bakery & Deli",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8608 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1328",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "14:00"
+      }
+    },
+    "hoursNote": "No official website found; hours are from public business listings and should be confirmed.",
+    "description": "Honeoye bakery and deli known for baked goods, deli sandwiches, subs, and casual meals near Honeoye Lake.",
+    "sourceUrl": "https://www.restaurantji.com/ny/honeoye/pop-s-bakery-and-deli-/",
+    "needsReview": true
+  },
+  {
+    "id": "snug-harbor-restaurant",
+    "name": "Snug Harbor Restaurant",
+    "categories": [
+      "restaurant",
+      "dog-friendly"
+    ],
+    "lake": "Keuka",
+    "address": "9068A Snug Harbor Dr, Hammondsport, NY 14840",
+    "phone": "(607) 868-7684",
+    "website": "https://www.snugharborkeukalake.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Sunday has split brunch/lunch and dinner service; OCR correction: 'Butchar Boards' refers to the restaurant's Butcher Board menu item, not its name.",
+    "description": "Waterfront Keuka Lake restaurant in Hammondsport serving seafood, steaks, American dishes, local wines, desserts, and a signature Butcher Board sharing platter.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 254
+    },
+    "sourceUrl": "https://www.snugharborkeukalake.com/contact",
+    "needsReview": false
+  },
+  {
+    "id": "the-boatyard-grill",
+    "name": "The Boatyard Grill",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "525 Taughannock Blvd, Ithaca, NY 14850",
+    "phone": "(607) 256-2628",
+    "website": "https://www.boatyardgrill.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "16:00",
+        "close": "21:00"
+      }
+    },
+    "description": "Waterfront American restaurant on Cayuga Lake in Ithaca, serving steaks, seafood, sandwiches, cocktails, and patio dining.",
+    "sourceUrl": "https://www.boatyardgrill.com/",
+    "needsReview": false
+  },
+  {
+    "id": "the-cove",
+    "name": "The Cove",
+    "categories": [
+      "restaurant",
+      "dog-friendly"
+    ],
+    "lake": "Canandaigua",
+    "address": "205 Lakeshore Drive, Canandaigua, NY 14424",
+    "phone": "(585) 577-3500",
+    "website": "https://www.hotelcanandaiguany.com/dining",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "23:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "23:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "22:00"
+      }
+    },
+    "hoursNote": "Hotel restaurant hours; Corsair's Cove outdoor bar is seasonal.",
+    "description": "Contemporary American restaurant at Hotel Canandaigua with lake views, a wraparound patio, seasonal Finger Lakes ingredients, and cocktails.",
+    "sourceUrl": "https://www.hotelcanandaiguany.com/dining",
+    "needsReview": false
+  }
+]

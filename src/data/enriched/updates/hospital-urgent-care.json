@@ -1,0 +1,335 @@
+[
+  {
+    "id": "canandaigua-urgent-care",
+    "name": "Canandaigua Urgent Care",
+    "address": "699 South Main Street, Suite 5, Canandaigua, NY 14424",
+    "phone": "(585) 978-8240",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "UR Medicine page lists urgent care hours as daily 8:00 AM-8:00 PM; call or check online before visiting because urgent care hours can change on holidays.",
+    "description": "UR Medicine urgent care clinic in Canandaigua for non-life-threatening illnesses and injuries, with imaging and lab services available on site.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "needsReview": false
+  },
+  {
+    "id": "fuh-medical-urgent-care",
+    "name": "FUH Medical Urgent Care",
+    "address": "789 Pre-Emption Road, Geneva, NY 14456",
+    "lat": 42.8630755,
+    "lng": -77.0099605,
+    "phone": "(315) 781-2000",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Finger Lakes Health lists Geneva Urgent Care as open 8:00 AM-8:00 PM every day; call ahead before going to limit waiting-room time.",
+    "description": "Finger Lakes Health Geneva Urgent Care provides non-emergency care for minor injuries and unexpected illnesses, with testing, X-rays, point-of-care lab testing, and telemedicine options.",
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "needsReview": false
+  },
+  {
+    "id": "soldiers-and-sallors-memorial-hospital",
+    "name": "Soldiers & Sallors Memorial Hospital",
+    "address": "418 North Main Street, Penn Yan, NY 14527",
+    "lat": 42.6706422,
+    "lng": -77.0610591,
+    "phone": "(315) 531-2000",
+    "website": "https://www.flhealth.org/location/soldiers-sailors-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Finger Lakes Health states the Soldiers & Sailors Emergency Department is open 24 hours a day, seven days a week; call 911 for life-threatening emergencies.",
+    "description": "Finger Lakes Health acute-care hospital in Penn Yan with an emergency department and inpatient and outpatient services.",
+    "sourceUrl": "https://www.flhealth.org/location/soldiers-sailors-memorial-hospital",
+    "needsReview": false
+  },
+  {
+    "id": "ur-medicine-thompson-health",
+    "name": "UR Medicine Thompson Health",
+    "address": "350 Parrish Street, Canandaigua, NY 14424",
+    "phone": "(585) 396-6000",
+    "website": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "UR Medicine lists the F.F. Thompson Hospital Emergency Department as open 24/7; call 911 for life-threatening emergencies.",
+    "description": "UR Medicine emergency department at F.F. Thompson Hospital in Canandaigua for life-threatening and serious medical emergencies.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "needsReview": false
+  },
+  {
+    "id": "ur-medicine-ungent-care",
+    "name": "UR Medicine Ungent Care",
+    "address": "50 East South Street, 1st Floor, Geneseo, NY 14454-1300",
+    "phone": "(585) 243-9595",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "UR Medicine page lists Geneseo urgent care hours as daily 9:00 AM-8:00 PM; call or check online before visiting because urgent care hours can change on holidays.",
+    "description": "UR Medicine Noyes urgent care in Geneseo for non-life-threatening illnesses and injuries, with no appointment needed.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "needsReview": false
+  },
+  {
+    "id": "urgent-care-of-auburn",
+    "name": "Urgent care of Auburn",
+    "address": "303 Grant Avenue, Auburn, NY 13021",
+    "phone": "(315) 258-7100",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Auburn Community Hospital lists Finger Lakes Medical Urgent Care Center hours as Mon-Fri 8:00 AM-8:00 PM, Sat-Sun 8:00 AM-6:00 PM, holidays 8:00 AM-5:00 PM; closed Thanksgiving and Christmas Day.",
+    "description": "Auburn Community Hospital urgent care clinic for non-emergent conditions, minor medical needs, lab and port draws, and X-rays; no appointment needed.",
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false
+  },
+  {
+    "id": "welinow-urgent-care",
+    "name": "WelINow Urgent Care",
+    "address": "1 White Springs Road, Geneva, NY 14456",
+    "lat": 42.857209,
+    "lng": -76.999753,
+    "phone": "(315) 230-4074",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "WellNow official location data lists Geneva office hours as 8:00 AM-8:00 PM Monday-Sunday; check online or call for holiday changes.",
+    "description": "WellNow urgent care center in Geneva treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "needsReview": false
+  },
+  {
+    "id": "wellnow-urgent-care-canandaiguia",
+    "name": "WellNow Urgent Care (Canandaiguia)",
+    "address": "288 Eastern Blvd, Canandaigua, NY 14424",
+    "lat": 42.878719,
+    "lng": -77.257511,
+    "phone": "(585) 412-5630",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": null,
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "WellNow official location data lists Canandaigua office hours as 8:00 AM-8:00 PM Monday-Friday and Sunday, with no Saturday office hours listed; call or check online before visiting.",
+    "description": "WellNow urgent care center in Canandaigua treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "needsReview": false
+  }
+]

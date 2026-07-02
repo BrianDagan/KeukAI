@@ -1,0 +1,81 @@
+[
+  {
+    "id": "hunt-country-vineyards",
+    "name": "Hunt Country Vineyards",
+    "replaceCategories": true,
+    "categories": ["winery"],
+    "address": "4021 Italy Hill Road, Branchport, NY 14418",
+    "lat": 42.598256,
+    "lng": -77.1724255,
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntcountryvineyards.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": { "open": "12:00", "close": "17:00" }
+    },
+    "hoursNote": "Summer (peak-season) hours reported as Thu–Sat 10am–5pm, Sun noon–5pm, closed Mon–Wed. Verify on the official website or by phone before visiting; hours vary by season.",
+    "description": "Family-run Keuka Lake winery operating since 1981, recognized for sustainable farming (solar, geothermal, organic acreage). Offers tastings of 20+ estate wines including Riesling, Chardonnay, Cabernet Franc, and celebrated Vidal Ice Wine. Features a farm-to-table café, scenic deck seating among the vines, EV charging, and is pet-friendly.",
+    "sourceUrl": "https://www.huntcountryvineyards.com/",
+    "needsReview": true
+  },
+  {
+    "id": "hunt-country-vineyards-annual-harvest-festival",
+    "name": "Hunt Country Vineyards Annual Harvest Festival",
+    "remove": true
+  },
+  {
+    "id": "harvest-festival-at-hunt-country-vineyards",
+    "name": "Harvest Festival at Hunt Country Vineyards",
+    "remove": true
+  },
+  {
+    "id": "chocolate-and-wine",
+    "name": "Chocolate & Wine",
+    "remove": true
+  },
+  {
+    "id": "chocolate-and-wine-weekend",
+    "name": "Chocolate & Wine Weekend",
+    "remove": true
+  },
+  {
+    "id": "spring-wine-and-cheese",
+    "name": "Spring Wine and Cheese",
+    "remove": true
+  },
+  {
+    "id": "wine-and-cheese-lovers",
+    "name": "Wine & Cheese Lovers",
+    "remove": true
+  },
+  {
+    "id": "wine-and-herb",
+    "name": "Wine & Herb",
+    "remove": true
+  },
+  {
+    "id": "rose-in-may",
+    "name": "Rosé in May",
+    "remove": true
+  },
+  {
+    "id": "holiday-shopping-spree",
+    "name": "Holiday Shopping Spree",
+    "remove": true
+  },
+  {
+    "id": "finger-lakes-wine-festival",
+    "name": "Finger Lakes Wine Festival",
+    "remove": true
+  },
+  {
+    "id": "bines-fest",
+    "name": "Bines Fest",
+    "remove": true
+  }
+]

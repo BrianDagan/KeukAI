@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Emoji map markers */
+.keukai-marker {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  line-height: 1;
+  filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.4));
+  cursor: pointer;
+}
+/* Closed places keep full-color icons; a red ✕ badge marks them instead of fading. */
+.keukai-closed-badge {
+  position: absolute;
+  top: -4px;
+  right: -6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 14px;
+  height: 14px;
+  padding: 0 1px;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1;
+  color: #fff;
+  background: #ef4444;
+  border: 1.5px solid #fff;
+  border-radius: 9999px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+.keukai-marker--home {
+  font-size: 30px;
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background: #aadaff;
+}
+
+/* Dark mode: tint the OSM raster tiles and chrome */
+.dark .leaflet-container {
+  background: #0f172a;
+}
+.dark .leaflet-tile-pane {
+  filter: brightness(0.6) invert(1) contrast(3) hue-rotate(200deg) saturate(0.3)
+    brightness(0.7);
+}
+.dark .leaflet-popup-content-wrapper,
+.dark .leaflet-popup-tip {
+  background: #1e293b;
+  color: #e2e8f0;
+}
+.dark .leaflet-bar a {
+  background: #1e293b;
+  color: #e2e8f0;
+  border-color: #334155;
+}
+.dark .leaflet-bar a:hover {
+  background: #334155;
+}

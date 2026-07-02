@@ -1,0 +1,205 @@
+[
+  {
+    "id": "birdhouse-brewing-company",
+    "name": "Birdhouse Brewing Company",
+    "address": "8716 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1216",
+    "website": "https://birdhousebrewing.beer",
+    "hours": {
+      "mon": { "open": "15:00", "close": "20:00" },
+      "tue": { "open": "15:00", "close": "20:00" },
+      "wed": { "open": "15:00", "close": "21:00" },
+      "thu": { "open": "15:00", "close": "21:00" },
+      "fri": { "open": "12:00", "close": "22:00" },
+      "sat": { "open": "12:00", "close": "22:00" },
+      "sun": { "open": "12:00", "close": "20:00" }
+    },
+    "description": "Honeoye craft brewery with food, live music, and a creekside backyard reported by pet-travel listings as dog-friendly.",
+    "sourceUrl": "https://birdhousebrewing.beer/contact-us/",
+    "needsReview": false
+  },
+  {
+    "id": "cb-craft-brewers",
+    "name": "CB Craft Brewers",
+    "hoursNote": "Public sources reported CB Craft Brewers permanently closed on September 1, 2019; no current official website was verified.",
+    "description": "Former Honeoye Falls craft brewery from the dog-friendly source list; it appears permanently closed and should not be recommended as an active dog-friendly stop.",
+    "sourceUrl": "https://absolutebeer.com/news/new-york-based-cb-craft-brewers-to-close/",
+    "needsReview": true
+  },
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "address": "3772 West Lake Road, Geneseo, NY 14454",
+    "lat": 42.82222,
+    "lng": -77.7178,
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com/",
+    "hours": {
+      "mon": { "open": "12:00", "close": "17:00" },
+      "tue": null,
+      "wed": null,
+      "thu": { "open": "12:00", "close": "18:00" },
+      "fri": { "open": "12:00", "close": "19:00" },
+      "sat": { "open": "12:00", "close": "18:00" },
+      "sun": { "open": "10:00", "close": "18:00" }
+    },
+    "hoursNote": "Official site also lists Sunday brunch from 10:00 to 14:00; hours may change seasonally.",
+    "description": "Conesus Lake winery and cafe; its FAQ says leashed dogs are allowed on the front porch.",
+    "sourceUrl": "https://www.deerrunwinery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "eagle-crest-vineyards",
+    "name": "Eagle Crest Vineyards",
+    "address": "7107 Vineyard Rd, Conesus, NY 14435",
+    "phone": "(585) 346-2321",
+    "website": "https://www.eaglecrestvineyards.com/",
+    "hoursNote": "Official site asks visitors to check the event calendar for tasting-room hours and special events.",
+    "description": "Historic Eagle Crest/O-Neh-Da vineyard near Hemlock Lake; pet-friendly visitor listings describe the property as welcoming to dogs.",
+    "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "flpp-lakefront-homes",
+    "name": "FLPP Lakefront Homes",
+    "address": "103 Horizon Park Drive, Penn Yan, NY 14527",
+    "lat": 42.65665,
+    "lng": -77.0549,
+    "phone": "(888) 414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "description": "Finger Lakes Premier Properties offers pet-friendly vacation rentals and says dogs receive a welcome bag at eligible pet-friendly homes.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/pet-friendly",
+    "needsReview": false
+  },
+  {
+    "id": "hidden-marsh-distillery",
+    "name": "Hidden Marsh Distillery",
+    "address": "2981 U.S. Route 20, Seneca Falls, NY 13148",
+    "phone": "(315) 568-8190",
+    "website": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "hours": {
+      "mon": { "open": "09:00", "close": "18:00" },
+      "tue": { "open": "09:00", "close": "18:00" },
+      "wed": { "open": "09:00", "close": "18:00" },
+      "thu": { "open": "09:00", "close": "21:00" },
+      "fri": { "open": "09:00", "close": "18:00" },
+      "sat": { "open": "09:00", "close": "18:00" },
+      "sun": { "open": "09:00", "close": "18:00" }
+    },
+    "description": "Pet-friendly Martin Family craft distillery co-located with Montezuma Winery, offering small-batch spirits and tastings in Seneca Falls.",
+    "sourceUrl": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "needsReview": false
+  },
+  {
+    "id": "inspire-moore-winery-vineyard",
+    "name": "Inspire Moore Winery & Vineyard",
+    "address": "197 N. Main St., Naples, NY 14512",
+    "phone": "(585) 374-5970",
+    "website": "https://inspiremoorewinery.com/",
+    "hours": {
+      "mon": { "open": "11:00", "close": "17:00" },
+      "tue": { "open": "11:00", "close": "17:00" },
+      "wed": { "open": "11:00", "close": "17:00" },
+      "thu": { "open": "11:00", "close": "17:00" },
+      "fri": { "open": "11:00", "close": "17:00" },
+      "sat": { "open": "11:00", "close": "18:00" },
+      "sun": { "open": "11:00", "close": "17:00" }
+    },
+    "hoursNote": "Hours shown are official June-October hours; official site lists reduced seasonal hours for November-May.",
+    "description": "Naples winery, vineyard, and venue; pet-travel listings report leashed dogs are welcome inside and outside.",
+    "sourceUrl": "https://inspiremoorewinery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "noble-shepherd-craft-brewery",
+    "name": "Noble Shepherd Craft Brewery",
+    "address": "7853 State Route 20A, Bloomfield, NY 14469",
+    "phone": "(585) 229-7661",
+    "website": "https://www.nobleshepherdbrewery.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": { "open": "16:00", "close": "20:00" },
+      "fri": { "open": "12:00", "close": "20:00" },
+      "sat": { "open": "12:00", "close": "20:00" },
+      "sun": { "open": "11:30", "close": "15:00" }
+    },
+    "hoursNote": "Official site labels these as Noble Kitchen hours; confirm taproom and pet policy before visiting.",
+    "description": "Bloomfield craft brewery with food service; pet-travel listings report dogs are welcome in the taproom and outdoor patio.",
+    "sourceUrl": "https://www.nobleshepherdbrewery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "osb-ciderworks",
+    "name": "OSB Ciderworks",
+    "address": "5901 Big Tree Road, Lakeville, NY 14480",
+    "phone": "(585) 346-7027",
+    "website": "https://www.osbciderworks.com/",
+    "hoursNote": "Current hours were found only in third-party pet-friendly listings, not on the official site; confirm before visiting.",
+    "description": "Lakeville cidery also known as Original Stump Blower Ciderworks; pet-friendly listings report dogs are welcome indoors and outdoors.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/80370",
+    "needsReview": true
+  },
+  {
+    "id": "rising-storm-brewing-company",
+    "name": "Rising Storm Brewing Company",
+    "address": "5750 South Lima Road, Avon, NY 14414",
+    "phone": "(585) 572-3009",
+    "website": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": { "open": "16:00", "close": "21:00" },
+      "thu": { "open": "16:00", "close": "21:00" },
+      "fri": { "open": "15:00", "close": "22:00" },
+      "sat": { "open": "12:00", "close": "22:00" },
+      "sun": { "open": "12:00", "close": "18:00" }
+    },
+    "description": "Rising Storm's Livonia/Avon taproom sits on a 12-acre property; visitor listings describe its outdoor areas as dog-friendly.",
+    "sourceUrl": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "needsReview": false
+  },
+  {
+    "id": "sampson-state-park",
+    "name": "Sampson State Park",
+    "address": "6096 Route 96A, Romulus, NY 14541",
+    "phone": "(315) 585-6392",
+    "website": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "hoursNote": "Official page says the park is open year-round dawn to dusk; daily hours are dawn to dark, and non-camping/non-slip visitors must leave by 22:00. Museum hours differ seasonally.",
+    "description": "Dog-friendly state park on Seneca Lake; official pet policy allows up to two supervised pets in campsites and day-use areas unless prohibited by sign, with pets crated or leashed no longer than 6 feet.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "needsReview": false
+  },
+  {
+    "id": "the-staving-artist",
+    "name": "Staving Artist Woodwork",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 384-1110",
+    "website": "https://stavingartist.com/",
+    "hoursNote": "Finger Lakes Tourism Alliance lists winter hours only; current non-winter hours were not verified.",
+    "description": "Pet-friendly Penn Yan woodwork and gift shop specializing in handcrafted items made from reclaimed barrel staves and other sustainable materials.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/staving-artist-woodwork",
+    "needsReview": false
+  },
+  {
+    "id": "wagner-valley-brewing-co",
+    "name": "Wagner Valley Brewing Co",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnerbrewing.com/",
+    "hours": {
+      "mon": { "open": "10:00", "close": "17:00" },
+      "tue": { "open": "10:00", "close": "17:00" },
+      "wed": { "open": "10:00", "close": "17:00" },
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": { "open": "10:00", "close": "17:00" }
+    },
+    "hoursNote": "Official hours page says winter hours vary and Friday summer music events may run after regular tasting hours.",
+    "description": "Seneca Lake brewery at Wagner Vineyards; official dog policy welcomes friendly, well-behaved, leashed dogs on the lawn, seasonally enclosed deck, Vantage Point, and a designated cafe-deck section during regular business hours.",
+    "sourceUrl": "https://wagnervineyards.com/plan-wine-tasting/dog-policy/",
+    "needsReview": false
+  }
+]

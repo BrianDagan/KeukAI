@@ -1,0 +1,706 @@
+[
+  {
+    "id": "lamoreaux-landing-wine-cellars",
+    "name": "Lamoreaux Landing Wine Cellars",
+    "categories": [
+      "museum-historical",
+      "winery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "9224 NY-414, Lodi, NY 14860",
+    "phone": "(607) 582-6011",
+    "website": "https://lamoreauxwine.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Last tastings at 16:00; wine by the glass until 16:30; purchases until 17:00. Closed New Year's Day, Easter, Thanksgiving, and Christmas Day.",
+    "description": "Estate winery on the east side of Seneca Lake offering tastings of estate-grown wines with panoramic lake views. Its building was designed to resemble a Greek Revival temple.",
+    "sourceUrl": "https://lamoreauxwine.com/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "love-geneva-mural",
+    "name": "LOVE Geneva Mural",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "Linden Street behind Super Casuals, Geneva, NY 14456",
+    "description": "Outdoor mural in downtown Geneva showing four hands spelling “LOVE.” It was based on Baltimore artist Michael Owen's design and installed as a local community art project.",
+    "sourceUrl": "https://www.visitfingerlakes.com/blog/post/which-finger-lakes-mural-is-your-favorite/",
+    "needsReview": true
+  },
+  {
+    "id": "artizanns",
+    "name": "Artizanns",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Canandaigua",
+    "address": "118 North Main Street, Naples, NY 14512",
+    "phone": "(585) 374-6740",
+    "website": "https://artizanns.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours from the official hours-and-location page surfaced in search results; the page is JavaScript-rendered and should be rechecked before publication.",
+    "description": "Artizanns is a Naples gift gallery and art studio featuring work by regional artists and makers. It carries fine art, jewelry, ceramics, glass, fiber art, woodwork, and other handcrafted items.",
+    "sourceUrl": "https://artizanns.com/pages/about-us",
+    "needsReview": true
+  },
+  {
+    "id": "arts-center-of-yates-county",
+    "name": "Arts Center of Yates County",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "127 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-8226",
+    "website": "https://artscenteryatescounty.org",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours were corroborated by regional chamber/listing sources but should be rechecked against the official site before publication.",
+    "description": "Community arts center in Penn Yan with rotating gallery exhibitions, classes, workshops, and a shop featuring local and regional artists. It operates gallery space in the village near Keuka Lake.",
+    "sourceUrl": "https://artscenteryatescounty.org/",
+    "needsReview": true
+  },
+  {
+    "id": "artscape-ithaca",
+    "name": "Artscape Ithaca",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "website": "https://www.artscapeithaca.com",
+    "hoursNote": "Distributed outdoor public art; no single venue hours were verified.",
+    "description": "Artscape Ithaca is an interactive public-art map and initiative for murals, sculptures, mosaics, and other works around Ithaca and Tompkins County. It is not a single indoor museum venue.",
+    "sourceUrl": "https://www.artscapeithaca.com/",
+    "needsReview": true
+  },
+  {
+    "id": "constellation-brands-marvin-sands-performing-arts-center-cmac",
+    "name": "Constellation Brands – Marvin Sands Performing Arts Center (CMAC)",
+    "categories": [
+      "festival-event",
+      "museum-historical"
+    ],
+    "lake": "Canandaigua",
+    "address": "3355 Marvin Sands Drive, Canandaigua, NY 14424",
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com",
+    "hoursNote": "Seasonal concert venue; box office hours and gate times vary by event.",
+    "description": "CMAC is an outdoor performing arts amphitheater on the Finger Lakes Community College campus in Canandaigua. It hosts a summer concert season with pavilion and lawn seating.",
+    "sourceUrl": "https://www.cmacevents.com/cmac-venue/",
+    "needsReview": false
+  },
+  {
+    "id": "frames-galore-more",
+    "name": "Frames Galore & More",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "111 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-6826",
+    "description": "Frames Galore & More is a custom picture-framing shop in downtown Penn Yan. No museum or historical-site function was verified from reliable sources.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/picture-frame-shop/2001118522-frames-galore-more",
+    "needsReview": true
+  },
+  {
+    "id": "livingston-county-inspirations-trail",
+    "name": "Livingston County Inspirations Trail",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "website": "https://inspirationstrail.com",
+    "hoursNote": "Self-guided outdoor public-art trail; no single venue hours were verified.",
+    "description": "The Livingston County Inspirations Trail is a self-guided public-art route through nine downtown villages with murals, sculptures, and storefront art. The works feature uplifting words or phrases by local, regional, and national artists.",
+    "sourceUrl": "https://inspirationstrail.com/about",
+    "needsReview": true
+  },
+  {
+    "id": "its-a-wonderful-life-museum",
+    "name": "It's A Wonderful Life Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "76 Fall Street, Seneca Falls, NY 13148",
+    "phone": "(315) 568-5838",
+    "website": "https://www.wonderfullifemuseum.com",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Temporary location while the original 32 Fall Street building is under renovation; closed Sundays, Mondays, and major holidays.",
+    "description": "Museum in Seneca Falls dedicated to the film “It's a Wonderful Life” and the town's connections to the story. It is operating from a temporary Fall Street location during renovation of its original building.",
+    "sourceUrl": "https://www.wonderfullifemuseum.com/visit-1-2/",
+    "needsReview": true
+  },
+  {
+    "id": "mill-art-center-gallery",
+    "name": "Mill Art Center & Gallery",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "61 North Main Street, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-7740",
+    "website": "https://www.millartcenter.com",
+    "hoursNote": "Exhibition hours vary by show; no stable year-round schedule was verified.",
+    "description": "Community art center and gallery in Honeoye Falls with rotating visual-art exhibitions. It also offers art classes and workshops for adults and other learners.",
+    "sourceUrl": "https://www.millartcenter.com/new-page-3",
+    "needsReview": true
+  },
+  {
+    "id": "sampson-state-park",
+    "name": "Sampson State Park",
+    "categories": [
+      "museum-historical",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "6096 Route 96A, Romulus, NY 14541",
+    "phone": "(315) 585-6392",
+    "website": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "hoursNote": "State park grounds are generally open year-round dawn to dusk; on-site military-history museum hours were not confirmed from the official park page.",
+    "description": "State park on the eastern shore of Seneca Lake at the former Sampson Naval Training Station and Sampson Air Force Base site. The park offers camping, marina access, a beach, trails, and military-history interpretation.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "needsReview": true
+  },
+  {
+    "id": "staving-artist-woodwork",
+    "name": "Staving Artist Woodwork",
+    "categories": [
+      "museum-historical",
+      "shopping",
+      "dog-friendly"
+    ],
+    "lake": "Keuka",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 384-1110",
+    "website": "https://stavingartist.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "wed": null,
+      "thu": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Seasonal hours may differ; listed hours are from the Finger Lakes Tourism Alliance partner page.",
+    "description": "Retail artisan shop in Penn Yan making furniture, decor, lighting, and gifts from reclaimed Finger Lakes wine barrels. “Staving” is intentional and refers to barrel staves.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/staving-artist-woodwork",
+    "needsReview": false
+  },
+  {
+    "id": "wisdom-livco-walls-mural",
+    "name": "Wisdom (LivCo Walls Mural)",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "address": "125 Main Street, Geneseo, NY 14454",
+    "hoursNote": "Outdoor public mural; no posted venue hours were verified.",
+    "description": "Large-scale mural in downtown Geneseo created by artist duo KEY DETAIL for Livingston County's 2022 LivCo Walls mural festival. It is part of the county's public-art trail.",
+    "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "needsReview": false
+  },
+  {
+    "id": "womens-rights-national-historical-park",
+    "name": "Women's Rights National Historical Park",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "136 Fall Street, Seneca Falls, NY 13148",
+    "phone": "(315) 568-0024",
+    "website": "https://www.nps.gov/wori/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Visitor Center and Wesleyan Chapel summer-season hours; grounds are open dawn to dusk. Closed Thanksgiving Day, Christmas Day, and New Year's Day.",
+    "description": "National Park Service site preserving places associated with the first Women's Rights Convention held in Seneca Falls in 1848. The park includes the visitor center, Wesleyan Chapel, and Elizabeth Cady Stanton-related sites.",
+    "sourceUrl": "https://www.nps.gov/wori/planyourvisit/hours.htm",
+    "needsReview": false
+  },
+  {
+    "id": "glenn-h-curtiss-museum",
+    "name": "Glenn H. Curtiss Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "8419 State Route 54, Hammondsport, NY 14840",
+    "phone": "(607) 569-2160",
+    "website": "https://glennhcurtissmuseum.org",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "May 1–October 31 hours; winter hours are shorter. Closed Easter, Thanksgiving, Christmas Eve, Christmas Day, and New Year's Day.",
+    "description": "Museum honoring aviation and motorcycle pioneer Glenn H. Curtiss in Hammondsport. Exhibits cover early aviation, motorcycles, bicycles, regional history, and aircraft restoration work.",
+    "sourceUrl": "https://glennhcurtissmuseum.org/about/",
+    "needsReview": false
+  },
+  {
+    "id": "genesee-country-village-museum",
+    "name": "Genesee Country Village & Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "1410 Flint Hill Road, Mumford, NY 14511",
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org",
+    "hoursNote": "Seasonal living-history museum; exact current season dates and daily hours should be verified on the admission page.",
+    "description": "Large living-history museum in Mumford with historic buildings, costumed interpretation, nature trails, and collections interpreting 19th-century life in New York State. The official name omits “Valley.”",
+    "sourceUrl": "https://www.gcv.org/admission/",
+    "needsReview": true
+  },
+  {
+    "id": "greater-ithaca-art-trail",
+    "name": "Greater Ithaca Art Trail",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "website": "https://arttrail.com",
+    "hoursNote": "Distributed artist-studio trail; studio hours vary and annual open-studio dates must be verified each year.",
+    "description": "Self-guided studio trail featuring visual artists across Tompkins County in the Cayuga Lake region. Visitors use the trail to find artist studios and open-studio events.",
+    "sourceUrl": "https://arttrail.com/",
+    "needsReview": true
+  },
+  {
+    "id": "herbert-f-johnson-museum-of-art",
+    "name": "Herbert F. Johnson Museum of Art",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "address": "114 Central Avenue, Ithaca, NY 14853",
+    "phone": "(607) 255-6464",
+    "website": "https://museum.cornell.edu",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Hours may vary during Cornell breaks and holidays; direct official page rendering should be rechecked.",
+    "description": "Cornell University's art museum in an I. M. Pei-designed building on the Ithaca campus. Its collections include Asian art, prints, drawings, photography, and contemporary works.",
+    "sourceUrl": "https://museum.cornell.edu/about/visit/",
+    "needsReview": true
+  },
+  {
+    "id": "livingston-county-historical-society-museum",
+    "name": "Livingston County Historical Society Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "14:00",
+        "close": "17:00"
+      },
+      "fri": null,
+      "sat": {
+        "open": "14:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "14:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open May 1 through October 31 only; admission is free.",
+    "description": "Museum occupying Geneseo's 1838 District #5 cobblestone schoolhouse in the Geneseo National Historic Landmark District. Its collections preserve and interpret more than 200 years of Livingston County history.",
+    "sourceUrl": "https://www.livingstoncountyhistoricalsociety.com/hours",
+    "needsReview": true
+  },
+  {
+    "id": "national-memorial-day-museum",
+    "name": "National Memorial Day Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "35 East Main Street, Waterloo, NY 13165",
+    "phone": "(315) 539-9611",
+    "website": "https://wlhs-ny.com/national-memorial-day-museum/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Open Memorial Day through Labor Day only; also available by appointment or by chance.",
+    "description": "Museum operated by the Waterloo Library & Historical Society interpreting Waterloo's role as the federally recognized birthplace of Memorial Day. Exhibits cover the 1866 observance and local Memorial Day founders and traditions.",
+    "sourceUrl": "https://wlhs-ny.com/national-memorial-day-museum/",
+    "needsReview": false
+  },
+  {
+    "id": "philippe-farauts-gallery",
+    "name": "Philippe Faraut's Gallery",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "phone": "(585) 229-2976",
+    "website": "https://www.philippefaraut.com",
+    "hoursNote": "No fixed public hours verified; official site says the gallery is open when the open flag is out and recommends calling or messaging ahead.",
+    "description": "Gallery associated with sculptor Philippe Faraut in Honeoye, displaying his terra cotta, bronze, marble, and wire-mesh sculpture work. The candidate spelling “Phillipe” was corrected to “Philippe.”",
+    "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
+    "needsReview": true
+  },
+  {
+    "id": "pleasant-valley-wine-company",
+    "name": "Pleasant Valley Wine Company",
+    "categories": [
+      "museum-historical",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "8260 Pleasant Valley Road, Hammondsport, NY 14840",
+    "phone": "(607) 569-6111",
+    "website": "https://www.pleasantvalleywine.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Visitor Center April–December hours; January–March hours are Tuesday–Saturday 10:00–16:00. Tours run Memorial Day through mid-November, weather permitting.",
+    "description": "Historic Hammondsport winery established in 1860 and known as U.S. Bonded Winery No. 1. Its Great Western Winery Visitor Center includes historic exhibits, winemaking displays, and a theatre in a wine tank.",
+    "sourceUrl": "https://www.pleasantvalleywine.com/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "ring-of-fire",
+    "name": "Ring of Fire",
+    "categories": [
+      "festival-event",
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "hoursNote": "Annual Keuka Lake Association event; 2026 Ring of Fire Flares are listed for Saturday, September 5, 21:00–21:30. No single venue address or phone applies.",
+    "description": "Keuka Lake Ring of Fire is an annual community tradition in which flares are lit around Keuka Lake over Labor Day weekend. The 2026 event is listed by the Keuka Lake Association as Ring of Fire Flares.",
+    "needsReview": true,
+    "sourceUrl": "https://keukalakeassociation.org/event.php?id=57"
+  },
+  {
+    "id": "sonnenberg-gardens-mansion-state-historic-park",
+    "name": "Sonnenberg Gardens & Mansion State Historic Park",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Canandaigua",
+    "address": "250 Gibson Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-4922",
+    "website": "https://www.sonnenberg.org",
+    "hours": {
+      "mon": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "fri": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "09:30",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "Open May 1 through October 31, Thursday–Monday; admissions close at 16:00. Closed Tuesdays and Wednesdays.",
+    "description": "State historic park in Canandaigua featuring a Queen Anne-style mansion and formal gardens on a historic estate. Sonnenberg opened to the public in 1973 and is a major Ontario County landmark.",
+    "sourceUrl": "https://www.sonnenberg.org/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "the-gallery-in-the-valley",
+    "name": "The Gallery in the Valley",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "description": "No official or reliable public source was found for a Finger Lakes destination by this name. The entry may be misnamed, closed, or not a verifiable public place.",
+    "needsReview": true
+  },
+  {
+    "id": "new-york-kitchen",
+    "name": "New York Kitchen",
+    "categories": [
+      "museum-historical",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "800 South Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-7070",
+    "website": "https://www.nykitchen.com",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Guest Services hours; tasting room and class schedules vary by day and event.",
+    "description": "Nonprofit culinary center in Canandaigua promoting New York State agriculture, food, wine, beer, and spirits. It offers cooking classes, tastings, events, and a New York-focused tasting room.",
+    "sourceUrl": "https://www.nykitchen.com/plan-your-visit",
+    "needsReview": false
+  }
+]

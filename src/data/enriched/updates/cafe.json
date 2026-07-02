@@ -1,0 +1,161 @@
+[
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "address": "3772 W Lake Rd, Geneseo, NY 14454",
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Summer tasting-room hours reported by regional listings; confirm seasonal changes with the winery.",
+    "description": "Conesus Lake winery with an on-site Tankroom Cafe.",
+    "sourceUrl": "https://www.deerrunwinery.com/tankroom-cafe",
+    "needsReview": false
+  },
+  {
+    "id": "mill-creek-cafe",
+    "name": "Mill Creek Cafe",
+    "address": "8705 Main St, Honeoye, NY 14471",
+    "phone": "(585) 229-2620",
+    "website": "https://millcreekcafe.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Official site states open Thursday through Monday, 11am to 8pm.",
+    "description": "Honeoye cafe and restaurant at 8705 Main St.",
+    "sourceUrl": "https://millcreekcafe.com/",
+    "needsReview": false
+  },
+  {
+    "id": "pops-bakery-deli",
+    "name": "Pop's Bakery & Deli",
+    "address": "8608 Main St, Honeoye, NY 14471",
+    "phone": "(585) 229-1328",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "No official website verified; hours are from Restaurantji and should be confirmed.",
+    "description": "Honeoye bakery and deli serving baked goods, deli items, and casual meals.",
+    "sourceUrl": "https://www.restaurantji.com/ny/honeoye/pop-s-bakery-and-deli-/",
+    "needsReview": true
+  },
+  {
+    "id": "sweet-melissas",
+    "name": "Sweet Melissa's",
+    "needsReview": true
+  },
+  {
+    "id": "tree-huggers-cafe",
+    "name": "Tree Huggers Café",
+    "needsReview": true
+  },
+  {
+    "id": "verns-bakery",
+    "name": "Vern's Bakery",
+    "address": "49 Shethar St, Hammondsport, NY 14840",
+    "phone": "(680) 867-3803",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "wed": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "thu": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "fri": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sat": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sun": {
+        "open": "06:30",
+        "close": "11:30"
+      }
+    },
+    "hoursNote": "No official website verified; hours are from Restaurantji and should be confirmed.",
+    "description": "Hammondsport bakery at 49 Shethar St.",
+    "sourceUrl": "https://www.restaurantji.com/ny/hammondsport/verns-bakery-/",
+    "needsReview": true
+  },
+  {
+    "id": "water-street-coffee",
+    "name": "Water Street Coffee",
+    "needsReview": true
+  }
+]

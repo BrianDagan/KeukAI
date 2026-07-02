@@ -1,0 +1,245 @@
+[
+  {
+    "id": "barrington-distillers",
+    "name": "Barrington Distillers",
+    "address": "5040 Bill Bailey Road, Dundee, NY 14837",
+    "phone": "(607) 243-9734",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "No official website was verified; confirm hours by phone before visiting.",
+    "description": "Hand-crafted spirits created in the heart of the Finger Lakes.",
+    "sourceUrl": "https://www.fingerlakestravelny.com/listing/barrington-distillers/",
+    "needsReview": true
+  },
+  {
+    "id": "birdhouse-brewing-company",
+    "name": "Birdhouse Brewing Company",
+    "address": "8716 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1216",
+    "website": "https://birdhousebrewing.beer/",
+    "hours": {
+      "mon": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Honeoye brewery serving craft beer, cider, weekly menus, and Sunday seasonal menus.",
+    "sourceUrl": "https://birdhousebrewing.beer/",
+    "needsReview": false
+  },
+  {
+    "id": "black-sheep-small-batch-distillery",
+    "name": "Black Sheep Small Batch Distillery",
+    "address": "8059 County Route 77, Prattsburgh, NY 14873",
+    "website": "https://blacksheepdistilleryny.com/",
+    "hoursNote": "Official visitor page says to check the Google page for current regular, seasonal, holiday, and special-event hours; phone listings vary across sources.",
+    "description": "Prattsburgh distillery handcrafting whiskey, gin, vodka, bourbon, rye, and moonshine.",
+    "sourceUrl": "https://blacksheepdistilleryny.com/visit-us/",
+    "needsReview": true
+  },
+  {
+    "id": "cb-craft-brewers",
+    "name": "CB Craft Brewers",
+    "address": "300 Village Square Boulevard, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-4386",
+    "hoursNote": "Public sources report CB Craft Brewers permanently closed on September 1, 2019; no current official website was verified.",
+    "description": "Former Honeoye Falls brewery; should not be recommended as an active stop.",
+    "sourceUrl": "https://absolutebeer.com/news/new-york-based-cb-craft-brewers-to-close/",
+    "needsReview": true
+  },
+  {
+    "id": "hidden-marsh-distillery",
+    "name": "Hidden Marsh Distillery",
+    "address": "2981 U.S. Route 20, Seneca Falls, NY 13148",
+    "phone": "(315) 568-8190",
+    "website": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "hoursNote": "Co-located with Montezuma Winery Finger Lakes; official page notes the tasting bar closes 15 minutes prior to winery closing.",
+    "description": "Martin Family distillery producing high-quality, small-batch spirits at the Montezuma Winery Finger Lakes location.",
+    "sourceUrl": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "needsReview": false
+  },
+  {
+    "id": "noble-shepherd-craft-brewery",
+    "name": "Noble Shepherd Craft Brewery",
+    "address": "7853 State Route 20A, Bloomfield, NY 14469",
+    "phone": "(585) 229-7661",
+    "website": "https://www.nobleshepherdbrewery.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tasting room hours verified from the official contact page; Noble Kitchen has separate hours.",
+    "description": "Bloomfield craft brewery focused on creating delicious, refreshing beers.",
+    "sourceUrl": "https://www.nobleshepherdbrewery.com/contact",
+    "needsReview": false
+  },
+  {
+    "id": "osb-ciderworks",
+    "name": "OSB Ciderworks",
+    "address": "5901 Big Tree Road, Lakeville, NY 14480",
+    "phone": "(585) 346-7027",
+    "website": "https://www.osbciderworks.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "description": "Lakeville cidery using New York State apples and local ingredients.",
+    "sourceUrl": "https://www.osbciderworks.com/lakeville",
+    "needsReview": false
+  },
+  {
+    "id": "rising-storm-brewing-company",
+    "name": "Rising Storm Brewing Company",
+    "address": "5750 South Lima Road, Avon, NY 14414",
+    "phone": "(585) 572-3009",
+    "website": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "description": "Rising Storm's Livonia location serves beer plus high-quality, approachable food daily in the taproom.",
+    "sourceUrl": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "needsReview": false
+  },
+  {
+    "id": "wagner-valley-brewing-co",
+    "name": "Wagner Valley Brewing Co",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnerbrewing.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Brewery tastings are first come, first served; group reservations are not taken for brewery tastings.",
+    "description": "One of the oldest craft breweries in the Finger Lakes and the first craft brewery on Seneca Lake.",
+    "sourceUrl": "https://wagnerbrewing.com/",
+    "needsReview": false
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "2025-ports-of-call",
+    "name": "2025 Ports of Call",
+    "address": "Cayuga Lake Wine Trail wineries, NY",
+    "website": "https://cayugawinetrail.com/events/trail/02-22-2025",
+    "hoursNote": "Feb 22-23, 2025, 10am-5pm",
+    "description": "A Cayuga Lake Wine Trail wine-and-food event held across participating wineries, with each stop pairing wines with international dishes.",
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/02-22-2025",
+    "needsReview": true
+  },
+  {
+    "id": "bines-fest",
+    "name": "Bines Fest",
+    "address": "Climbing Bines Hop Farm & Craft Ale Company, 511 Hansen Point Rd, Penn Yan, NY 14527",
+    "website": "https://www.climbingbineshopfarm.com/bines-fest/",
+    "description": "Event listing for Bines Fest at Climbing Bines; a current public event date could not be verified from the official event page.",
+    "sourceUrl": "https://www.climbingbineshopfarm.com/contact-us/",
+    "needsReview": true
+  },
+  {
+    "id": "charles-dickens-christmas-festival",
+    "name": "Charles Dickens Christmas Festival",
+    "address": "Skaneateles, NY",
+    "website": "https://www.skaneateles.com/",
+    "hoursNote": "Nov 28-Dec 24, 2025; weekends noon-4pm, Christmas Eve noon-2:30pm",
+    "description": "A holiday street festival in downtown Skaneateles with Dickens characters, caroling, parades, and horse-drawn wagon rides.",
+    "sourceUrl": "https://www.skaneateles.com/sites/default/files/Dickens%20Christmas%20Calendar%20of%20Events%20UPDATED.pdf",
+    "needsReview": false
+  },
+  {
+    "id": "chocolate-and-wine-weekend",
+    "name": "Chocolate & Wine Weekend",
+    "address": "Seneca Lake Wine Trail, NY",
+    "website": "https://senecalakewine.com/event/chocolate-wine/",
+    "hoursNote": "Feb 20-22, 2026; Fri noon-5pm, Sat-Sun 10am-5pm",
+    "description": "A Seneca Lake Wine Trail chocolate-and-wine pairing weekend held at participating wineries around Seneca Lake.",
+    "sourceUrl": "https://senecalakewine.com/event/chocolate-wine/",
+    "needsReview": false
+  },
+  {
+    "id": "cmac-performing-arts",
+    "name": "CMAC Performing Arts",
+    "address": "Constellation Brands-Marvin Sands Performing Arts Center, 3355 Marvin Sands Dr, Canandaigua, NY 14424",
+    "lat": 42.8669256,
+    "lng": -77.2439521,
+    "website": "https://www.cmacevents.com/",
+    "hoursNote": "Annual summer concert season; 2026 events listed from June onward",
+    "description": "Outdoor amphitheater on the Finger Lakes Community College campus hosting a seasonal lineup of concerts and performances.",
+    "sourceUrl": "https://www.cmacevents.com/",
+    "needsReview": false
+  },
+  {
+    "id": "flx-summer-fest-at-the-glen",
+    "name": "F.L.X. Summer Fest at The Glen",
+    "address": "Watkins Glen International, 2790 County Route 16, Watkins Glen, NY 14891",
+    "lat": 42.3363805,
+    "lng": -76.9250488,
+    "website": "https://www.theglen.com/events/flxfest/",
+    "hoursNote": "2025 event canceled; no future date verified",
+    "description": "F.L.X. Summer Fest at Watkins Glen International was canceled for 2025; review before publishing as an active event.",
+    "sourceUrl": "https://www.theglen.com/events/flxfest/",
+    "needsReview": true
+  },
+  {
+    "id": "finger-lakes-wine-festival",
+    "name": "Finger Lakes Wine Festival",
+    "address": "Watkins Glen International, 2790 County Route 16, Watkins Glen, NY 14891",
+    "lat": 42.3363805,
+    "lng": -76.9250488,
+    "website": "https://www.theglen.com/events/flxfest/",
+    "description": "The former Finger Lakes Wine Festival was replaced by F.L.X. Summer Fest at Watkins Glen International; the 2025 replacement event was canceled.",
+    "sourceUrl": "https://www.theglen.com/events/flxfest/",
+    "needsReview": true
+  },
+  {
+    "id": "finger-lakes-winter-carnival",
+    "name": "Finger Lakes Winter Carnival",
+    "address": "The Lake House on Canandaigua, 770 South Main St, Canandaigua, NY 14424",
+    "lat": 42.8744207,
+    "lng": -77.2742877,
+    "website": "https://www.visitfingerlakes.com/event/finger-lakes-winter-carnival/30657/",
+    "hoursNote": "Jan 17-19, 2025; main Lake House activities Jan 18-19 noon-4pm",
+    "description": "A Canandaigua winter festival with activities at The Lake House on Canandaigua, Bristol Mountain, New York Kitchen, and downtown Canandaigua.",
+    "sourceUrl": "https://www.visitfingerlakes.com/event/finger-lakes-winter-carnival/30657/",
+    "needsReview": false
+  },
+  {
+    "id": "fire-and-ice-festival",
+    "name": "Fire & Ice Festival",
+    "address": "Watkins Glen Harbor Hotel, 16 North Franklin St, Watkins Glen, NY 14891",
+    "lat": 42.3832859,
+    "lng": -76.8737352,
+    "website": "https://www.watkinsglenharborhotel.com/experiences/fire-ice",
+    "hoursNote": "Last held Jan 29-31, 2026; 2027 dates not announced",
+    "description": "Watkins Glen Harbor Hotel's annual Fire & Ice Celebration features ice sculptures, ice bars, fire pits, music, and charity fundraising.",
+    "sourceUrl": "https://www.watkinsglenharborhotel.com/experiences/fire-ice",
+    "needsReview": true
+  },
+  {
+    "id": "fly-in-drive-in-breakfast",
+    "name": "Fly-in / Drive-in Breakfast",
+    "address": "Penn Yan Airport, 2258 Airport Dr, Penn Yan, NY 14527",
+    "lat": 42.6343699,
+    "lng": -77.0525337,
+    "website": "https://www.pennyanflyingclub.com/",
+    "hoursNote": "Jul 4, 2026, 6am-11:30am",
+    "description": "Penn Yan Flying Club's July 4 fly-in/drive-in breakfast at Penn Yan Airport, with breakfast, aircraft, rides, raffles, and family activities.",
+    "sourceUrl": "https://www.keukalakeassociation.org/event.php?id=49",
+    "needsReview": false
+  },
+  {
+    "id": "harvest-festival-at-hunt-country-vineyards",
+    "name": "Harvest Festival at Hunt Country Vineyards",
+    "address": "Hunt Country Vineyards, 4021 Italy Hill Rd, Branchport, NY 14418",
+    "lat": 42.5983092,
+    "lng": -77.1724244,
+    "website": "https://www.huntwines.com/",
+    "hoursNote": "Oct 4, 2025, 10am-5pm",
+    "description": "Hunt Country Vineyards' annual harvest festival includes grape stomping, vineyard tours, sustainability tours, live music, food, and wine.",
+    "sourceUrl": "https://www.localwineevents.com/view/event/hunt-country-vineyards-37th-annual-harvest-festival-2025/917095",
+    "needsReview": false
+  },
+  {
+    "id": "it-s-a-wounderful-life-festival",
+    "name": "It’s A Wounderful Life Festival",
+    "address": "Seneca Falls, NY",
+    "website": "https://www.therealbedfordfalls.com/",
+    "hoursNote": "Dec 12-14, 2025",
+    "description": "The It's a Wonderful Life Festival brings holiday events, film screenings, a run, parades, and downtown activities to Seneca Falls.",
+    "sourceUrl": "https://www.therealbedfordfalls.com/",
+    "needsReview": false
+  },
+  {
+    "id": "italian-american-festival",
+    "name": "Italian American Festival",
+    "address": "Clute Park, 155 South Clute Park Dr, Watkins Glen, NY 14891",
+    "lat": 42.3850731,
+    "lng": -76.8602359,
+    "website": "https://www.wgitalianamericanfestival.com/",
+    "hoursNote": "Aug 13-15, 2026; Thu-Fri 4-10pm, Sat noon-10:30pm",
+    "description": "The Schuyler County Italian American Festival at Clute Park in Watkins Glen features food, entertainment, vendors, and community events.",
+    "sourceUrl": "https://www.wgitalianamericanfestival.com/",
+    "needsReview": false
+  },
+  {
+    "id": "naples-grape-festival",
+    "name": "Naples Grape Festival",
+    "address": "Naples High School grounds and Memorial Town Hall, 137 N Main St, Naples, NY 14512",
+    "website": "https://naplesgrapefest.org/",
+    "hoursNote": "Sep 26-27, 2026, 10am-5pm",
+    "description": "A two-day Naples grape harvest festival with arts and crafts, food, wine, music, and grape pies at Naples High School grounds and Memorial Town Hall.",
+    "sourceUrl": "https://naplesgrapefest.org/faqs.php",
+    "needsReview": false
+  },
+  {
+    "id": "nascar-at-the-glen",
+    "name": "NASCAR at The Glen",
+    "address": "Watkins Glen International, 2790 County Route 16, Watkins Glen, NY 14891",
+    "lat": 42.3363805,
+    "lng": -76.9250488,
+    "website": "https://www.theglen.com/",
+    "hoursNote": "May 8-10, 2026",
+    "description": "NASCAR weekend at Watkins Glen International, including Truck Series, O'Reilly Auto Parts Series, and NASCAR Cup Series racing.",
+    "sourceUrl": "https://www.theglen.com/news/2025/08/20/watkins-glen-international-springs-into-2026-season-with-triple-header-may-nascar-weekend/",
+    "needsReview": false
+  },
+  {
+    "id": "seaplane-homecoming",
+    "name": "Seaplane Homecoming",
+    "address": "Depot Park, 16 Water St, Hammondsport, NY 14840",
+    "lat": 42.4103306,
+    "lng": -77.2185973,
+    "website": "https://glennhcurtissmuseum.org/wingswheels/",
+    "hoursNote": "Sep 19, 2026, 10am-4pm",
+    "description": "Glenn Curtiss Museum's Wings & Wheels / Seaplane Homecoming in Hammondsport features seaplanes at Depot Park plus cars, motorcycles, and family activities.",
+    "sourceUrl": "https://glennhcurtissmuseum.org/wingswheels/",
+    "needsReview": false
+  },
+  {
+    "id": "smoke-on-the-water",
+    "name": "Smoke on the Water",
+    "address": "Hammondsport Fire Department, 8521 State Route 54, Hammondsport, NY 14840",
+    "website": "https://hfd-ny.com/",
+    "hoursNote": "Aug 29, 2026, noon-8pm",
+    "description": "A Hammondsport Fire Department barbecue competition and community festival with BBQ tastings, music, vendors, and family activities.",
+    "sourceUrl": "https://allevents.in/hammondsport/2026-smoke-on-the-water/200030165469308",
+    "needsReview": false
+  }
+]

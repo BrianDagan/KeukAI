@@ -1,0 +1,502 @@
+[
+  {
+    "id": "canopy-coffee-roasters",
+    "name": "Canopy Coffee Roasters",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "address": "3173 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-0836",
+    "website": "https://canopycoffeeroasters.com",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Located within Oak Hill Bulk Foods; cafe is closed Sundays.",
+    "description": "Small-batch specialty coffee roaster based at Oak Hill Bulk Foods in Penn Yan. Coffee is sold in store and online.",
+    "sourceUrl": "https://oakhillbulkfoods.com/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "oak-leaf-cafe-bakery",
+    "name": "Oak Leaf Cafe & Bakery",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "3173 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-0836",
+    "website": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Cafe is part of Oak Hill Bulk Foods and is closed Sundays.",
+    "description": "Cafe and bakery at Oak Hill Bulk Foods serving breakfast, lunch, soups, baked goods, and fry pies.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 97
+    },
+    "sourceUrl": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "needsReview": false
+  },
+  {
+    "id": "tree-huggers-cafe",
+    "name": "Tree Huggers Café",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "description": "Could not verify a Finger Lakes cafe or restaurant by this name from public listings.",
+    "needsReview": true
+  },
+  {
+    "id": "water-st-cafe",
+    "name": "Water St. Cafe",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "467 Exchange Street, Geneva, NY 14456",
+    "phone": "(315) 789-2560",
+    "website": "https://www.waterstcafeny.com/",
+    "hours": {
+      "mon": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "tue": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "wed": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "thu": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "fri": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "sat": {
+        "open": "06:00",
+        "close": "13:00"
+      },
+      "sun": {
+        "open": "06:00",
+        "close": "13:00"
+      }
+    },
+    "description": "Geneva cafe serving coffee, pastries, breakfast, and lunch from its Exchange Street location.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 295
+    },
+    "sourceUrl": "https://www.waterstcafeny.com/",
+    "needsReview": false
+  },
+  {
+    "id": "abbotts-frozen-custard",
+    "name": "Abbott's Frozen Custard",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Canandaigua",
+    "address": "150 Eastern Boulevard, Canandaigua, NY 14424",
+    "phone": "(585) 394-0117",
+    "website": "https://www.abbottscustard.com",
+    "hours": {
+      "mon": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; confirm with the Canandaigua location.",
+    "description": "Canandaigua location of Abbott's Frozen Custard, serving frozen custard, sundaes, cones, shakes, and other desserts.",
+    "reviews": {
+      "rating": 4.3,
+      "count": 42
+    },
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/abbotts-canandaigua/24/",
+    "needsReview": false
+  },
+  {
+    "id": "glazed-confused",
+    "name": "Glazed & Confused",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "address": "211 N Clinton Street, Syracuse, NY 13202",
+    "phone": "(315) 214-5544",
+    "website": "https://glazedsyr.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "14:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "14:00"
+      }
+    },
+    "description": "Downtown Syracuse small-batch donut shop known for creative made-from-scratch donuts and coffee.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 149
+    },
+    "sourceUrl": "https://glazedsyr.com/",
+    "needsReview": false
+  },
+  {
+    "id": "scuteris-cannoli-connection",
+    "name": "Scuteri's Cannoli Connection",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "409 E 4th Street, Watkins Glen, NY 14891",
+    "phone": "(607) 535-7568",
+    "website": "https://www.scuteriscannoliconnection.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Tuesday hours are listed as summer-only, and closing times may be shorter in winter; confirm before visiting.",
+    "description": "Watkins Glen bakery and takeout spot known for cannoli, Italian pastries, pizza, and wings.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 175
+    },
+    "sourceUrl": "https://www.scuteriscannoliconnection.com/contact-us/4521890",
+    "needsReview": false
+  },
+  {
+    "id": "sweet-melissas",
+    "name": "Sweet Melissa's",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "description": "Could not confidently verify a Skaneateles-area bakery or cafe by this exact name; it may be an OCR or source-name error.",
+    "needsReview": true
+  },
+  {
+    "id": "crooked-lake-ice-cream-company",
+    "name": "Crooked Lake Ice Cream Company",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "35 Shethar Street, Hammondsport, NY 14840",
+    "phone": "(607) 569-2751",
+    "website": "https://www.crookedlakeicecream.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Hours may vary in the off-season; confirm before visiting.",
+    "description": "Retro Hammondsport diner and ice cream shop serving homemade ice cream plus breakfast and lunch near Keuka Lake.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 249
+    },
+    "sourceUrl": "https://www.crookedlakeicecream.com/",
+    "needsReview": false
+  },
+  {
+    "id": "simply-crepes-canandaigua",
+    "name": "Simply Crepes Canandaigua",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "101 S Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-9090",
+    "website": "https://www.simplycrepes.com/canandaigua-ny",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Canandaigua restaurant serving sweet and savory crepes, brunch, dinner, and seasonal patio dining on South Main Street.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 498
+    },
+    "sourceUrl": "https://www.simplycrepes.com/canandaigua-ny",
+    "needsReview": false
+  },
+  {
+    "id": "mill-creek-cafe",
+    "name": "Mill Creek Cafe",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8705 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2620",
+    "website": "https://millcreekcafe.com/",
+    "hoursNote": "Published hours vary by source; call or check current social updates before visiting.",
+    "description": "Honeoye cafe and restaurant serving breakfast items, American favorites, baked goods, coffee, and dinner specials.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 89
+    },
+    "sourceUrl": "https://millcreekcafe.com/",
+    "needsReview": true
+  },
+  {
+    "id": "pops-bakery-deli",
+    "name": "Pop's Bakery & Deli",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8608 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1328",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "14:00"
+      }
+    },
+    "hoursNote": "No official website found; hours are from public business listings and should be confirmed.",
+    "description": "Honeoye bakery and deli known for baked goods, deli sandwiches, subs, and casual meals near Honeoye Lake.",
+    "sourceUrl": "https://www.restaurantji.com/ny/honeoye/pop-s-bakery-and-deli-/",
+    "needsReview": true
+  },
+  {
+    "id": "verns-bakery",
+    "name": "Vern's Bakery",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Keuka",
+    "address": "49 Shethar Street, Hammondsport, NY 14840",
+    "phone": "(680) 867-3803",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "wed": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "thu": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "fri": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sat": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sun": {
+        "open": "06:30",
+        "close": "11:30"
+      }
+    },
+    "hoursNote": "No official website found; hours are from public business listings and should be confirmed.",
+    "description": "Small Hammondsport bakery offering pastries such as croissants, danishes, cakes, scones, and cinnamon rolls.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 14
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g47853-d26260814-Reviews-Vern_s_Bakery-Hammondsport_Finger_Lakes_New_York.html",
+    "needsReview": true
+  }
+]

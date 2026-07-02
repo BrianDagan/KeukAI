@@ -1,0 +1,353 @@
+[
+  {
+    "id": "artizanns",
+    "name": "Artizanns Gifts of the Finger Lakes",
+    "address": "118 North Main Street, Naples, NY 14512",
+    "phone": "585-374-6740",
+    "website": "https://artizanns.com/",
+    "hoursNote": "Official site confirms year-round operation except some major holidays or major storms; specific current hours were not verified.",
+    "description": "Naples gallery and gift shop featuring work from more than 200 Finger Lakes artisans, including jewelry, pottery, glass, photography, paintings, woodwork, metalwork, soaps, books, cards, and local pantry items.",
+    "sourceUrl": "https://artizanns.com/",
+    "needsReview": false
+  },
+  {
+    "id": "arts-center-of-yates-county",
+    "name": "Arts Center of Yates County",
+    "address": "127 Main Street, Penn Yan, NY 14527",
+    "phone": "315-536-8226",
+    "website": "https://artscenteryatescounty.org/",
+    "hours": {
+      "mon": null,
+      "tue": { "open": "10:00", "close": "17:00" },
+      "wed": { "open": "10:00", "close": "17:00" },
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": null
+    },
+    "description": "Penn Yan arts center with the Flick Gallery, exhibitions, classes, and arts programming.",
+    "sourceUrl": "https://artscenteryatescounty.org/exhibits/",
+    "needsReview": false
+  },
+  {
+    "id": "chef-lerman-dressings",
+    "name": "Chef Lerman Salad Dressings & Sauces",
+    "address": "PO Box 525, Penn Yan, NY 14527",
+    "phone": "315-536-0739",
+    "website": "https://www.cheflerman.com/",
+    "hoursNote": "Mailing/office contact was verified; no public storefront hours were verified.",
+    "description": "Penn Yan-based maker of salad dressings and sauces with online product information and office contact by phone or email.",
+    "sourceUrl": "http://www.cheflerman.com/contact",
+    "needsReview": false
+  },
+  {
+    "id": "edgar-s-at-belhurst-castle",
+    "name": "Edgar’s at Belhurst Castle",
+    "address": "4069 West Lake Road, Geneva, NY 14456",
+    "phone": "315-781-0201",
+    "website": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "hoursNote": "Dinner hours should be confirmed with Belhurst before visiting.",
+    "description": "Fine-dining restaurant inside Belhurst Castle, a historic Seneca Lake castle hotel and resort property.",
+    "sourceUrl": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "needsReview": false
+  },
+  {
+    "id": "flpp-collections",
+    "name": "Finger Lakes Premier Properties Collections",
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "hoursNote": "Vacation-rental availability varies by property and date; office driving directions were verified, but regular office hours were not verified.",
+    "description": "Vacation-rental collection pages for Finger Lakes waterfront homes, cottages, cabins, luxury homes, large-group rentals, family stays, pet-friendly stays, and longer-term rentals.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/getting-here",
+    "needsReview": false
+  },
+  {
+    "id": "flpp-lakefront-homes",
+    "name": "FLPP Lakefront Homes",
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "hoursNote": "Vacation-rental availability varies by property and date; regular office hours were not verified.",
+    "description": "Finger Lakes Premier Properties lakefront vacation-rental homes, including pet-friendly options and waterfront cottages across multiple Finger Lakes.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/",
+    "needsReview": false
+  },
+  {
+    "id": "frames-galore-and-more",
+    "name": "Frames Galore & More",
+    "address": "111 Main Street, Penn Yan, NY 14527",
+    "phone": "315-536-6826",
+    "hours": {
+      "mon": { "open": "09:00", "close": "15:00" },
+      "tue": { "open": "09:00", "close": "15:00" },
+      "wed": { "open": "09:00", "close": "15:00" },
+      "thu": { "open": "09:00", "close": "15:00" },
+      "fri": { "open": "09:00", "close": "15:00" },
+      "sat": { "open": "09:00", "close": "12:00" },
+      "sun": null
+    },
+    "hoursNote": "No dedicated official website was verified; hours and contact came from directory sources and should be rechecked before visiting.",
+    "description": "Penn Yan picture-framing shop; no dedicated official website was verified.",
+    "sourceUrl": "https://www.chamberofcommerce.com/business-directory/new-york/penn-yan/picture-frame-shop/2001118522-frames-galore-more",
+    "needsReview": true
+  },
+  {
+    "id": "glenn-scott-farms",
+    "name": "Glenn Scott Farm",
+    "website": "https://www.parkinnflx.com/gsf",
+    "hoursNote": "No public farm storefront address or retail hours were verified.",
+    "description": "Sustainable no-till farm affiliated with Point of the Bluff Vineyards; its produce supplies The Park Inn, Crooked Lake Ice Cream Company, and the Finger Lakes community.",
+    "sourceUrl": "https://www.parkinnflx.com/gsf",
+    "needsReview": true
+  },
+  {
+    "id": "holiday-shopping-spree",
+    "name": "Holiday Shopping Spree",
+    "address": "Cayuga Lake Wine Trail, 2770 Ernsberger Road, Romulus, NY 14541",
+    "phone": "315-549-3034",
+    "website": "https://cayugawinetrail.com/events/trail/11-22-2025",
+    "hoursNote": "Official event page lists November 21-23 and December 5-7, 2025, 10:00 AM to 5:00 PM; tickets are valid for the weekend and winery tasting experiences vary.",
+    "description": "Cayuga Lake Wine Trail holiday shopping event with wine and food pairings, a souvenir wine glass, handcrafted nutcracker ornaments, recipe collection, tastings, and purchase discounts at participating wineries.",
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/11-22-2025",
+    "needsReview": false
+  },
+  {
+    "id": "ithaca-farmers-market",
+    "name": "Ithaca Farmers Market",
+    "address": "Steamboat Landing, 545 3rd Street, Ithaca, NY 14850",
+    "phone": "607-273-7109",
+    "website": "https://www.ithacamarket.com/",
+    "hoursNote": "Saturday Pavilion market: 9:00 AM-3:00 PM April 4-October 31 and 10:00 AM-2:00 PM November 6-December 19; seasonal schedules vary by market.",
+    "description": "Waterfront farmers market at Steamboat Landing with farm produce, prepared foods, crafts, and local vendors.",
+    "sourceUrl": "https://www.ithacamarket.com/",
+    "needsReview": false
+  },
+  {
+    "id": "kanuk-board-co",
+    "name": "Kanuk Board Co",
+    "website": "https://kanukboardco.com/",
+    "hoursNote": "No public Finger Lakes storefront, phone number, or boat-rental operation was verified.",
+    "description": "Wakesurf-board brand selling boards online; no boat-rental availability was verified.",
+    "sourceUrl": "https://kanukboardco.com/",
+    "needsReview": true
+  },
+  {
+    "id": "mackenzie-childs",
+    "name": "MacKenzie-Childs",
+    "address": "3260 State Route 90, Aurora, NY 13026",
+    "lat": 42.776563,
+    "lng": -76.707696,
+    "phone": "315-364-6118",
+    "website": "https://www.mackenzie-childs.com/",
+    "hours": {
+      "mon": { "open": "10:00", "close": "17:00" },
+      "tue": { "open": "10:00", "close": "17:00" },
+      "wed": { "open": "10:00", "close": "17:00" },
+      "thu": { "open": "10:00", "close": "17:00" },
+      "fri": { "open": "10:00", "close": "17:00" },
+      "sat": { "open": "10:00", "close": "17:00" },
+      "sun": { "open": "10:00", "close": "17:00" }
+    },
+    "description": "Aurora headquarters store with new items, an Outlet Room, and a year-round Christmas Room.",
+    "sourceUrl": "https://www.mackenzie-childs.com/faq-aurora.html",
+    "needsReview": false
+  },
+  {
+    "id": "the-social-restaurant-and-tap-room-at-the-naples-hotel",
+    "name": "Naples Hotel Restaurant and Taproom",
+    "address": "111 S Main Street, Naples, NY 14512",
+    "phone": "585-374-5630",
+    "website": "https://napleshotelny.com/",
+    "hoursNote": "The hotel says dining operates seasonally; confirm current restaurant hours before visiting.",
+    "description": "Historic boutique hotel in downtown Naples with casual upscale dining, weekend brunch, Friday fish fry, craft cocktails, live music, and hotel accommodations.",
+    "sourceUrl": "https://napleshotelny.com/",
+    "needsReview": false
+  },
+  {
+    "id": "red-jacket-orchards",
+    "name": "Red Jacket Orchards",
+    "address": "957 Routes 5 & 20, Geneva, NY 14456",
+    "phone": "315-781-2749",
+    "website": "https://redjacketorchards.com/",
+    "hoursNote": "Retail hours were not verified from the official website scrape.",
+    "description": "Finger Lakes orchard and cold-pressed juice producer with fruit juices made from whole fruit and clean ingredients.",
+    "sourceUrl": "https://redjacketorchards.com/",
+    "needsReview": false
+  },
+  {
+    "id": "seneca-salt-company",
+    "name": "Seneca Salt Company",
+    "website": "https://senecasalt.com/",
+    "hoursNote": "No public storefront address, phone number, or retail hours were verified.",
+    "description": "Culinary salt brand with an official online presence; public visitor details were not verified.",
+    "sourceUrl": "https://senecasalt.com/",
+    "needsReview": true
+  },
+  {
+    "id": "the-staving-artist",
+    "name": "Staving Artist Woodwork",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "315-384-1110",
+    "website": "https://www.facebook.com/StavingArtistWoodworks/",
+    "hours": {
+      "mon": { "open": "10:00", "close": "16:00" },
+      "tue": { "open": "10:00", "close": "15:00" },
+      "wed": null,
+      "thu": { "open": "10:00", "close": "15:00" },
+      "fri": { "open": "10:00", "close": "16:00" },
+      "sat": { "open": "10:00", "close": "15:00" },
+      "sun": null
+    },
+    "hoursNote": "Winter hours from Finger Lakes Tourism listing; recheck seasonally.",
+    "description": "Family-run Penn Yan woodwork and gift shop creating furniture, fixtures, signs, decor, candles, and hot sauce from mostly reclaimed materials including wine barrels.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/staving-artist-woodwork",
+    "needsReview": false
+  },
+  {
+    "id": "steuben-glass",
+    "name": "Steuben Glass",
+    "address": "One Museum Way, Corning, NY 14830",
+    "phone": "800-783-8236",
+    "website": "https://www.steuben.com/",
+    "hoursNote": "Independent retail hours were not verified; Steuben is managed by The Corning Museum of Glass.",
+    "description": "Historic luxury glass brand owned by Corning Incorporated and managed by The Corning Museum of Glass.",
+    "sourceUrl": "https://steuben.com/contact",
+    "needsReview": false
+  },
+  {
+    "id": "sudsys-hot-sauce",
+    "name": "Sudsy's Hot Sauce",
+    "website": "https://sudsyshotsauce.com/",
+    "hoursNote": "Official site lists retail stockists but no dedicated public address, phone number, or hours for the hot sauce maker.",
+    "description": "Small-batch hot sauce sold through retail stockists including Staving Artist Woodwork in Penn Yan.",
+    "sourceUrl": "https://sudsyshotsauce.com/",
+    "needsReview": true
+  },
+  {
+    "id": "birkett-mills-pancakes",
+    "name": "The Birkett Mills",
+    "address": "1 East Main Street, Penn Yan, NY 14527",
+    "phone": "315-536-3311",
+    "website": "https://www.thebirkettmills.com/",
+    "hoursNote": "Retail/public visitor hours were not verified.",
+    "description": "Penn Yan specialty grain mill producing buckwheat, wheat flour, pancake mixes, and other milled grain products since 1797.",
+    "sourceUrl": "https://www.thebirkettmills.com/contact-us/",
+    "needsReview": false
+  },
+  {
+    "id": "the-boat-yard-grill",
+    "name": "The Boatyard Grill",
+    "address": "525 Taughannock Boulevard, Ithaca, NY 14850",
+    "phone": "607-256-2628",
+    "website": "https://www.boatyardgrill.com/",
+    "hoursNote": "Current hours were not verified from the official website scrape; no boat-rental availability was verified.",
+    "description": "Ithaca waterfront restaurant on Cayuga Inlet with a nautical setting and group dining options; no boat-rental availability was verified.",
+    "sourceUrl": "https://www.boatyardgrill.com/",
+    "needsReview": false
+  },
+  {
+    "id": "the-lake-house-on-canandaigua-lake",
+    "name": "The Lake House on Canandaigua",
+    "address": "770 S Main Street, Canandaigua, NY 14424",
+    "phone": "585-394-7800",
+    "website": "https://lakehousecanandaigua.com/",
+    "hoursNote": "Hotel/resort lodging is by reservation; dining and Willowbrook Spa hours vary by outlet, service, and season.",
+    "description": "Lakefront resort hotel on Canandaigua Lake with restaurants and bars, wedding and event spaces, boat excursions, and Willowbrook Spa for hotel guests and locals.",
+    "sourceUrl": "https://lakehousecanandaigua.com/willowbrook-spa/",
+    "needsReview": false
+  },
+  {
+    "id": "the-olney-place",
+    "name": "The Olney Place",
+    "address": "823 East Lake Road, Penn Yan, NY 14527",
+    "phone": "315-536-5454",
+    "website": "https://www.keukalake.com/",
+    "hours": {
+      "mon": { "open": "07:00", "close": "18:00" },
+      "tue": { "open": "07:00", "close": "18:00" },
+      "wed": { "open": "07:00", "close": "18:00" },
+      "thu": { "open": "07:00", "close": "18:00" },
+      "fri": { "open": "07:00", "close": "20:00" },
+      "sat": { "open": "07:00", "close": "20:00" },
+      "sun": { "open": "07:00", "close": "18:00" }
+    },
+    "hoursNote": "Seasonal hours listed for May through October; recheck before visiting. No boat-rental availability was verified.",
+    "description": "Keuka Lake market, deli, taproom, and dockside pickup stop with groceries, sandwiches, drinks, and boat fuel; no boat-rental availability was verified.",
+    "sourceUrl": "https://www.keukalake.com/",
+    "needsReview": false
+  },
+  {
+    "id": "the-park-inn",
+    "name": "The Park Inn",
+    "address": "37 Shethar Street, Hammondsport, NY 14840",
+    "phone": "607-224-4004",
+    "website": "https://www.parkinnflx.com/",
+    "hoursNote": "Inn lodging is by reservation; restaurant hours vary and should be confirmed before visiting.",
+    "description": "Boutique inn and farm-to-table restaurant in Hammondsport with restored inn suites above the restaurant.",
+    "sourceUrl": "https://www.parkinnflx.com/where-to-find-us",
+    "needsReview": false
+  },
+  {
+    "id": "the-social-restaurant-tap-room-at-the-naples-hotel",
+    "name": "The Social Restaurant & Tap Room at The Naples Hotel",
+    "address": "111 S Main Street, Naples, NY 14512",
+    "phone": "585-374-5630",
+    "website": "https://napleshotelny.com/",
+    "hoursNote": "The hotel says dining operates seasonally; confirm current restaurant hours before visiting.",
+    "description": "Restaurant and tap room within the historic Naples Hotel, a downtown Naples lodging property with casual upscale dining, brunch, craft cocktails, live music, and hotel accommodations.",
+    "sourceUrl": "https://napleshotelny.com/",
+    "needsReview": false
+  },
+  {
+    "id": "wine-country-classic-boat-show",
+    "name": "Wine Country Classic Boat Show",
+    "address": "Depot Park, Hammondsport, NY 14840",
+    "phone": "716-523-0272",
+    "website": "https://www.winecountryclassicboats.com/",
+    "hoursNote": "Show hours listed for the event are Saturday 9:00 AM-5:00 PM and Sunday 9:00 AM-noon; event dates vary by year.",
+    "description": "Finger Lakes chapter event celebrating historic, antique, and classic boats through displays and education; this is a boat show, not a boat-rental operation.",
+    "sourceUrl": "https://www.winecountryclassicboats.com/",
+    "needsReview": false
+  },
+  {
+    "id": "wolffys-grill-and-marina",
+    "name": "Wolffy's Grill & Marina",
+    "address": "2943 Lower Lake Road, Seneca Falls, NY 13148",
+    "phone": "315-257-0077",
+    "website": "https://www.wolffysgrill.com/",
+    "hours": {
+      "mon": { "open": "11:00", "close": "21:00" },
+      "tue": { "open": "11:00", "close": "21:00" },
+      "wed": { "open": "11:00", "close": "21:00" },
+      "thu": { "open": "11:00", "close": "21:00" },
+      "fri": { "open": "11:00", "close": "21:00" },
+      "sat": { "open": "11:00", "close": "21:00" },
+      "sun": { "open": "11:00", "close": "21:00" }
+    },
+    "hoursNote": "Summer hours from official site search result; recheck seasonally. No boat-rental availability was verified.",
+    "description": "Cayuga Lake grill and marina with dock-and-dine access; no boat-rental availability was verified.",
+    "sourceUrl": "https://www.wolffysgrill.com/contact-us",
+    "needsReview": false
+  },
+  {
+    "id": "wolffys-house-on-the-hill",
+    "name": "Wolffy's House on the Hill",
+    "website": "https://www.vrbo.com/2431668",
+    "hoursNote": "Vacation-rental availability is by booking; exact street address and direct official booking site were not verified.",
+    "description": "Cayuga Lake vacation rental listed on booking platforms as a three-bedroom private home near Seneca Falls with lake access and space for up to nine guests.",
+    "sourceUrl": "https://www.vrbo.com/2431668",
+    "needsReview": true
+  },
+  {
+    "id": "y-knot-country-store-and-eatery",
+    "name": "Y Knot Country Store & Eatery",
+    "address": "9208 County Route 74, Pulteney, NY 14874",
+    "phone": "607-868-3839",
+    "website": "https://yknotkeuka.com/",
+    "hoursNote": "Official site scrape verified the store/eatery description but not current hours; call before visiting.",
+    "description": "Country store and eatery on Keuka Lake's west side with food, drinks, shelf goods, and lake/cottage necessities.",
+    "sourceUrl": "https://yknotkeuka.com/",
+    "needsReview": false
+  }
+]

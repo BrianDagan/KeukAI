@@ -1,0 +1,786 @@
+[
+  {
+    "id": "auburn-community-hospital",
+    "name": "Auburn Community Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "17 Lansing Street, Auburn, NY 13021",
+    "phone": "(315) 255-7011",
+    "website": "https://www.auburnhospital.org",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Auburn.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/emergency-department/",
+    "needsReview": false
+  },
+  {
+    "id": "ur-medicine-urgent-care-canandaigua",
+    "name": "UR Medicine Urgent Care - Canandaigua",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "699 South Main Street, Suite 5, Canandaigua, NY 14424",
+    "phone": "(585) 978-8240",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening illness or injury; walk-ins accepted.",
+    "description": "Urgent care center in Canandaigua.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "needsReview": false
+  },
+  {
+    "id": "cayuga-immediate-care",
+    "name": "Cayuga Immediate Care",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Cayuga",
+    "address": "401 Cayuga Park Lane, Ithaca, NY 14850",
+    "phone": "(607) 319-5900",
+    "website": "https://cayugahealth.org/hospital/cayuga-immediate-and-virtual-care/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Immediate care for non-emergency conditions; verify holiday hours before visiting.",
+    "description": "Immediate care center in Ithaca.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://cayugahealth.org/hospital/cayuga-immediate-and-virtual-care/",
+    "needsReview": false
+  },
+  {
+    "id": "cayuga-medical-center",
+    "name": "Cayuga Medical Center",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Cayuga",
+    "address": "101 Dates Drive, Ithaca, NY 14850",
+    "phone": "(607) 274-4011",
+    "website": "https://cayugahealth.org/hospital/cayuga-medical-center/",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Ithaca.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://cayugahealth.org/services/emergency/",
+    "needsReview": false
+  },
+  {
+    "id": "flh-medical-pc-urgent-care-geneva",
+    "name": "FLH Medical, P.C. Urgent Care - Geneva",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "789 Pre-Emption Road, Geneva, NY 14456",
+    "phone": "(315) 781-2000",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-emergency care; open 8 a.m. to 8 p.m. every day.",
+    "description": "Urgent care center in Geneva.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "needsReview": false
+  },
+  {
+    "id": "geneva-general-hospital",
+    "name": "Geneva General Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "196 North Street, Geneva, NY 14456",
+    "phone": "(315) 787-4000",
+    "website": "https://www.flhealth.org/services/inpatient-care/geneva-general-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Geneva.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-geneva-general",
+    "needsReview": false
+  },
+  {
+    "id": "ira-davenport-memorial-hospital",
+    "name": "Ira Davenport Memorial Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "7571 State Route 54, Bath, NY 14810",
+    "phone": "(607) 776-8500",
+    "website": "https://www.arnothealth.org/ira-davenport-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Rural emergency hospital in Bath.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.arnothealth.org/ira-davenport-memorial-hospital",
+    "needsReview": false
+  },
+  {
+    "id": "seneca-falls-urgent-care",
+    "name": "Seneca Falls Urgent Care",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Seneca",
+    "address": "1991 Balsley Road, Seneca Falls, NY 13148",
+    "phone": "(315) 835-4900",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-seneca-falls",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-emergency care; open 8 a.m. to 5 p.m. every day.",
+    "description": "Urgent care center in Seneca Falls.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-seneca-falls",
+    "needsReview": false
+  },
+  {
+    "id": "soldiers-and-sailors-memorial-hospital",
+    "name": "Soldiers & Sailors Memorial Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "418 North Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 531-2000",
+    "website": "https://www.flhealth.org/services/inpatient-care/soldiers-sailors-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Penn Yan.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-soldiers-sailors",
+    "needsReview": false
+  },
+  {
+    "id": "ff-thompson-hospital",
+    "name": "F.F. Thompson Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "350 Parrish Street, Canandaigua, NY 14424",
+    "phone": "(585) 396-6000",
+    "website": "https://www.urmc.rochester.edu/locations/ff-thompson-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Canandaigua.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "needsReview": false
+  },
+  {
+    "id": "ur-medicine-urgent-care-geneseo",
+    "name": "UR Medicine Urgent Care - Geneseo",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "50 East South Street, 1st Floor, Geneseo, NY 14454",
+    "phone": "(585) 243-9595",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening illness or injury; open daily.",
+    "description": "Urgent care center in Geneseo.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "needsReview": false
+  },
+  {
+    "id": "finger-lakes-medical-urgent-care-center",
+    "name": "Finger Lakes Medical Urgent Care Center",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "303 Grant Avenue, Auburn, NY 13021",
+    "phone": "(315) 258-7100",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Urgent care hours are Monday-Friday 8 a.m.-8 p.m., Saturday-Sunday 8 a.m.-6 p.m.; holiday hours may differ and Thanksgiving/Christmas are closed.",
+    "description": "Urgent care center in Auburn.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false
+  },
+  {
+    "id": "urgent-medical-care-of-skaneateles",
+    "name": "Urgent Medical Care of Skaneateles",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "793 Genesee Street, Skaneateles, NY 13152",
+    "phone": "(315) 685-9355",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Urgent care hours are Monday-Friday 8 a.m.-8 p.m., Saturday-Sunday 8 a.m.-6 p.m.; holiday hours may differ and Thanksgiving/Christmas are closed.",
+    "description": "Urgent care center in Skaneateles.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false
+  },
+  {
+    "id": "wellnow-urgent-care-geneva",
+    "name": "WellNow Urgent Care - Geneva",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "1 White Springs Road, Geneva, NY 14456",
+    "phone": "(315) 230-4074",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Geneva.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 797
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "needsReview": false
+  },
+  {
+    "id": "wellnow-urgent-care-canandaigua",
+    "name": "WellNow Urgent Care - Canandaigua",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "288 Eastern Blvd, Canandaigua, NY 14424",
+    "phone": "(585) 412-5630",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Canandaigua.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 567
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "needsReview": false
+  },
+  {
+    "id": "wellnow-urgent-care-ithaca",
+    "name": "WellNow Urgent Care - Ithaca",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "740 South Meadow Street, Ithaca, NY 14850",
+    "phone": "(607) 319-4563",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/ithaca/740-south-meadow-street-14850/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Ithaca.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 914
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/ithaca/740-south-meadow-street-14850/",
+    "needsReview": false
+  }
+]

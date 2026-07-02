@@ -1,0 +1,745 @@
+[
+  {
+    "id": "oak-hill-bulk-foods",
+    "name": "Oak Hill Bulk Foods",
+    "categories": [
+      "shopping"
+    ],
+    "address": "3173 Route 14A, Penn Yan, NY 14527",
+    "phone": "315-536-0836",
+    "website": "https://oakhillbulkfoods.com/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Official schema lists Monday through Saturday hours; Sunday was not listed.",
+    "description": "Bulk-food grocery, bakery, deli, and cafe in Penn Yan serving the Finger Lakes area.",
+    "sourceUrl": "https://oakhillbulkfoods.com/",
+    "needsReview": false
+  },
+  {
+    "id": "dr-konstantin-frank-winery",
+    "name": "Dr. Konstantin Frank Winery",
+    "categories": [
+      "shopping",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "9749 Middle Road, Hammondsport, NY 14840",
+    "phone": "800-320-0735",
+    "website": "https://www.drfrankwines.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tasting-room hours from the winery's official structured data.",
+    "description": "Historic Keuka Lake winery known for pioneering vinifera grapes in the Finger Lakes and producing Riesling and sparkling wines.",
+    "sourceUrl": "https://www.drfrankwines.com/visit-us/",
+    "needsReview": false
+  },
+  {
+    "id": "the-lake-house-on-canandaigua-lake",
+    "name": "The Lake House on Canandaigua",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "770 S Main St, Canandaigua, NY 14424",
+    "phone": "585-394-7800",
+    "website": "https://lakehousecanandaigua.com/",
+    "hoursNote": "Hotel/resort services are by reservation; dining and spa hours vary by outlet and season.",
+    "description": "Upscale lakefront resort hotel on Canandaigua Lake with on-site dining and Willowbrook Spa.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 410
+    },
+    "sourceUrl": "https://lakehousecanandaigua.com/",
+    "needsReview": false
+  },
+  {
+    "id": "inns-of-aurora-spa",
+    "name": "The Spa at the Inns of Aurora",
+    "categories": [
+      "lodging-rental",
+      "spa"
+    ],
+    "lake": "Cayuga",
+    "address": "700 Sherwood Rd, Aurora, NY 13026",
+    "phone": "315-364-8888",
+    "website": "https://www.innsofaurora.com/spa/",
+    "hours": {
+      "mon": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:30",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Spa reservations are required to access the facility.",
+    "description": "Farm-inspired day spa on the Inns of Aurora campus overlooking Cayuga Lake; the property is associated with inn lodging in Aurora.",
+    "sourceUrl": "https://www.innsofaurora.com/spa/",
+    "needsReview": false
+  },
+  {
+    "id": "kanuk-board-co",
+    "name": "Kanuk Board Co",
+    "categories": [
+      "marina-boat-rental",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://kanukboardco.com/",
+    "description": "Wakesurf-board company selling boards designed by riders. No boat-rental availability was verified from the official site.",
+    "sourceUrl": "https://kanukboardco.com/",
+    "needsReview": true
+  },
+  {
+    "id": "glenn-scott-farms",
+    "name": "Glenn Scott Farm",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://www.parkinnflx.com/gsf",
+    "description": "Sustainable farm associated with Point of the Bluff and The Park Inn, supplying produce to local businesses. Public retail hours were not verified.",
+    "sourceUrl": "https://www.parkinnflx.com/gsf",
+    "needsReview": true
+  },
+  {
+    "id": "ithaca-farmers-market",
+    "name": "Ithaca Farmers Market",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "545 3rd St, Ithaca, NY 14850",
+    "phone": "607-273-7109",
+    "website": "https://www.ithacamarket.com/",
+    "hours": {
+      "sat": {
+        "open": "09:00",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "Official site noted the pavilion market reopens Saturday, April 4, 2026, 9am-3pm; seasonal schedules vary.",
+    "description": "Waterfront farmers market in Ithaca with farm produce, prepared foods, crafts, and other local vendors.",
+    "sourceUrl": "https://www.ithacamarket.com/",
+    "needsReview": true
+  },
+  {
+    "id": "muranda-cheese-company",
+    "name": "Muranda Cheese Company",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "address": "3075 Route 96, Waterloo, NY 13165",
+    "phone": "315-651-0216",
+    "website": "https://www.murandacheese.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours from official structured data.",
+    "description": "Waterloo cheese producer offering cheese tastings and retail sales.",
+    "sourceUrl": "https://www.murandacheese.com/",
+    "needsReview": false
+  },
+  {
+    "id": "red-jacket-orchards",
+    "name": "Red Jacket Orchards",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "website": "https://redjacketorchards.com/",
+    "description": "Finger Lakes orchard brand producing fruit and cold-pressed juices; a public retail location and hours were not verified.",
+    "sourceUrl": "https://redjacketorchards.com/",
+    "needsReview": true
+  },
+  {
+    "id": "the-park-inn",
+    "name": "The Park Inn",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "37 Shethar St, Hammondsport, NY 14840",
+    "phone": "607-569-9500",
+    "website": "https://www.parkinnflx.com/",
+    "hoursNote": "Inn lodging is by reservation; restaurant hours vary seasonally.",
+    "description": "Boutique inn and restaurant in Hammondsport near Keuka Lake.",
+    "sourceUrl": "https://www.parkinnflx.com/",
+    "needsReview": true
+  },
+  {
+    "id": "holiday-shopping-spree",
+    "name": "Holiday Shopping Spree",
+    "categories": [
+      "festival-event",
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "phone": "315-549-3034",
+    "website": "https://cayugawinetrail.com/",
+    "hoursNote": "Annual event dates and participating wineries change by year.",
+    "description": "Cayuga Lake Wine Trail holiday shopping event rather than a single storefront.",
+    "sourceUrl": "https://cayugawinetrail.com/",
+    "needsReview": true
+  },
+  {
+    "id": "wine-country-classic-boat-show",
+    "name": "Wine Country Classic Boat Show",
+    "categories": [
+      "festival-event",
+      "marina-boat-rental"
+    ],
+    "lake": "Keuka",
+    "address": "Depot Park, Hammondsport, NY 14840",
+    "phone": "716-523-0272",
+    "website": "https://www.winecountryclassicboats.com/",
+    "hoursNote": "Event date and hours vary by year.",
+    "description": "Classic boat show held at Depot Park in Hammondsport. No boat-rental service was verified; this is an event.",
+    "sourceUrl": "https://www.winecountryclassicboats.com/",
+    "needsReview": true
+  },
+  {
+    "id": "artizanns",
+    "name": "Artizanns Gifts of the Finger Lakes",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Canandaigua",
+    "address": "118 North Main Street, Naples, NY 14512",
+    "phone": "585-374-6740",
+    "website": "https://artizanns.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Hours should be rechecked seasonally.",
+    "description": "Naples gift gallery featuring Finger Lakes artwork and handmade gifts.",
+    "sourceUrl": "https://artizanns.com/",
+    "needsReview": true
+  },
+  {
+    "id": "arts-center-of-yates-county",
+    "name": "Arts Center of Yates County",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "127 Main St, Penn Yan, NY 14527",
+    "phone": "315-536-8226",
+    "website": "https://artscenteryatescounty.org/",
+    "hoursNote": "Gallery hours vary by program and season.",
+    "description": "Penn Yan arts center with gallery exhibitions, classes, workshops, and local art sales.",
+    "sourceUrl": "https://artscenteryatescounty.org/",
+    "needsReview": true
+  },
+  {
+    "id": "frames-galore-and-more",
+    "name": "Frames Galore & More",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "203 Lake Street, Penn Yan, NY 14527",
+    "phone": "315-536-8082",
+    "description": "Penn Yan framing and art-related retail shop. A dedicated official website was not verified.",
+    "sourceUrl": "https://business.yatesny.com/",
+    "needsReview": true
+  },
+  {
+    "id": "the-staving-artist",
+    "name": "Staving Artist Woodwork",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "315-384-1110",
+    "website": "http://www.stavingartist.com/",
+    "hoursNote": "Hours were not verified from a live official site.",
+    "description": "Penn Yan woodwork and gift shop specializing in handcrafted items made from reclaimed barrel staves.",
+    "sourceUrl": "https://www.fingerlakes.org/partners/staving-artist-woodwork",
+    "needsReview": true
+  },
+  {
+    "id": "edgars-at-belhurst-castle",
+    "name": "Edgar's Restaurant in the Castle",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "4069 W Lake Rd, Geneva, NY 14456",
+    "phone": "315-781-0201",
+    "website": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Dinner hours are for Edgar's; Belhurst Castle lodging is by reservation.",
+    "description": "Fine-dining restaurant inside Belhurst Castle, a historic Seneca Lake hotel and castle property in Geneva.",
+    "sourceUrl": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "needsReview": false
+  },
+  {
+    "id": "the-olney-place",
+    "name": "The Olney Place",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "823 E Lake Rd, Branchport, NY 14418",
+    "phone": "315-595-6985",
+    "website": "https://www.keukalake.com/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally.",
+    "description": "Keuka Lake store and eatery with sandwiches, groceries, beverages, and boat fuel. No boat-rental availability was verified.",
+    "sourceUrl": "https://www.keukalake.com/",
+    "needsReview": true
+  },
+  {
+    "id": "the-social-restaurant-and-tap-room-at-the-naples-hotel",
+    "name": "Naples Hotel Restaurant and Taproom",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "111 S Main St, Naples, NY 14512",
+    "phone": "585-374-5630",
+    "website": "https://napleshotelny.com/",
+    "hoursNote": "Former Social Restaurant & Taproom site says closed; current hotel restaurant hours should be checked before visiting.",
+    "description": "Historic boutique hotel in Naples with an on-site restaurant and taproom; the former Social Restaurant & Taproom brand has closed.",
+    "sourceUrl": "https://napleshotelny.com/the-restaurant/",
+    "needsReview": true
+  },
+  {
+    "id": "wolffys-grill-and-marina",
+    "name": "Wolffy's Grill & Marina",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "2943 Lower Lake Road, Seneca Falls, NY 13148",
+    "phone": "315-257-0077",
+    "website": "https://www.wolffysgrill.com/",
+    "hours": {
+      "mon": {
+        "open": "11:30",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "11:30",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Restaurant hours from official structured data.",
+    "description": "Lakeside grill and marina on Cayuga Lake with dock-and-dine access. No boat-rental availability was verified.",
+    "sourceUrl": "https://www.wolffysgrill.com/",
+    "needsReview": true
+  },
+  {
+    "id": "wolffys-house-on-the-hill",
+    "name": "Wolffy's House on the Hill",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Cayuga",
+    "address": "Near 2943 Lower Lake Road, Seneca Falls, NY 13148",
+    "phone": "315-257-0077",
+    "website": "https://www.wolffysgrill.com/",
+    "hoursNote": "Vacation rental availability is by booking; exact listing details were not independently verified.",
+    "description": "Vacation rental associated with Wolffy's Grill & Marina and described as within walking distance of the restaurant.",
+    "sourceUrl": "https://www.wolffysgrill.com/",
+    "needsReview": true
+  },
+  {
+    "id": "y-knot-country-store-and-eatery",
+    "name": "Y Knot Country Store & Eatery",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "9208 County Route 74, Pulteney, NY 14874",
+    "phone": "607-868-3839",
+    "website": "https://yknotkeuka.com/",
+    "hoursNote": "Hours were not found on the official site scrape.",
+    "description": "Country store and eatery near Keuka Lake offering food, drinks, and last-minute essentials.",
+    "sourceUrl": "https://yknotkeuka.com/",
+    "needsReview": true
+  },
+  {
+    "id": "the-boat-yard-grill",
+    "name": "The Boatyard Grill",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "525 Taughannock Boulevard, Ithaca, NY 14850",
+    "phone": "607-256-2628",
+    "website": "https://www.boatyardgrill.com/",
+    "hoursNote": "Current hours were not verified from official structured data.",
+    "description": "Waterfront Ithaca restaurant on the Cayuga Inlet with a nautical setting. No boat-rental availability was verified.",
+    "sourceUrl": "https://www.boatyardgrill.com/",
+    "needsReview": true
+  },
+  {
+    "id": "mackenzie-childs",
+    "name": "MacKenzie-Childs",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "3260 State Route 90, Aurora, NY 13026",
+    "lat": 42.768639,
+    "lng": -76.700339,
+    "phone": "315-364-6118",
+    "website": "https://www.mackenzie-childs.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Aurora store hours should be rechecked for holidays and special events.",
+    "description": "Aurora home-decor retailer and headquarters known for colorful, whimsical tableware, furniture, and gifts.",
+    "sourceUrl": "https://www.mackenzie-childs.com/",
+    "needsReview": true
+  },
+  {
+    "id": "steuben-glass",
+    "name": "Steuben Glass",
+    "categories": [
+      "shopping"
+    ],
+    "address": "1 Museum Way, Corning, NY 14830",
+    "phone": "607-937-5371",
+    "website": "https://www.steuben.com/",
+    "hoursNote": "Independent retail hours were not verified; Steuben glass is associated with Corning glass retail/collections.",
+    "description": "Historic luxury glass brand associated with Corning; current local retail availability should be verified before visiting.",
+    "sourceUrl": "https://www.steuben.com/",
+    "needsReview": true
+  },
+  {
+    "id": "sudsys-hot-sauce",
+    "name": "Sudsy's Hot Sauce",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "315-384-1110",
+    "website": "https://sudsyshotsauce.com/",
+    "description": "Penn Yan small-batch hot sauce maker with online sales and a Main Street address shared with Staving Artist Woodwork.",
+    "sourceUrl": "https://sudsyshotsauce.com/",
+    "needsReview": true
+  },
+  {
+    "id": "birkett-mills-pancakes",
+    "name": "The Birkett Mills",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "1 East Main St, Penn Yan, NY 14527",
+    "phone": "315-536-3311",
+    "website": "https://www.thebirkettmills.com/",
+    "hoursNote": "Retail/public hours were not verified.",
+    "description": "Penn Yan mill producing buckwheat and other grain products, including pancake mixes sold under the Birkett Mills brand.",
+    "sourceUrl": "https://www.thebirkettmills.com/",
+    "needsReview": true
+  },
+  {
+    "id": "chef-lerman-dressings",
+    "name": "Chef Lerman Salad Dressings & Sauces",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "PO Box 525, Penn Yan, NY 14527",
+    "website": "https://www.cheflerman.com/",
+    "hoursNote": "No public storefront hours were verified.",
+    "description": "Penn Yan-based maker of salad dressings and sauces sold online.",
+    "sourceUrl": "https://www.cheflerman.com/",
+    "needsReview": true
+  },
+  {
+    "id": "seneca-salt-company",
+    "name": "Seneca Salt Company",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://senecasalt.com/",
+    "hoursNote": "No public storefront address or hours were verified.",
+    "description": "Culinary salt brand associated with Penn Yan; public visitor details were not verified.",
+    "sourceUrl": "https://senecasalt.com/",
+    "needsReview": true
+  },
+  {
+    "id": "flpp-collections",
+    "name": "Finger Lakes Premier Properties Collections",
+    "categories": [
+      "lodging-rental"
+    ],
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "hoursNote": "Vacation-rental availability varies by property and date.",
+    "description": "Vacation-rental collection pages for large group homes, cabins, luxury rentals, classic cottages, family-friendly stays, and wellness rentals.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/",
+    "needsReview": false
+  },
+  {
+    "id": "flpp-lakefront-homes",
+    "name": "Finger Lakes Premier Properties Lakefront Homes",
+    "categories": [
+      "dog-friendly",
+      "lodging-rental"
+    ],
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "hoursNote": "Vacation-rental availability varies by property and date.",
+    "description": "Finger Lakes Premier Properties manages lakefront vacation homes across the region, including pet-friendly lake homes.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/",
+    "needsReview": false
+  }
+]

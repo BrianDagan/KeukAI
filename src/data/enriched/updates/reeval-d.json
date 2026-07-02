@@ -1,0 +1,78 @@
+[
+  {
+    "id": "charles-dickens-christmas-festival",
+    "name": "Charles Dickens Christmas Festival",
+    "remove": true
+  },
+  {
+    "id": "dickens-christmas-in-skaneateles",
+    "name": "Dickens Christmas in Skaneateles",
+    "remove": true
+  },
+  {
+    "id": "its-a-wonderful-life-festival",
+    "name": "It's A Wonderful Life Festival",
+    "remove": true
+  },
+  {
+    "id": "it-s-a-wounderful-life-festival",
+    "name": "It's A Wounderful Life Festival",
+    "remove": true
+  },
+  {
+    "id": "finger-lakes-winter-carnival",
+    "name": "Finger Lakes Winter Carnival",
+    "remove": true
+  },
+  {
+    "id": "fire-and-ice-celebration",
+    "name": "Fire & Ice Celebration",
+    "remove": true
+  },
+  {
+    "id": "fire-and-ice-festival",
+    "name": "Fire & Ice Festival",
+    "remove": true
+  },
+  {
+    "id": "geneva-music-festival",
+    "name": "Geneva Music Festival",
+    "remove": true
+  },
+  {
+    "id": "cmac-performing-arts",
+    "name": "CMAC – Constellation Brands Marvin Sands Performing Arts Center",
+    "replaceCategories": true,
+    "categories": [
+      "festival-event"
+    ],
+    "address": "3355 Marvin Sands Drive, Canandaigua, NY 14424",
+    "lat": 42.8666171,
+    "lng": -77.2435556,
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com/",
+    "hours": {
+      "mon": { "open": "12:00", "close": "16:00" },
+      "tue": null,
+      "wed": { "open": "12:00", "close": "16:00" },
+      "thu": null,
+      "fri": { "open": "12:00", "close": "16:00" },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Box office Mon/Wed/Fri noon–4 pm; open from noon on all show days. Show during your stay: Sat Jul 11 — Dierks Bentley with Ricky Skaggs & Kentucky Thunder and Kaitlin Butts.",
+    "description": "Outdoor summer concert amphitheater on the Finger Lakes Community College campus in Canandaigua, presenting national touring acts from June through September. Lawn and reserved seating available.",
+    "sourceUrl": "https://www.cmacevents.com/",
+    "needsReview": false
+  },
+  {
+    "id": "constellation-brands-marvin-sands-performing-arts-center-cmac",
+    "name": "Constellation Brands – Marvin Sands Performing Arts Center (CMAC)",
+    "remove": true
+  },
+  {
+    "id": "ring-of-fire",
+    "name": "Ring of Fire",
+    "remove": true
+  }
+]

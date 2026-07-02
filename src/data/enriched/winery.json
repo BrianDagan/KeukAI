@@ -1,0 +1,708 @@
+[
+  {
+    "id": "fox-run-vineyards",
+    "name": "Fox Run Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "670 State Route 14, Penn Yan, NY 14527",
+    "phone": "(315) 536-4616",
+    "website": "https://foxrunvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Tasting room and cafe hours may change seasonally; winter hours are shorter.",
+    "description": "Family-owned Seneca Lake winery known for estate-grown Riesling, Cabernet Franc, a seasonal cafe, and guided tastings.",
+    "sourceUrl": "https://foxrunvineyards.com/tasting-room",
+    "needsReview": false
+  },
+  {
+    "id": "buttonwood-grove-winery",
+    "name": "Buttonwood Grove Winery",
+    "categories": [
+      "winery"
+    ],
+    "lake": "Cayuga",
+    "address": "5986 State Route 89, Romulus, NY 14541",
+    "phone": "(607) 869-9760",
+    "website": "https://www.buttonwoodgrove.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:30"
+      }
+    },
+    "hoursNote": "Closed Easter, Thanksgiving, Christmas Eve, Christmas Day, and New Year's Day.",
+    "description": "Cayuga Lake winery with deck views and vinifera wines including Riesling, Cabernet Franc, Cabernet Sauvignon, Merlot, and Chardonnay.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 137
+    },
+    "sourceUrl": "https://www.buttonwoodgrove.com/contact-us/",
+    "needsReview": false
+  },
+  {
+    "id": "dr-konstantin-frank-winery",
+    "name": "Dr. Konstantin Frank Winery",
+    "categories": [
+      "shopping",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "9749 Middle Road, Hammondsport, NY 14840",
+    "phone": "(800) 320-0735",
+    "website": "https://www.drfrankwines.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Reservations are recommended for guided tasting experiences; closed major holidays including Thanksgiving, Christmas, New Year's Day, and Easter.",
+    "description": "Historic Keuka Lake winery credited with pioneering vinifera grape growing in the Finger Lakes, especially Riesling and traditional-method sparkling wines.",
+    "sourceUrl": "https://www.drfrankwines.com/finger-lakes-winery-tasting/",
+    "needsReview": false
+  },
+  {
+    "id": "lamoreaux-landing-wine-cellars",
+    "name": "Lamoreaux Landing Wine Cellars",
+    "categories": [
+      "museum-historical",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "9224 NY-414, Lodi, NY 14860",
+    "phone": "(607) 582-6011",
+    "website": "https://lamoreauxwine.com",
+    "hours": {
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Latest tastings are typically at 4:00 PM; reservations are strongly encouraged.",
+    "description": "Seneca Lake winery known for sustainably farmed vineyards, lake views, and Riesling, Chardonnay, and ice wine.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 148
+    },
+    "sourceUrl": "https://lamoreauxwine.com/",
+    "needsReview": false
+  },
+  {
+    "id": "three-brothers-wineries-estates",
+    "name": "Three Brothers Wineries & Estates",
+    "categories": [
+      "brewery-distillery",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "623 Lerch Road, Geneva, NY 14456",
+    "phone": "(315) 585-4432",
+    "website": "https://www.3brotherswinery.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "June-October hours shown; November-May hours and holiday closures vary.",
+    "description": "Seneca Lake estate with three wineries, a microbrewery, hard cider, and a cafe on one property.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 1521
+    },
+    "sourceUrl": "https://www.3brotherswinery.com/pages/tastings",
+    "needsReview": false
+  },
+  {
+    "id": "point-of-the-bluff-vineyards",
+    "name": "Point of the Bluff Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "10489 County Road 76, Hammondsport, NY 14840",
+    "phone": "(607) 220-5222",
+    "website": "https://pointofthebluffvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours can vary for concerts and special events.",
+    "description": "Keuka Lake winery in a restored 1800s schoolhouse, known for tastings, events, and views over the vineyard grounds.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 116
+    },
+    "sourceUrl": "https://pointofthebluffvineyards.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "hunt-country-vineyards",
+    "name": "Hunt Country Vineyards",
+    "categories": [
+      "festival-event",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "4021 Italy Hill Road, Branchport, NY 14418",
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntcountryvineyards.com",
+    "hours": {
+      "sun": null,
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Annual harvest festival hours differ from regular tasting-room hours; confirm event dates before visiting.",
+    "description": "Branchport winery on Keuka Lake's west side, known for sustainable practices, estate wines, and an annual harvest festival.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 130
+    },
+    "sourceUrl": "https://www.huntcountryvineyards.com/",
+    "needsReview": false
+  },
+  {
+    "id": "pleasant-valley-wine-company",
+    "name": "Pleasant Valley Wine Company",
+    "categories": [
+      "museum-historical",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "8260 Pleasant Valley Road, Hammondsport, NY 14840",
+    "phone": "(607) 569-6111",
+    "website": "https://www.pleasantvalleywine.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Historic building tours during summer and fall are by reservation only.",
+    "description": "Historic Hammondsport winery known as U.S. Bonded Winery No. 1 and for sparkling wines under the Great Western label.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 122
+    },
+    "sourceUrl": "https://www.pleasantvalleywine.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Conesus",
+    "address": "3772 West Lake Road, Geneseo, NY 14454",
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "mon": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Sunday brunch is typically available 10:00 AM-2:00 PM; hours may vary seasonally.",
+    "description": "Family-owned Conesus Lake winery and cafe, described as the lake's oldest operating winery, with local grapes, tastings, tours, and events.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 116
+    },
+    "sourceUrl": "https://www.deerrunwinery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "eagle-crest-vineyards",
+    "name": "Eagle Crest Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Hemlock",
+    "address": "7107 Vineyard Road, Conesus, NY 14435",
+    "phone": "(585) 346-2321",
+    "website": "https://www.eaglecrestvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tastings may also be available by appointment and during special events; check the event calendar before visiting.",
+    "description": "Historic Eagle Crest and O-Neh-Da vineyard near Hemlock Lake, producing natural grape wines from one of America's oldest vineyard sites.",
+    "reviews": {
+      "rating": 4.3,
+      "count": 21
+    },
+    "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "hazlitt-1852-vineyards",
+    "name": "Hazlitt 1852 Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "5712 State Route 414, Hector, NY 14841",
+    "phone": "(607) 546-9463",
+    "website": "https://hazlitt1852.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:30"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:30"
+      }
+    },
+    "hoursNote": "June 1-October 31 hours shown; November-May closes at 5:00 PM. Closed Easter, Thanksgiving, Christmas, and New Year's Day.",
+    "description": "Seneca Lake winery best known for Red Cat and a casual tasting-room experience on the east side of Seneca Lake.",
+    "sourceUrl": "https://hazlitt1852.com/",
+    "needsReview": false
+  },
+  {
+    "id": "heron-hill-tasting-room-on-canandaigua-lake",
+    "name": "Heron Hill Tasting Room on Canandaigua Lake",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "5323 Seneca Point Road, Canandaigua, NY 14424",
+    "phone": "(585) 394-0173",
+    "website": "https://www.heronhill.com",
+    "hours": {
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; reservations are recommended for tastings.",
+    "description": "Canandaigua Lake tasting room in a renovated barn, offering Heron Hill wines, patio views, and seasonal events.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 62
+    },
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
+    "needsReview": false
+  },
+  {
+    "id": "inspire-moore-winery-vineyard",
+    "name": "Inspire Moore Winery & Vineyard",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "197 North Main Street, Naples, NY 14512",
+    "phone": "(585) 374-5970",
+    "website": "https://inspiremoorewinery.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "June-October standard hours shown; off-season hours may vary.",
+    "description": "Naples boutique winery and vineyard focused on sustainable practices, small-lot wines, and Riesling-driven Finger Lakes bottlings.",
+    "sourceUrl": "https://inspiremoorewinery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "lakewood-vineyards",
+    "name": "Lakewood Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "4024 NY State Route 14, Watkins Glen, NY 14891",
+    "phone": "(607) 535-9252",
+    "website": "https://www.lakewoodvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Closed New Year's Day, Easter, Thanksgiving, and Christmas Day.",
+    "description": "Watkins Glen winery on Seneca Lake producing family-grown wines with vineyard and lake views.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 374
+    },
+    "sourceUrl": "https://lakewoodvineyards.com/contact-us/",
+    "needsReview": false
+  },
+  {
+    "id": "wagner-vineyards-estate-winery",
+    "name": "Wagner Vineyards Estate Winery",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "brewery-distillery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnervineyards.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Spring, summer, and fall daily hours shown; winter hours are typically Thursday-Monday only. Friday-night music may extend deck hours in summer.",
+    "description": "Long-running Seneca Lake estate winery with more than 30 wines, plus Wagner Valley Brewing Company and the Ginny Lee Café on site.",
+    "sourceUrl": "https://wagnervineyards.com/plan-wine-tasting/wine-tasting-winery/",
+    "needsReview": false
+  }
+]

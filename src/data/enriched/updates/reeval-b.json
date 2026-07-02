@@ -1,0 +1,79 @@
+[
+  {
+    "id": "go-bowling-at-the-glen",
+    "name": "Go Bowling at The Glen",
+    "remove": true
+  },
+  {
+    "id": "nascar-at-the-glen",
+    "name": "Watkins Glen International",
+    "replaceCategories": true,
+    "categories": ["race-track"],
+    "address": "2790 County Route 16, Watkins Glen, NY 14891",
+    "lat": 42.3363805,
+    "lng": -76.9250488,
+    "phone": "607-535-2486",
+    "website": "https://www.theglen.com",
+    "hours": {
+      "mon": { "open": "09:00", "close": "16:30" },
+      "tue": { "open": "09:00", "close": "16:30" },
+      "wed": { "open": "09:00", "close": "16:30" },
+      "thu": { "open": "09:00", "close": "16:30" },
+      "fri": { "open": "09:00", "close": "16:30" },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Drive The Glen paced laps ($25/vehicle, 3 laps) available Apr–Oct, Mon–Fri; closed Sat–Sun except on event days. Schedule varies around race events—confirm at theglen.com or call ahead.",
+    "description": "Watkins Glen International is a legendary 3.4-mile road-course race track in the Finger Lakes. Visitors can drive their own car around the full circuit via the Drive The Glen experience ($25/vehicle, 3 paced laps, Mon–Fri Apr–Oct). The track hosts NASCAR, IMSA, and vintage racing events throughout the season and offers grandstand viewing for ticketed race weekends.",
+    "sourceUrl": "https://www.theglen.com/calendar/",
+    "needsReview": false
+  },
+  {
+    "id": "flx-summer-fest-at-the-glen",
+    "name": "F.L.X. Summer Fest at The Glen",
+    "remove": true
+  },
+  {
+    "id": "fly-in-drive-in-breakfast",
+    "name": "Fly-in / Drive-in Breakfast",
+    "categories": ["festival-event"],
+    "address": "Penn Yan Airport, 2258 Airport Dr, Penn Yan, NY 14527",
+    "lat": 42.6343699,
+    "lng": -77.0525337,
+    "hoursNote": "Jul 4, 2026, 6:00am–11:30am",
+    "description": "Penn Yan Flying Club's annual July 4 fly-in/drive-in breakfast at Penn Yan Airport — 2026 marks the 85th year of this tradition. Features Birkett Mills buckwheat pancakes, airplane and helicopter rides, bounce house, live music, raffles, and family activities. Open to all — fly, drive, or bike in.",
+    "website": "https://www.pennyanflyingclub.com/",
+    "sourceUrl": "https://www.keukalakeassociation.org/event.php?id=49",
+    "needsReview": false
+  },
+  {
+    "id": "seaplane-homecoming",
+    "name": "Seaplane Homecoming",
+    "remove": true
+  },
+  {
+    "id": "wings-and-wheels-seaplane-and-car-show",
+    "name": "Wings & Wheels: Seaplane and Car Show",
+    "remove": true
+  },
+  {
+    "id": "wine-country-classic-boat-show",
+    "name": "Wine Country Classic Boat Show",
+    "remove": true
+  },
+  {
+    "id": "smoke-on-the-water",
+    "name": "Smoke on the Water",
+    "remove": true
+  },
+  {
+    "id": "smoke-on-the-water-bbq-competition",
+    "name": "Smoke on the Water BBQ Competition",
+    "remove": true
+  },
+  {
+    "id": "smokin-summer-kickoff",
+    "name": "Smokin' Summer Kickoff",
+    "remove": true
+  }
+]

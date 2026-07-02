@@ -1,0 +1,468 @@
+[
+  {
+    "id": "ports-of-call",
+    "name": "Ports of Call",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Cayuga",
+    "address": "Cayuga Lake Wine Trail, 2770 Ernsberger Rd, Romulus, NY 14541",
+    "phone": "(315) 549-3034",
+    "website": "https://cayugawinetrail.com",
+    "hoursNote": "Feb 22-23, 2025, 10am-5pm",
+    "description": "A self-guided Cayuga Lake Wine Trail winter food-and-wine pairing event. Participating wineries pair their wines with foods inspired by international ports of call.",
+    "reviews": {},
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/02-22-2025",
+    "needsReview": false
+  },
+  {
+    "id": "bacon-on-the-lakein",
+    "name": "Bacon on the Lakein",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Cayuga",
+    "address": "Cayuga Lake Wine Trail, 2770 Ernsberger Rd, Romulus, NY 14541",
+    "phone": "(315) 549-3034",
+    "website": "https://cayugawinetrail.com",
+    "hoursNote": "Mar 22-23, 2025, 10am-5pm",
+    "description": "A Cayuga Lake Wine Trail event where participating wineries serve bacon-inspired dishes paired with local wines. The punning name is the official spelling used by the trail.",
+    "reviews": {},
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/03-22-2025",
+    "needsReview": false
+  },
+  {
+    "id": "bines-fest",
+    "name": "Bines Fest",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Climbing Bines Hop Farm & Craft Ale Company, 511 Hansen Point Rd, Penn Yan, NY 14527",
+    "website": "https://www.climbingbineshopfarm.com/bines-fest/",
+    "description": "A hop-harvest festival at Climbing Bines Hop Farm & Craft Ale Company near Seneca Lake. A current official event date could not be confirmed from the public event page.",
+    "reviews": {},
+    "sourceUrl": "https://www.climbingbineshopfarm.com/bines-fest/",
+    "needsReview": true
+  },
+  {
+    "id": "dickens-christmas-in-skaneateles",
+    "name": "Dickens Christmas in Skaneateles",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Skaneateles",
+    "address": "Downtown Skaneateles, Genesee St, Skaneateles, NY 13152",
+    "phone": "(315) 685-0552",
+    "website": "https://www.skaneateles.com/",
+    "hoursNote": "Nov 28-Dec 24, 2025; weekends noon-4pm, Christmas Eve noon-2:30pm",
+    "description": "A Victorian-themed holiday street festival in downtown Skaneateles with costumed Dickens characters, carolers, and seasonal activities. It opens the day after Thanksgiving and runs weekends through Christmas Eve.",
+    "reviews": {},
+    "sourceUrl": "https://www.skaneateles.com/",
+    "needsReview": false
+  },
+  {
+    "id": "chocolate-and-wine",
+    "name": "Chocolate & Wine",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Seneca Lake Wine Trail, 2 N Franklin St, Suite 320, Watkins Glen, NY 14891",
+    "phone": "(607) 535-8080",
+    "website": "https://senecalakewine.com",
+    "hoursNote": "Feb 20-22, 2026; Fri noon-5pm, Sat-Sun 10am-5pm",
+    "description": "A self-guided Seneca Lake Wine Trail weekend featuring chocolate-inspired food pairings with wine. Ticket holders visit participating wineries around Seneca Lake during the event window.",
+    "reviews": {},
+    "sourceUrl": "https://senecalakewine.com/event/chocolate-wine/",
+    "needsReview": false
+  },
+  {
+    "id": "finger-lakes-grassroots-festival-of-music-and-dance",
+    "name": "Finger Lakes GrassRoots Festival of Music and Dance",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Cayuga",
+    "address": "Trumansburg Fairgrounds, 2150 Trumansburg Rd, Trumansburg, NY 14886",
+    "website": "https://www.grassrootsfest.org/",
+    "hoursNote": "Jul 16-19, 2026",
+    "description": "A four-day music and dance festival held annually at the Trumansburg Fairgrounds near Cayuga Lake. The event features multiple stages, camping, workshops, family activities, and a wide range of roots and world music.",
+    "reviews": {},
+    "sourceUrl": "https://www.grassrootsfest.org/",
+    "needsReview": false
+  },
+  {
+    "id": "flx-summer-fest-at-the-glen",
+    "name": "F.L.X. Summer Fest at The Glen",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Watkins Glen International, 2790 County Route 16, Watkins Glen, NY 14891",
+    "phone": "1-866-461-7223",
+    "website": "https://www.theglen.com/",
+    "hoursNote": "Rebranded from Finger Lakes Wine Festival; 2025 event was canceled and no 2026 date was verified",
+    "description": "Watkins Glen International rebranded the long-running Finger Lakes Wine Festival as F.L.X. Summer Fest at The Glen. The announced 2025 edition was canceled, so this listing should be reviewed before publication.",
+    "reviews": {},
+    "sourceUrl": "https://www.theglen.com/events/flxfest/",
+    "needsReview": true
+  },
+  {
+    "id": "finger-lakes-winter-carnival",
+    "name": "Finger Lakes Winter Carnival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Canandaigua",
+    "address": "Canandaigua, NY 14424",
+    "website": "https://www.visitfingerlakes.com/event/finger-lakes-winter-carnival/30657/",
+    "hoursNote": "Jan 17-19, 2025",
+    "description": "A winter festival centered in Canandaigua with activities at venues such as The Lake House on Canandaigua, Bristol Mountain, New York Kitchen, and downtown Canandaigua. The event includes winter recreation, tastings, shopping, and family activities.",
+    "reviews": {},
+    "sourceUrl": "https://www.visitfingerlakes.com/event/finger-lakes-winter-carnival/30657/",
+    "needsReview": true
+  },
+  {
+    "id": "fire-and-ice-celebration",
+    "name": "Fire & Ice Celebration",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Watkins Glen Harbor Hotel, 16 N Franklin St, Watkins Glen, NY 14891",
+    "website": "https://www.watkinsglenharborhotel.com/experiences/fire-and-ice",
+    "hoursNote": "Jan 30-Feb 1, 2025, 5pm-9pm nightly",
+    "description": "A winter celebration at Watkins Glen Harbor Hotel with ice sculptures, ice bars, fire pits, regional food and beverages, live entertainment, and fireworks over Seneca Lake. The event benefits local health-care causes and is for adults 21 and older.",
+    "reviews": {},
+    "sourceUrl": "https://www.watkinsglenharborhotel.com/experiences/fire-and-ice",
+    "needsReview": false
+  },
+  {
+    "id": "fly-in-drive-in-breakfast",
+    "name": "Fly-in / Drive-in Breakfast",
+    "categories": [
+      "festival-event"
+    ],
+    "description": "Several Finger Lakes-area airports and flying clubs host fly-in/drive-in pancake breakfasts, but the OCR candidate could not be tied to one specific recurring event. Editorial review is needed before assigning a venue or date.",
+    "reviews": {},
+    "needsReview": true
+  },
+  {
+    "id": "geneva-music-festival",
+    "name": "Geneva Music Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Geneva, NY 14456",
+    "phone": "(315) 326-1951",
+    "website": "https://genevamusicfestival.com/",
+    "hoursNote": "May 15-Jun 8, 2025",
+    "description": "A multi-week music festival presenting classical, jazz, bluegrass, and other performances at venues in and around Geneva. The nonprofit festival pairs professional musicians with Finger Lakes venues and wine-country settings.",
+    "reviews": {},
+    "sourceUrl": "https://genevamusicfestival.com/",
+    "needsReview": false
+  },
+  {
+    "id": "glorious-garlic-festival",
+    "name": "Glorious Garlic Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Lakefront Park, 35 Lake Front Dr, Geneva, NY 14456",
+    "website": "https://gloriousgarlicfestival.com/",
+    "hoursNote": "Aug 1-2, 2026",
+    "description": "A two-day outdoor food festival on the Geneva waterfront celebrating garlic and local agriculture. The event features farms and vendors, cooking demonstrations, live music, and regional wine, beer, cider, and food.",
+    "reviews": {},
+    "sourceUrl": "https://gloriousgarlicfestival.com/",
+    "needsReview": false
+  },
+  {
+    "id": "hammondsport-festival-of-crafts",
+    "name": "Hammondsport Festival of Crafts",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Pulteney Square, Hammondsport, NY 14840",
+    "phone": "(607) 569-2242",
+    "website": "https://hammondsport.org",
+    "hoursNote": "Aug 16-17, 2025, 10am-5pm",
+    "description": "An annual outdoor craft festival held in Hammondsport's village square. The event features artisan vendors, food, and entertainment in the historic Keuka Lake village.",
+    "reviews": {},
+    "sourceUrl": "https://hammondsport.org",
+    "needsReview": false
+  },
+  {
+    "id": "hunt-country-vineyards-annual-harvest-festival",
+    "name": "Hunt Country Vineyards Annual Harvest Festival",
+    "categories": [
+      "festival-event",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "Hunt Country Vineyards, 4021 Italy Hill Rd, Branchport, NY 14418",
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntwines.com",
+    "hoursNote": "Oct 4, 2025, 10am-5pm",
+    "description": "An annual harvest celebration at Hunt Country Vineyards in Branchport. Activities include grape stomping, tours, live music, food, and wine tastings at the Keuka Lake winery.",
+    "reviews": {},
+    "sourceUrl": "https://www.huntwines.com",
+    "needsReview": false
+  },
+  {
+    "id": "holiday-shopping-spree",
+    "name": "Holiday Shopping Spree",
+    "categories": [
+      "festival-event",
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "Cayuga Lake Wine Trail, 2770 Ernsberger Rd, Romulus, NY 14541",
+    "phone": "(315) 549-3034",
+    "website": "https://cayugawinetrail.com",
+    "hoursNote": "Nov 21-23 and Dec 5-7, 2025, 10am-5pm",
+    "description": "A Cayuga Lake Wine Trail holiday event combining wine-and-food pairings with seasonal shopping. Participating wineries offer tastings, recipes, ornaments, and purchase discounts during two event weekends.",
+    "reviews": {},
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/11-22-2025",
+    "needsReview": false
+  },
+  {
+    "id": "schuyler-county-italian-american-festival",
+    "name": "Schuyler County Italian American Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Clute Park, 155 S Clute Park Dr, Watkins Glen, NY 14891",
+    "website": "https://www.wgitalianamericanfestival.com/",
+    "hoursNote": "Aug 13-15, 2026",
+    "description": "A Watkins Glen community festival celebrating Italian-American culture at Clute Park on Seneca Lake. The event features food, live entertainment, rides, crafts, a parade, fireworks, and nonprofit fundraising.",
+    "reviews": {},
+    "sourceUrl": "https://www.wgitalianamericanfestival.com/",
+    "needsReview": false
+  },
+  {
+    "id": "its-a-wonderful-life-festival",
+    "name": "It's A Wonderful Life Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "address": "Downtown Seneca Falls, NY 13148",
+    "website": "https://www.therealbedfordfalls.com/",
+    "hoursNote": "Dec 8-13, 2026",
+    "description": "An annual Seneca Falls festival celebrating the town's connection to the 1946 film It's a Wonderful Life. Events take place at multiple downtown venues and include film-related programs, guest appearances, and holiday activities.",
+    "reviews": {},
+    "sourceUrl": "https://www.therealbedfordfalls.com/",
+    "needsReview": false
+  },
+  {
+    "id": "keuka-arts-festival",
+    "name": "Keuka Arts Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Keuka Lake Outlet Trail and Penn Yan Boat Launch, Penn Yan, NY 14527",
+    "website": "https://www.keukaartsfestival.com",
+    "hoursNote": "Jun 14-15, 2025, 10am-5pm",
+    "description": "An annual juried outdoor arts festival along the Keuka Lake Outlet Trail in Penn Yan. The event features artists, live music, wine tastings, and food vendors.",
+    "reviews": {},
+    "sourceUrl": "https://www.keukaartsfestival.com/keuka-arts-festival-artists.php",
+    "needsReview": false
+  },
+  {
+    "id": "naples-grape-festival",
+    "name": "Naples Grape Festival",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Canandaigua",
+    "address": "Memorial Town Hall and Naples High School, N Main St, Naples, NY 14512",
+    "website": "https://naplesgrapefest.org/festivaloverview.php",
+    "hoursNote": "Sep 27-28, 2025, 10am-5pm",
+    "description": "A two-day fall festival in Naples celebrating the Finger Lakes grape harvest. The event includes artisan vendors, live music, local wine and craft beverages, and Naples grape pies.",
+    "reviews": {},
+    "sourceUrl": "https://naplesgrapefest.org/festivaloverview.php",
+    "needsReview": true
+  },
+  {
+    "id": "go-bowling-at-the-glen",
+    "name": "Go Bowling at The Glen",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Watkins Glen International, 2790 County Route 16, Watkins Glen, NY 14891",
+    "phone": "1-866-461-7223",
+    "website": "https://www.theglen.com",
+    "hoursNote": "Aug 10, 2025, 2pm ET",
+    "description": "The annual NASCAR Cup Series road-course race weekend at Watkins Glen International. The event brings NASCAR racing to the Finger Lakes at the historic road course near Watkins Glen.",
+    "reviews": {},
+    "sourceUrl": "https://www.nascar.com/2025/go-bowling-at-the-glen/",
+    "needsReview": false
+  },
+  {
+    "id": "rose-in-may",
+    "name": "Rosé in May",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Seneca Lake Wine Trail, 2 N Franklin St, Suite 320, Watkins Glen, NY 14891",
+    "phone": "(607) 535-8080",
+    "website": "https://senecalakewine.com",
+    "hoursNote": "May 5-11, 2025, during participating wineries' regular tasting hours",
+    "description": "A week-long Seneca Lake Wine Trail tasting pass focused on rosé wines. Pass holders visit participating wineries for rosé samples and additional tastings during each winery's regular hours.",
+    "reviews": {},
+    "sourceUrl": "https://senecalakewine.com/event/rose-in-may-tasting-pass-2025/",
+    "needsReview": false
+  },
+  {
+    "id": "wings-and-wheels-seaplane-and-car-show",
+    "name": "Wings & Wheels: Seaplane and Car Show",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Depot Park, 16 Water St, Hammondsport, NY 14840",
+    "phone": "(607) 569-2160",
+    "website": "https://glennhcurtissmuseum.org/",
+    "hoursNote": "Sep 13, 2025, 9am-4pm",
+    "description": "A Glenn H. Curtiss Museum event in Hammondsport featuring seaplane activity on Keuka Lake and a car show. The event highlights the region's aviation heritage and the legacy of Glenn Curtiss.",
+    "reviews": {},
+    "sourceUrl": "https://glennhcurtissmuseum.org/events/wings-and-wheels-seaplane-and-car-show/",
+    "needsReview": false
+  },
+  {
+    "id": "smoke-on-the-water-bbq-competition",
+    "name": "Smoke on the Water BBQ Competition",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Hammondsport Volunteer Fire Department carnival grounds, 8521 State Route 54, Hammondsport, NY 14840",
+    "phone": "(607) 569-2167",
+    "hoursNote": "Aug 22-23, 2025; public tasting Aug 23 noon-5pm",
+    "description": "An annual Hammondsport Volunteer Fire Department barbecue competition at the south end of Keuka Lake. The community event includes judged barbecue categories, public tasting wristbands, live music, and family activities.",
+    "reviews": {},
+    "sourceUrl": "https://keukasun.com/2025/08/21/smoke-on-the-water-bbq-competition-returns-to-hammondsport/",
+    "needsReview": false
+  },
+  {
+    "id": "smokin-summer-kickoff",
+    "name": "Smokin' Summer Kickoff",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Seneca Lake Wine Trail, 2 N Franklin St, Suite 320, Watkins Glen, NY 14891",
+    "phone": "(607) 535-8080",
+    "website": "https://senecalakewine.com",
+    "hoursNote": "Jun 6-7, 2026, 10am-5pm",
+    "description": "A Seneca Lake Wine Trail summer barbecue-themed wine-and-food pairing event. Ticket holders visit participating wineries for a food pairing, wine sample, and additional tastings.",
+    "reviews": {},
+    "sourceUrl": "https://senecalakewine.com/event/smokin-summer-kickoff/",
+    "needsReview": false
+  },
+  {
+    "id": "spring-wine-and-cheese",
+    "name": "Spring Wine and Cheese",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Seneca",
+    "address": "Seneca Lake Wine Trail, 2 N Franklin St, Suite 320, Watkins Glen, NY 14891",
+    "phone": "(607) 535-8080",
+    "website": "https://senecalakewine.com",
+    "hoursNote": "Apr 17-19, 2026; Fri noon-5pm, Sat-Sun 10am-5pm",
+    "description": "A Seneca Lake Wine Trail spring weekend event featuring wine and cheese-themed food pairings. The self-guided format includes participating wineries around Seneca Lake.",
+    "reviews": {},
+    "sourceUrl": "https://senecalakewine.com/event/spring-wine-and-cheese-2/",
+    "needsReview": false
+  },
+  {
+    "id": "wine-and-cheese-lovers",
+    "name": "Wine & Cheese Lovers",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Keuka",
+    "address": "Keuka Lake Wine Trail, 2375 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-5056",
+    "website": "https://www.keukawinetrail.com",
+    "hoursNote": "Apr 26, 2025, 10am-5pm",
+    "description": "A Keuka Lake Wine Trail event featuring curated wine and cheese pairings at participating member wineries. Ticket holders follow an itinerary with wine samples and experiences along the trail.",
+    "reviews": {},
+    "sourceUrl": "https://keukasun.com/2025/03/23/keuka-lake-wine-trail-announces-immersive-wine-food-experience-wine-cheese-lovers/",
+    "needsReview": false
+  },
+  {
+    "id": "wine-and-herb",
+    "name": "Wine & Herb",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Cayuga",
+    "address": "Cayuga Lake Wine Trail, 2770 Ernsberger Rd, Romulus, NY 14541",
+    "phone": "(315) 549-3034",
+    "website": "https://cayugawinetrail.com",
+    "hoursNote": "Apr 25-27 and May 2-4, 2025, 10am-5pm",
+    "description": "A Cayuga Lake Wine Trail spring event where participating wineries pair wines with herb-themed foods. Guests collect potted herbs or vegetable plants and recipes as they travel the trail.",
+    "reviews": {},
+    "sourceUrl": "https://cayugawinetrail.com/events/trail/04-26-2025",
+    "needsReview": false
+  },
+  {
+    "id": "wine-country-classic-boat-show",
+    "name": "Wine Country Classic Boat Show",
+    "categories": [
+      "festival-event",
+      "marina-boat-rental"
+    ],
+    "lake": "Keuka",
+    "address": "Depot Park, Hammondsport, NY 14840",
+    "phone": "(716) 523-0272",
+    "website": "https://www.winecountryclassicboats.com",
+    "hoursNote": "Jul 19, 2025, 9am-5pm; Jul 20, 2025, 9am-noon",
+    "description": "An antique and classic boat show and regatta on Keuka Lake in Hammondsport. The event is organized by Wine Country Classic Boats and includes displays, a parade, awards, and a Sunday non-motorized regatta.",
+    "reviews": {},
+    "sourceUrl": "https://www.winecountryclassicboats.com",
+    "needsReview": false
+  },
+  {
+    "id": "cmac-performing-arts",
+    "name": "CMAC Performing Arts",
+    "categories": [
+      "festival-event",
+      "museum-historical"
+    ],
+    "lake": "Canandaigua",
+    "address": "Constellation Brands-Marvin Sands Performing Arts Center, 3355 Marvin Sands Dr, Canandaigua, NY 14424",
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com",
+    "hoursNote": "Annual summer concert season, generally late May through August",
+    "description": "An outdoor amphitheater on the Finger Lakes Community College campus in Canandaigua. CMAC hosts a seasonal concert series with national touring acts and community performances rather than one single festival date.",
+    "reviews": {},
+    "sourceUrl": "https://www.cmacevents.com/about/",
+    "needsReview": true
+  },
+  {
+    "id": "ring-of-fire",
+    "name": "Ring of Fire",
+    "categories": [
+      "festival-event",
+      "museum-historical"
+    ],
+    "lake": "Canandaigua",
+    "address": "Canandaigua Lake shoreline, Canandaigua, NY 14424",
+    "website": "https://www.visitfingerlakes.com/events/annual-events/ring-of-fire/",
+    "hoursNote": "Aug 30, 2025, at dusk",
+    "description": "A Labor Day weekend community tradition in which residents around Canandaigua Lake light flares or bonfires at dusk to form a ring around the shoreline. Visit Finger Lakes describes the tradition as rooted in a Seneca harvest ritual and marks Bare Hill as the ceremonial first fire.",
+    "reviews": {},
+    "sourceUrl": "https://www.visitfingerlakes.com/events/annual-events/ring-of-fire/",
+    "needsReview": false
+  }
+]

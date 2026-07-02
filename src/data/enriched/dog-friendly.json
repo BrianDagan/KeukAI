@@ -1,0 +1,627 @@
+[
+  {
+    "id": "fox-run-vineyards",
+    "name": "Fox Run Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "670 State Route 14, Penn Yan, NY 14527",
+    "phone": "(315) 536-4616",
+    "website": "https://foxrunvineyards.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may change seasonally; confirm before visiting.",
+    "description": "Family-owned Seneca Lake winery with tastings, a cafe, vineyard tours, and dog-friendly outdoor areas.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 439
+    },
+    "sourceUrl": "https://foxrunvineyards.com/tasting-room",
+    "needsReview": false
+  },
+  {
+    "id": "twisted-rail-brewing",
+    "name": "Twisted Rail Brewing",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Canandaigua",
+    "address": "169 Lakeshore Dr, Canandaigua, NY 14424",
+    "phone": "(585) 396-0683",
+    "website": "https://www.twistedrailbrewing.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may vary by events or holidays; confirm with the brewery.",
+    "description": "Canandaigua brewery with lake views where leashed dogs are reported welcome inside and outside.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 288
+    },
+    "sourceUrl": "https://www.bringfido.com/restaurant/117449",
+    "needsReview": false
+  },
+  {
+    "id": "birdhouse-brewing-company",
+    "name": "Birdhouse Brewing Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Honeoye",
+    "address": "8716 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1216",
+    "website": "https://birdhousebrewing.beer",
+    "hours": {
+      "mon": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours and pet policy should be confirmed before visiting.",
+    "description": "Rustic Honeoye brewery with food and live music; dogs are reported welcome in the outdoor area.",
+    "sourceUrl": "https://birdhousebrewing.beer/contact-us/",
+    "needsReview": true
+  },
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Conesus",
+    "address": "3772 W Lake Rd, Geneseo, NY 14454",
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; call ahead to confirm.",
+    "description": "Conesus Lake winery with scenic outdoor space where dogs are reported welcome.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 116
+    },
+    "sourceUrl": "https://www.deerrunwinery.com/",
+    "needsReview": true
+  },
+  {
+    "id": "noble-shepherd-craft-brewery",
+    "name": "Noble Shepherd Craft Brewery",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": null,
+    "address": "7853 State Route 20A, Bloomfield, NY 14469",
+    "phone": "(585) 229-7661",
+    "website": "https://www.nobleshepherdbrewery.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tasting room hours verified on official contact page; confirm pet policy before visiting.",
+    "description": "Bloomfield craft brewery with food trucks and live music; public listings describe it as pet friendly.",
+    "sourceUrl": "https://www.nobleshepherdbrewery.com/contact/",
+    "needsReview": true
+  },
+  {
+    "id": "flpp-lakefront-homes",
+    "name": "FLPP Lakefront Homes",
+    "categories": [
+      "dog-friendly",
+      "lodging-rental"
+    ],
+    "lake": null,
+    "address": "103 Horizon Park Drive, Penn Yan, NY 14527",
+    "phone": "(888) 414-5253",
+    "website": "https://www.fingerlakespremierproperties.com",
+    "description": "Finger Lakes Premier Properties offers pet-friendly lakefront vacation rentals and dog welcome packages at eligible homes.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/pet-friendly",
+    "needsReview": false
+  },
+  {
+    "id": "cb-craft-brewers",
+    "name": "CB Craft Brewers",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "300 Village Square Blvd, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-4386",
+    "website": "http://www.cbcraftbrewers.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Public listings indicate this business is permanently closed.",
+    "description": "Former Honeoye Falls brewery from the source list; dog-friendly status cannot be current because the business appears permanently closed.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 76
+    },
+    "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g47918-d4242591-Reviews-CB_Craft_Brewers-Honeoye_Falls_Finger_Lakes_New_York.html",
+    "needsReview": true
+  },
+  {
+    "id": "eagle-crest-vineyards",
+    "name": "Eagle Crest Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": null,
+    "address": "7107 Vineyard Rd, Conesus, NY 14435",
+    "phone": "(585) 346-2321",
+    "website": "https://www.eaglecrestvineyards.com",
+    "hours": {
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null
+    },
+    "hoursNote": "Tasting room hours may vary and tastings may be by appointment; confirm before visiting.",
+    "description": "Historic Eagle Crest/O-Neh-Da vineyard near Hemlock Lake; visitor listings note a dog-friendly setting.",
+    "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
+    "needsReview": true
+  },
+  {
+    "id": "hazlitt-1852-vineyards",
+    "name": "Hazlitt 1852 Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "5712 NY-414, Hector, NY 14841",
+    "phone": "(607) 546-9463",
+    "website": "https://hazlitt1852.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Extended summer hours may apply; closed on major holidays.",
+    "description": "Seneca Lake winery known for Red Cat; dogs are reported welcome both inside and outside.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 427
+    },
+    "sourceUrl": "https://hazlitt1852.com/",
+    "needsReview": false
+  },
+  {
+    "id": "heron-hill-tasting-room",
+    "name": "Heron Hill Tasting Room",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "5323 Seneca Point Road, Canandaigua, NY 14424",
+    "phone": "(585) 394-0173",
+    "website": "https://www.heronhill.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "19:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Confirm current tasting-room hours before visiting.",
+    "description": "Canandaigua Lake tasting room with an outdoor deck and patio where leashed dogs are welcome.",
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
+    "needsReview": false
+  },
+  {
+    "id": "inspire-moore-winery-vineyard",
+    "name": "Inspire Moore Winery & Vineyard",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "197 North Main Street, Naples, NY 14512",
+    "phone": "(585) 374-5970",
+    "website": "https://inspiremoorewinery.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours should be confirmed before visiting.",
+    "description": "Naples winery and vineyard; public listings and visitor notes describe it as welcoming to pets.",
+    "sourceUrl": "https://www.canandaigualakewinetrail.com/inspire-moore-winery",
+    "needsReview": true
+  },
+  {
+    "id": "lakewood-vineyards",
+    "name": "Lakewood Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "4024 NY State Route 14, Watkins Glen, NY 14891",
+    "phone": "(607) 535-9252",
+    "website": "https://www.lakewoodvineyards.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Closed New Year's Day, Easter, Thanksgiving, and Christmas; confirm before visiting.",
+    "description": "Watkins Glen winery on Seneca Lake that welcomes dogs in outdoor areas.",
+    "sourceUrl": "https://lakewoodvineyards.com/contact-us/",
+    "needsReview": false
+  },
+  {
+    "id": "rising-storm-brewing-company",
+    "name": "Rising Storm Brewing Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "5750 S Lima Rd, Avon, NY 14414",
+    "phone": "(585) 572-3009",
+    "website": "https://www.risingstormbrewing.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours should be confirmed for holidays and events.",
+    "description": "Avon-area brewery with grassy indoor/outdoor spaces; public listings describe it as dog friendly.",
+    "sourceUrl": "https://www.risingstormbrewing.com/",
+    "needsReview": false
+  },
+  {
+    "id": "wagner-valley-brewing-co",
+    "name": "Wagner Valley Brewing Co",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://www.wagnerbrewing.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open daily during regular business hours; summer Friday music may extend hours. Dog policy was not confirmed on the official site.",
+    "description": "Seneca Lake microbrewery at Wagner Vineyards; dog-friendly status needs confirmation before recommending to guests with dogs.",
+    "sourceUrl": "https://wagnerbrewing.com/",
+    "needsReview": true
+  },
+  {
+    "id": "wagner-vineyards-estate-winery",
+    "name": "Wagner Vineyards Estate Winery",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnervineyards.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Standard daily hours; some sources note occasional extended Friday hours.",
+    "description": "Seneca Lake estate winery where leashed dogs are allowed on the lawn and Vantage Point deck, with service animals only inside.",
+    "sourceUrl": "https://wagnervineyards.com/",
+    "needsReview": false
+  }
+]

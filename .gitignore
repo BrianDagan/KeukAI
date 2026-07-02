@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+*.log
+__pycache__
+scripts/.cache
+.DS_Store
+Thumbs.db
+.vscode
+.idea

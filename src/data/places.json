@@ -1,0 +1,6258 @@
+[
+  {
+    "id": "18th-amendment",
+    "name": "18th Amendment",
+    "categories": [
+      "brewery-distillery",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "7 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-9032",
+    "website": "https://18thamendmentkitchencocktailbar.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Dinner seating may stop before closing; reservations and current hours should be confirmed.",
+    "description": "Penn Yan kitchen and cocktail bar serving a locally sourced dinner menu and craft cocktails in a Prohibition-inspired setting.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 150
+    },
+    "sourceUrl": "https://18thamendmentkitchencocktailbar.com/",
+    "needsReview": false,
+    "lat": 42.6605801,
+    "lng": -77.0531876
+  },
+  {
+    "id": "abbotts-frozen-custard",
+    "name": "Abbott's Frozen Custard",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Canandaigua",
+    "address": "150 Eastern Boulevard, Canandaigua, NY 14424",
+    "phone": "(585) 394-0117",
+    "website": "https://www.abbottscustard.com",
+    "hours": {
+      "mon": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; confirm with the Canandaigua location.",
+    "description": "Canandaigua location of Abbott's Frozen Custard, serving frozen custard, sundaes, cones, shakes, and other desserts.",
+    "reviews": {
+      "rating": 4.3,
+      "count": 42
+    },
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/abbotts-canandaigua/24/",
+    "needsReview": false,
+    "lat": 42.8787325,
+    "lng": -77.2640822
+  },
+  {
+    "id": "antler-run-distilling",
+    "name": "Antler Run Distilling",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "3133 Antler Run Road, Keuka Park, NY 14478",
+    "phone": "(315) 694-7958",
+    "website": "https://www.antlerrundistilling.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Confirm current tasting-room hours before visiting.",
+    "description": "Father-and-son grain-to-glass distillery using New York grain and offering broad Finger Lakes views.",
+    "reviews": {
+      "rating": 5,
+      "count": 37
+    },
+    "sourceUrl": "https://www.antlerrundistilling.com/",
+    "needsReview": false,
+    "lat": 42.6137794,
+    "lng": -77.0928401
+  },
+  {
+    "id": "artizanns",
+    "name": "Artizanns Gifts of the Finger Lakes",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Canandaigua",
+    "address": "118 North Main Street, Naples, NY 14512",
+    "phone": "(585) 374-6740",
+    "website": "https://artizanns.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Official hours page lists Wednesday-Saturday 11:00 AM-5:00 PM and Sunday 12:00 PM-5:00 PM; closed Monday and Tuesday.",
+    "description": "Naples gallery and gift shop featuring handmade work by Finger Lakes artisans.",
+    "sourceUrl": "https://artizanns.com/pages/hours-and-location",
+    "needsReview": false,
+    "lat": 42.6161835,
+    "lng": -77.4021971
+  },
+  {
+    "id": "arts-center-of-yates-county",
+    "name": "Arts Center of Yates County",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "127 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-8226",
+    "website": "https://artscenteryatescounty.org/",
+    "hoursNote": "Flick Gallery hours are Tuesday-Saturday 10:00 AM-5:00 PM; closed Sunday and Monday.",
+    "description": "Penn Yan arts organization with the Flick Gallery, exhibits, classes, workshops, and local art programs.",
+    "sourceUrl": "https://artscenteryatescounty.org/gallery/",
+    "needsReview": false,
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "lat": 42.6616624,
+    "lng": -77.0538149
+  },
+  {
+    "id": "artscape-ithaca",
+    "name": "Artscape Ithaca",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "website": "https://www.artscapeithaca.com/",
+    "hoursNote": "Distributed public-art map/initiative; no single street address, public phone, or venue hours were verified.",
+    "description": "Interactive public-art resource for murals, sculptures, mosaics, and other artworks around Ithaca and Tompkins County.",
+    "sourceUrl": "https://www.artscapeithaca.com/",
+    "needsReview": true
+  },
+  {
+    "id": "auburn-community-hospital",
+    "name": "Auburn Community Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "17 Lansing Street, Auburn, NY 13021",
+    "phone": "(315) 255-7011",
+    "website": "https://www.auburnhospital.org",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Auburn.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/emergency-department/",
+    "needsReview": false,
+    "lat": 42.9412595,
+    "lng": -76.5647345
+  },
+  {
+    "id": "babes-burger",
+    "name": "Babe's Burger",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "phone": "(607) 546-2010",
+    "website": "https://www.babesburger.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "tue": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Located year-round at Lucky Hare Brewing Company in Hector; official site notes expanded 7-day summer operation, but exact daily hours should be checked before visiting.",
+    "description": "Burger counter at Lucky Hare Brewing Company in Hector, serving burgers and fries with Seneca Lake views.",
+    "sourceUrl": "https://www.babesburger.com/",
+    "needsReview": false,
+    "address": "6085 Beckhorn Rd, Hector, NY 14841",
+    "lat": 42.4973,
+    "lng": -76.8609
+  },
+  {
+    "id": "barrelhouse-6-distillery",
+    "name": "Barrelhouse 6 Distillery",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "9558 Middle Road, Hammondsport, NY 14840",
+    "phone": "(607) 868-3310",
+    "website": "https://barrelhouse6.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Confirm hours, tours, classes, and events before visiting.",
+    "description": "Female-owned Hammondsport farm distillery with tastings, cocktails, tours, classes, and Keuka Lake views.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 90
+    },
+    "sourceUrl": "https://barrelhouse6.com/contact-us/",
+    "needsReview": false,
+    "lat": 42.4628145,
+    "lng": -77.1878675
+  },
+  {
+    "id": "barrington-distillers",
+    "name": "Barrington Distillers",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "5040 Bill Bailey Road, Dundee, NY 14837",
+    "phone": "(607) 243-9734",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "No official website was verified; confirm hours by phone before visiting.",
+    "description": "Hand-crafted spirits created in the heart of the Finger Lakes.",
+    "sourceUrl": "https://www.fingerlakestravelny.com/listing/barrington-distillers/",
+    "needsReview": true,
+    "lat": 42.5234044,
+    "lng": -76.976631
+  },
+  {
+    "id": "beachcomber-of-conesus",
+    "name": "Beachcomber of Conesus",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/",
+    "description": "Waterfront Conesus Lake destination with restaurants, bars, lodging, beach activities, live music, and dock access.",
+    "sourceUrl": "https://www.beachcomberny.com/",
+    "needsReview": false,
+    "lat": 42.7332239,
+    "lng": -77.7234412,
+    "hoursNote": "Restaurant, bar, and grill hours are seasonal; check the official website or call before visiting."
+  },
+  {
+    "id": "birdhouse-brewing-company",
+    "name": "Birdhouse Brewing Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Honeoye",
+    "address": "8716 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1216",
+    "website": "https://birdhousebrewing.beer",
+    "hours": {
+      "mon": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours and dog-friendly seating should be confirmed before visiting.",
+    "description": "Honeoye craft brewery with food, live music, and a creekside backyard reported by pet-travel listings as dog-friendly.",
+    "sourceUrl": "https://birdhousebrewing.beer/contact-us/",
+    "needsReview": false,
+    "lat": 42.789981,
+    "lng": -77.5151683
+  },
+  {
+    "id": "black-sheep-small-batch-distillery",
+    "name": "Black Sheep Small Batch Distillery",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "8059 County Route 77, Prattsburgh, NY 14873",
+    "phone": "(607) 522-5533",
+    "website": "https://blacksheepdistilleryny.com/",
+    "hours": {
+      "mon": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Official visitor page says to check the Google page for current regular, seasonal, holiday, and special-event hours; phone listings vary across sources.",
+    "description": "Prattsburgh distillery handcrafting whiskey, gin, vodka, bourbon, rye, and moonshine.",
+    "sourceUrl": "https://blacksheepdistilleryny.com/visit-us/",
+    "needsReview": true,
+    "lat": 42.4884295,
+    "lng": -77.237691
+  },
+  {
+    "id": "buttonwood-grove-winery",
+    "name": "Buttonwood Grove Winery",
+    "categories": [
+      "winery"
+    ],
+    "lake": "Cayuga",
+    "address": "5986 State Route 89, Romulus, NY 14541",
+    "phone": "(607) 869-9760",
+    "website": "https://www.buttonwoodgrove.com",
+    "hours": {
+      "sun": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "mon": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:30"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:30"
+      }
+    },
+    "hoursNote": "Closed Easter, Thanksgiving, Christmas Eve, Christmas Day, and New Year's Day.",
+    "description": "Cayuga Lake winery with deck views and vinifera wines including Riesling, Cabernet Franc, Cabernet Sauvignon, Merlot, and Chardonnay.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 137
+    },
+    "sourceUrl": "https://www.buttonwoodgrove.com/contact-us/",
+    "needsReview": false,
+    "lat": 42.7520803,
+    "lng": -76.833708
+  },
+  {
+    "id": "cabana-bar-dockside-grill",
+    "name": "Cabana Bar & Dockside Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/the-cabana-and-dockside-grill",
+    "description": "Outdoor Cabana Bar and Dockside Grill at the Beachcomber of Conesus lakefront complex.",
+    "sourceUrl": "https://www.beachcomberny.com/the-cabana-and-dockside-grill",
+    "needsReview": false,
+    "lat": 42.7332239,
+    "lng": -77.7234412,
+    "hoursNote": "Seasonal outdoor venue at the Beachcomber; check the official website or call before visiting."
+  },
+  {
+    "id": "canandaigua-urgent-care",
+    "name": "Canandaigua Urgent Care",
+    "address": "699 South Main Street, Suite 5, Canandaigua, NY 14424",
+    "phone": "(585) 978-8240",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "UR Medicine page lists urgent care hours as daily 8:00 AM-8:00 PM; call or check online before visiting because urgent care hours can change on holidays.",
+    "description": "UR Medicine urgent care clinic in Canandaigua for non-life-threatening illnesses and injuries, with imaging and lab services available on site.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "needsReview": false,
+    "lat": 42.850682,
+    "lng": -77.3191454
+  },
+  {
+    "id": "canopy-coffee-roasters",
+    "name": "Canopy Coffee Roasters",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "address": "3173 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-0836",
+    "website": "https://canopycoffeeroasters.com",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Located within Oak Hill Bulk Foods; cafe is closed Sundays.",
+    "description": "Small-batch specialty coffee roaster based at Oak Hill Bulk Foods in Penn Yan. Coffee is sold in store and online.",
+    "sourceUrl": "https://oakhillbulkfoods.com/visit/",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "cayuga-immediate-care",
+    "name": "Cayuga Immediate Care",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Cayuga",
+    "address": "401 Cayuga Park Lane, Ithaca, NY 14850",
+    "phone": "(607) 319-5900",
+    "website": "https://cayugahealth.org/hospital/cayuga-immediate-and-virtual-care/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Immediate care for non-emergency conditions; verify holiday hours before visiting.",
+    "description": "Immediate care center in Ithaca.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://cayugahealth.org/hospital/cayuga-immediate-and-virtual-care/",
+    "needsReview": false,
+    "lat": 42.4458438,
+    "lng": -76.5092837
+  },
+  {
+    "id": "cayuga-medical-center",
+    "name": "Cayuga Medical Center",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Cayuga",
+    "address": "101 Dates Drive, Ithaca, NY 14850",
+    "phone": "(607) 274-4011",
+    "website": "https://cayugahealth.org/hospital/cayuga-medical-center/",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Ithaca.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://cayugahealth.org/services/emergency/",
+    "needsReview": false,
+    "lat": 42.4692583,
+    "lng": -76.5374469
+  },
+  {
+    "id": "cb-craft-brewers",
+    "name": "CB Craft Brewers",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "300 Village Square Boulevard, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-4386",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Public sources reported CB Craft Brewers permanently closed on September 1, 2019; no current official website was verified.",
+    "description": "Former Honeoye Falls craft brewery from the dog-friendly source list; it appears permanently closed and should not be recommended as an active dog-friendly stop.",
+    "sourceUrl": "https://absolutebeer.com/news/new-york-based-cb-craft-brewers-to-close/",
+    "needsReview": true,
+    "lat": 42.9522855,
+    "lng": -77.5902759
+  },
+  {
+    "id": "chef-lerman-dressings",
+    "name": "Chef Lerman Salad Dressings & Sauces",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "PO Box 525, Penn Yan, NY 14527",
+    "website": "https://www.cheflerman.com/",
+    "hoursNote": "Mailing/office contact was verified; no public storefront hours were verified.",
+    "description": "Penn Yan-based maker of salad dressings and sauces with online product information and office contact by phone or email.",
+    "sourceUrl": "http://www.cheflerman.com/contact",
+    "needsReview": false,
+    "phone": "315-536-0739",
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "cmac-performing-arts",
+    "name": "CMAC Performing Arts",
+    "categories": [
+      "festival-event"
+    ],
+    "lake": "Canandaigua",
+    "address": "3355 Marvin Sands Drive, Canandaigua, NY 14424",
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com/",
+    "hoursNote": "Box office Mon/Wed/Fri noon–4 pm; open from noon on all show days. Show during your stay: Sat Jul 11 — Dierks Bentley with Ricky Skaggs & Kentucky Thunder and Kaitlin Butts.",
+    "description": "Outdoor summer concert amphitheater on the Finger Lakes Community College campus in Canandaigua, presenting national touring acts from June through September. Lawn and reserved seating available.",
+    "reviews": {},
+    "sourceUrl": "https://www.cmacevents.com/",
+    "needsReview": false,
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "thu": null,
+      "fri": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sat": null,
+      "sun": null
+    },
+    "lat": 42.8666171,
+    "lng": -77.2435556
+  },
+  {
+    "id": "coho-pizza-wine-bar",
+    "name": "COHO Pizza & Wine Bar",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "811 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 577-8008",
+    "website": "https://cohopizzawine.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "description": "Canandaigua Lake pizzeria and wine bar serving Roman- and Neapolitan-style pizzas, Italian-inspired dishes, burgers, and Finger Lakes wines.",
+    "reviews": {
+      "rating": 3.7,
+      "count": 21
+    },
+    "sourceUrl": "https://cohopizzawine.com/",
+    "needsReview": false,
+    "lat": 42.8754568,
+    "lng": -77.2721235
+  },
+  {
+    "id": "coltivare",
+    "name": "Coltivare",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "235 S Cayuga St, Ithaca, NY 14850",
+    "description": "Former TC3-operated culinary teaching restaurant and event venue in Ithaca; permanently closed in January 2025.",
+    "sourceUrl": "https://607newsnow.com/news/258852-tc3-operated-coltivare-permanently-closed-college-says/",
+    "needsReview": false,
+    "lat": 42.4374827,
+    "lng": -76.4986035,
+    "phone": "(607) 882-2333",
+    "website": "https://www.coltivareithaca.com/",
+    "hoursNote": "Permanently closed in January 2025; TC3's Culinary Center academic programs continue separately."
+  },
+  {
+    "id": "connies-diner",
+    "name": "Connie's Diner",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "205 E Main Street, Waterloo, NY 13165",
+    "phone": "(315) 539-9556",
+    "website": "http://www.connieswaterloo.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "06:00",
+        "close": "21:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Breakfast is served all day; cash only per the restaurant website.",
+    "description": "Classic stainless-steel diner in Waterloo serving all-day breakfast, lunch, and home-style comfort food.",
+    "sourceUrl": "http://www.connieswaterloo.com/",
+    "needsReview": false,
+    "lat": 42.9033265,
+    "lng": -76.8556312
+  },
+  {
+    "id": "crab-shack-restaurant-pub",
+    "name": "Crab Shack Restaurant & Pub",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5909 W Lake Road, Conesus, NY 14435",
+    "phone": "(585) 243-3640",
+    "website": "https://www.beachcomberny.com/",
+    "hours": {
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Seasonal restaurant at the Beachcomber; check the official website or call before visiting.",
+    "description": "Full-service restaurant and pub at the Beachcomber of Conesus lakefront complex.",
+    "sourceUrl": "https://www.beachcomberny.com/",
+    "needsReview": false,
+    "lat": 42.7332239,
+    "lng": -77.7234412
+  },
+  {
+    "id": "crooked-lake-ice-cream-company",
+    "name": "Crooked Lake Ice Cream Company",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "35 Shethar Street, Hammondsport, NY 14840",
+    "phone": "(607) 569-2751",
+    "website": "https://www.crookedlakeicecream.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Hours may vary in the off-season; confirm before visiting.",
+    "description": "Retro Hammondsport diner and ice cream shop serving homemade ice cream plus breakfast and lunch near Keuka Lake.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 249
+    },
+    "sourceUrl": "https://www.crookedlakeicecream.com/",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302
+  },
+  {
+    "id": "curtiss-museum",
+    "name": "Curtiss Museum",
+    "address": "8419 State Route 54, Hammondsport, NY 14840",
+    "phone": "(607) 569-2160",
+    "website": "https://glennhcurtissmuseum.org/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Official site lists daily hours; confirm holiday closures and special-event changes before visiting.",
+    "description": "Hammondsport museum preserving the legacy of Glenn H. Curtiss and early aviation, motorcycles, and regional transportation history.",
+    "sourceUrl": "https://glennhcurtissmuseum.org/",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302
+  },
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Conesus",
+    "address": "3772 West Lake Road, Geneseo, NY 14454",
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Official site lists tasting room and café hours; Sunday brunch 10:00-14:00.",
+    "description": "Conesus Lake's oldest operating winery, offering Finger Lakes wines and food in the Tankroom Café.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 116
+    },
+    "sourceUrl": "https://www.deerrunwinery.com/",
+    "needsReview": false,
+    "lat": 42.82222,
+    "lng": -77.7178
+  },
+  {
+    "id": "dr-konstantin-frank-winery",
+    "name": "Dr. Konstantin Frank Winery",
+    "categories": [
+      "shopping",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "9749 Middle Road, Hammondsport, NY 14840",
+    "phone": "800-320-0735",
+    "website": "https://www.drfrankwines.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Tasting-room hours from the winery's official structured data.",
+    "description": "Historic Keuka Lake winery known for pioneering vinifera grapes in the Finger Lakes and producing Riesling and sparkling wines.",
+    "sourceUrl": "https://www.drfrankwines.com/visit-us/",
+    "needsReview": false,
+    "lat": 42.473572,
+    "lng": -77.1840686
+  },
+  {
+    "id": "eagle-crest-vineyards",
+    "name": "Eagle Crest Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": null,
+    "address": "7107 Vineyard Rd, Conesus, NY 14435",
+    "phone": "(585) 346-2321",
+    "website": "https://www.eaglecrestvineyards.com/",
+    "hours": {
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sun": null,
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null
+    },
+    "hoursNote": "Official site directs visitors to its event calendar for tasting room hours and special events.",
+    "description": "Historic Eagle Crest/O-Neh-Da vineyard near Hemlock Lake; pet-friendly visitor listings describe the property as welcoming to dogs.",
+    "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
+    "needsReview": false,
+    "lat": 42.740236,
+    "lng": -77.623063
+  },
+  {
+    "id": "edgar-s-at-belhurst-castle",
+    "name": "Edgar’s at Belhurst Castle",
+    "address": "4069 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 781-0201 ext. 3",
+    "website": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "hoursNote": "Dinner hours should be confirmed with Belhurst before visiting.",
+    "description": "Fine dining restaurant inside historic Belhurst Castle overlooking Seneca Lake in Geneva.",
+    "sourceUrl": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "needsReview": false,
+    "lat": 42.8595,
+    "lng": -76.9785,
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "20:00"
+      }
+    }
+  },
+  {
+    "id": "edgars-at-belhurst-castle",
+    "name": "Edgar's Restaurant in the Castle",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "4069 W Lake Rd, Geneva, NY 14456",
+    "phone": "315-781-0201",
+    "website": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Dinner hours are for Edgar's; Belhurst Castle lodging is by reservation.",
+    "description": "Fine-dining restaurant inside Belhurst Castle, a historic Seneca Lake hotel and castle property in Geneva.",
+    "sourceUrl": "https://www.belhurst.com/dining/edgars-restaurant-in-the-castle/",
+    "needsReview": false,
+    "lat": 42.8393356,
+    "lng": -76.9748867
+  },
+  {
+    "id": "ember-woodfire-grill",
+    "name": "Ember Woodfire Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "21 Livonia Station, Livonia, NY 14487",
+    "phone": "(585) 346-0222",
+    "website": "https://www.emberwoodfiregrill.com/",
+    "hours": {
+      "mon": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "tue": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "20:30"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:30"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:30"
+      },
+      "sun": null
+    },
+    "hoursNote": "Summer kitchen hours; seasonal changes should be confirmed.",
+    "description": "Scratch kitchen in Livonia's historic train station centered on a wood-fired hearth, serving pizzas, steaks, chops, seafood, pasta, and craft cocktails.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 276
+    },
+    "sourceUrl": "https://www.emberwoodfiregrill.com/",
+    "needsReview": false,
+    "lat": 42.8214525,
+    "lng": -77.6686097
+  },
+  {
+    "id": "ff-thompson-hospital",
+    "name": "F.F. Thompson Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "350 Parrish Street, Canandaigua, NY 14424",
+    "phone": "(585) 396-6000",
+    "website": "https://www.urmc.rochester.edu/locations/ff-thompson-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Canandaigua.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "needsReview": false,
+    "lat": 42.8763062,
+    "lng": -77.2904945
+  },
+  {
+    "id": "fargo-bar-grill",
+    "name": "Fargo Bar & Grill",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "384 Main St, Aurora, NY 13026",
+    "phone": "(315) 364-8006",
+    "website": "https://fargogrill.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Bar may remain open later on Friday and Saturday.",
+    "description": "Rustic tavern in Aurora on Cayuga Lake's east side, known for burgers, pub fare, craft beer, a fireside lounge, and a courtyard patio.",
+    "sourceUrl": "https://fargogrill.com/hoursandlocation",
+    "needsReview": false,
+    "lat": 42.7543995,
+    "lng": -76.7022772
+  },
+  {
+    "id": "finger-lakes-distilling-company",
+    "name": "Finger Lakes Distilling Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "4676 NYS Route 414, Burdett, NY 14818",
+    "phone": "(607) 546-5510",
+    "website": "https://fingerlakesdistilling.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours may vary for holidays or special events; confirm with the distillery.",
+    "description": "Farm distillery on Seneca Lake producing spirits from locally grown fruits and grains, with a tasting room overlooking production.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 75
+    },
+    "sourceUrl": "https://fingerlakesdistilling.com/",
+    "needsReview": false,
+    "lat": 42.4200726,
+    "lng": -76.8488463
+  },
+  {
+    "id": "finger-lakes-medical-urgent-care-center",
+    "name": "Finger Lakes Medical Urgent Care Center",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "303 Grant Avenue, Auburn, NY 13021",
+    "phone": "(315) 258-7100",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Urgent care hours are Monday-Friday 8 a.m.-8 p.m., Saturday-Sunday 8 a.m.-6 p.m.; holiday hours may differ and Thanksgiving/Christmas are closed.",
+    "description": "Urgent care center in Auburn.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false,
+    "lat": 42.955046,
+    "lng": -76.5445255
+  },
+  {
+    "id": "flpp-collections",
+    "name": "Finger Lakes Premier Properties Collections",
+    "categories": [
+      "lodging-rental"
+    ],
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "hoursNote": "Vacation-rental availability varies by property and date; office driving directions were verified, but regular office hours were not verified.",
+    "description": "Vacation-rental collection pages for Finger Lakes waterfront homes, cottages, cabins, luxury homes, large-group rentals, family stays, pet-friendly stays, and longer-term rentals.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/getting-here",
+    "needsReview": false,
+    "lat": 42.6566996,
+    "lng": -77.0549135
+  },
+  {
+    "id": "flh-medical-pc-urgent-care-geneva",
+    "name": "FLH Medical, P.C. Urgent Care - Geneva",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "789 Pre-Emption Road, Geneva, NY 14456",
+    "phone": "(315) 781-2000",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-emergency care; open 8 a.m. to 8 p.m. every day.",
+    "description": "Urgent care center in Geneva.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "needsReview": false,
+    "lat": 42.863039,
+    "lng": -77.0100157
+  },
+  {
+    "id": "flpp-lakefront-homes",
+    "name": "FLPP Lakefront Homes",
+    "categories": [
+      "dog-friendly",
+      "lodging-rental"
+    ],
+    "lake": null,
+    "address": "142 Lake Street, Penn Yan, NY 14527",
+    "phone": "888-414-5253",
+    "website": "https://www.fingerlakespremierproperties.com/",
+    "description": "Finger Lakes Premier Properties lakefront vacation-rental homes, including pet-friendly options and waterfront cottages across multiple Finger Lakes.",
+    "sourceUrl": "https://www.fingerlakespremierproperties.com/",
+    "needsReview": false,
+    "hoursNote": "Vacation-rental availability varies by property and date; regular office hours were not verified.",
+    "lat": 42.6566996,
+    "lng": -77.0549135
+  },
+  {
+    "id": "fly-in-drive-in-breakfast",
+    "name": "Fly-in / Drive-in Breakfast",
+    "categories": [
+      "festival-event"
+    ],
+    "description": "Penn Yan Flying Club's annual July 4 fly-in/drive-in breakfast at Penn Yan Airport — 2026 marks the 85th year of this tradition. Features Birkett Mills buckwheat pancakes, airplane and helicopter rides, bounce house, live music, raffles, and family activities. Open to all — fly, drive, or bike in.",
+    "reviews": {},
+    "needsReview": false,
+    "address": "Penn Yan Airport, 2258 Airport Dr, Penn Yan, NY 14527",
+    "lat": 42.6343699,
+    "lng": -77.0525337,
+    "website": "https://www.pennyanflyingclub.com/",
+    "hoursNote": "Jul 4, 2026, 6:00am–11:30am",
+    "sourceUrl": "https://www.keukalakeassociation.org/event.php?id=49"
+  },
+  {
+    "id": "fox-run-vineyards",
+    "name": "Fox Run Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "670 State Route 14, Penn Yan, NY 14527",
+    "phone": "(315) 536-4616",
+    "website": "https://foxrunvineyards.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may change seasonally; confirm before visiting.",
+    "description": "Family-owned Seneca Lake winery with tastings, a cafe, vineyard tours, and dog-friendly outdoor areas.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 439
+    },
+    "sourceUrl": "https://foxrunvineyards.com/tasting-room",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "frames-galore-and-more",
+    "name": "Frames Galore & More",
+    "categories": [
+      "museum-historical",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "111 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-6826",
+    "description": "Penn Yan custom framing shop offering frames, mats, mounting, glass, repairs, and related services.",
+    "sourceUrl": "https://local.us-info.com/USNY100304755-3155366826/frames_galore_more-penn_yan.html",
+    "needsReview": false,
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "12:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours and contact were verified from business-directory listings; no dedicated official website was verified.",
+    "lat": 42.6613146,
+    "lng": -77.0537021
+  },
+  {
+    "id": "fuh-medical-urgent-care",
+    "name": "FUH Medical Urgent Care",
+    "address": "789 Pre-Emption Road, Geneva, NY 14456",
+    "lat": 42.8630755,
+    "lng": -77.0099605,
+    "phone": "(315) 781-2000",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Finger Lakes Health lists Geneva Urgent Care as open 8:00 AM-8:00 PM every day; call ahead before going to limit waiting-room time.",
+    "description": "Finger Lakes Health Geneva Urgent Care provides non-emergency care for minor injuries and unexpected illnesses, with testing, X-rays, point-of-care lab testing, and telemedicine options.",
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-geneva",
+    "needsReview": false
+  },
+  {
+    "id": "galene-new-american-restaurant",
+    "name": "Galene New American Restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Conesus",
+    "address": "5870 Big Tree Road, Lakeville, NY 14480",
+    "phone": "(585) 346-7231",
+    "website": "https://www.galeneny.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "16:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Summer season hours; winter hours are shorter and more limited.",
+    "description": "Waterfront New American restaurant on Conesus Lake with steaks, seafood, raw bar items, craft cocktails, patio dining, and a seasonal tiki bar.",
+    "sourceUrl": "https://www.galeneny.com/",
+    "needsReview": false,
+    "lat": 42.8347085,
+    "lng": -77.7013585
+  },
+  {
+    "id": "genesee-country-village-museum",
+    "name": "Genesee Country Village & Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "1410 Flint Hill Road, Mumford, NY 14511",
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org/",
+    "hoursNote": "2026 admission schedule: May 2-September 6 open Wednesday-Sunday 10:00 AM-4:00 PM; September 10-October 11 open Thursday-Sunday 10:00 AM-4:00 PM, closed September 17-24, open Monday October 12; October 16-November 22 open Friday-Sunday 10:00 AM-3:00 PM.",
+    "description": "Living-history museum in Mumford interpreting 19th-century New York life through a historic village, collections, nature center, and programs.",
+    "sourceUrl": "https://www.gcv.org/admission/",
+    "needsReview": false,
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "lat": 42.9959465,
+    "lng": -77.8836067
+  },
+  {
+    "id": "genesee-valley-country-village-and-museum",
+    "name": "Genesee Valley Country Village & Museum",
+    "address": "1410 Flint Hill Road, Mumford, NY 14511",
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Official name is Genesee Country Village & Museum. 2026 admission schedule: May 2-September 6 open Wednesday-Sunday 10:00 AM-4:00 PM; September 10-October 11 open Thursday-Sunday 10:00 AM-4:00 PM, closed September 17-24, open Monday October 12; October 16-November 22 open Friday-Sunday 10:00 AM-3:00 PM.",
+    "description": "Living-history museum in Mumford interpreting 19th-century New York life through a historic village, collections, nature center, and programs.",
+    "sourceUrl": "https://www.gcv.org/admission/",
+    "needsReview": false,
+    "lat": 42.9959465,
+    "lng": -77.8836067
+  },
+  {
+    "id": "geneva-general-hospital",
+    "name": "Geneva General Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "196 North Street, Geneva, NY 14456",
+    "phone": "(315) 787-4000",
+    "website": "https://www.flhealth.org/services/inpatient-care/geneva-general-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Geneva.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-geneva-general",
+    "needsReview": false,
+    "lat": 42.8774799,
+    "lng": -76.9882589
+  },
+  {
+    "id": "glazed-confused",
+    "name": "Glazed & Confused",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "address": "211 N Clinton Street, Syracuse, NY 13202",
+    "phone": "(315) 214-5544",
+    "website": "https://glazedsyr.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "14:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "14:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "14:00"
+      }
+    },
+    "description": "Downtown Syracuse small-batch donut shop known for creative made-from-scratch donuts and coffee.",
+    "reviews": {
+      "rating": 4.9,
+      "count": 149
+    },
+    "sourceUrl": "https://glazedsyr.com/",
+    "needsReview": false,
+    "lat": 43.0517881,
+    "lng": -76.1536771
+  },
+  {
+    "id": "glenn-h-curtiss-museum",
+    "name": "Glenn H. Curtiss Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Keuka",
+    "address": "8419 State Route 54, Hammondsport, NY 14840",
+    "phone": "(607) 569-2160",
+    "website": "https://glennhcurtissmuseum.org",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "May 1–October 31 hours; winter hours are shorter. Closed Easter, Thanksgiving, Christmas Eve, Christmas Day, and New Year's Day.",
+    "description": "Museum honoring aviation and motorcycle pioneer Glenn H. Curtiss in Hammondsport. Exhibits cover early aviation, motorcycles, bicycles, regional history, and aircraft restoration work.",
+    "sourceUrl": "https://glennhcurtissmuseum.org/about/",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302
+  },
+  {
+    "id": "glenn-scott-farms",
+    "name": "Glenn Scott Farm",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://www.parkinnflx.com/gsf",
+    "description": "Sustainable farm associated with Point of the Bluff and The Park Inn; public retail restaurant hours were not verified.",
+    "sourceUrl": "https://www.parkinnflx.com/gsf",
+    "needsReview": true,
+    "hoursNote": "No public farm storefront address or retail hours were verified."
+  },
+  {
+    "id": "gola-osteria",
+    "name": "Gola Osteria",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "115 S Quarry Street, Ithaca, NY 14850",
+    "phone": "(607) 273-0333",
+    "website": "https://golaosteria.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "description": "Italian restaurant in Ithaca's historic Quarry Arms building serving house pastas, seasonal Italian dishes, cocktails, and Italian and Finger Lakes wines.",
+    "sourceUrl": "https://golaosteria.com/about-us",
+    "needsReview": false,
+    "lat": 42.4369796,
+    "lng": -76.4878868
+  },
+  {
+    "id": "greater-ithaca-art-trail",
+    "name": "Greater Ithaca Art Trail",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "website": "https://arttrail.com/",
+    "hoursNote": "Distributed artist-studio trail; studio availability varies by artist and appointment, with no single venue hours verified.",
+    "description": "Guide to visual artists and studios in the Tompkins County area, operated as a Community Arts Partnership of Tompkins County program.",
+    "sourceUrl": "https://arttrail.com/",
+    "needsReview": true
+  },
+  {
+    "id": "hazlitt-1852-vineyards",
+    "name": "Hazlitt 1852 Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "5712 NY-414, Hector, NY 14841",
+    "phone": "(607) 546-9463",
+    "website": "https://hazlitt1852.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Extended summer hours may apply; closed on major holidays.",
+    "description": "Seneca Lake winery known for Red Cat; dogs are reported welcome both inside and outside.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 427
+    },
+    "sourceUrl": "https://hazlitt1852.com/",
+    "needsReview": false,
+    "lat": 42.5106365,
+    "lng": -76.8757755
+  },
+  {
+    "id": "herbert-f-johnson-museum-of-art",
+    "name": "Herbert F. Johnson Museum of Art",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Cayuga",
+    "address": "114 Central Avenue, Ithaca, NY 14853",
+    "phone": "(607) 255-6464",
+    "website": "https://museum.cornell.edu/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Summer hours are Wednesday-Friday 11:00 AM-4:00 PM and Saturday-Sunday 12:00 PM-4:00 PM; closed Monday and Tuesday. Check official site for holiday and Cornell-break closures.",
+    "description": "Cornell University's art museum in an I. M. Pei-designed building, with collections including Asian art, prints, drawings, photography, and contemporary works.",
+    "sourceUrl": "https://museum.cornell.edu/about/visit/",
+    "needsReview": false,
+    "lat": 42.4507213,
+    "lng": -76.4862064
+  },
+  {
+    "id": "heron-hill-tasting-room",
+    "name": "Heron Hill Tasting Room",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "5323 Seneca Point Road, Canandaigua, NY 14424",
+    "phone": "(585) 394-0173",
+    "website": "https://www.heronhill.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "19:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Confirm current tasting-room hours before visiting.",
+    "description": "Canandaigua Lake tasting room with an outdoor deck and patio where leashed dogs are welcome.",
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
+    "needsReview": false,
+    "lat": 42.762564,
+    "lng": -77.336452
+  },
+  {
+    "id": "heron-hill-tasting-room-on-canandaigua-lake",
+    "name": "Heron Hill Tasting Room on Canandaigua Lake",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "5323 Seneca Point Road, Canandaigua, NY 14424",
+    "phone": "(585) 394-0173",
+    "website": "https://www.heronhill.com",
+    "hours": {
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally; reservations are recommended for tastings.",
+    "description": "Canandaigua Lake tasting room in a renovated barn, offering Heron Hill wines, patio views, and seasonal events.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 62
+    },
+    "sourceUrl": "https://www.visitfingerlakes.com/listing/heron-hill-tasting-room-on-canandaigua-lake/236/",
+    "needsReview": false,
+    "lat": 42.762564,
+    "lng": -77.336452
+  },
+  {
+    "id": "hidden-marsh-distillery",
+    "name": "Hidden Marsh Distillery",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Cayuga",
+    "address": "2981 U.S. Route 20, Seneca Falls, NY 13148",
+    "phone": "(315) 568-8190",
+    "website": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Co-located with Montezuma Winery Finger Lakes; official page notes the tasting bar closes 15 minutes prior to winery closing.",
+    "description": "Pet-friendly Martin Family craft distillery co-located with Montezuma Winery, offering small-batch spirits and tastings in Seneca Falls.",
+    "sourceUrl": "https://mfwineriesdistilleries.com/distilleries/hidden-marsh-distillery/",
+    "needsReview": false,
+    "lat": 42.910719,
+    "lng": -76.7967848
+  },
+  {
+    "id": "hollerhorn-distilling",
+    "name": "Hollerhorn Distilling",
+    "categories": [
+      "brewery-distillery",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "8443 Spirit Run, Naples, NY 14512",
+    "phone": "(585) 531-2448",
+    "website": "https://www.hollerhorn.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Confirm hours and reservations, especially for events and holidays.",
+    "description": "Family-owned Naples distillery with small-batch spirits, cocktails, food, live music, and events.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 180
+    },
+    "sourceUrl": "https://www.hollerhorn.com/information",
+    "needsReview": false,
+    "lat": 42.6160647,
+    "lng": -77.4030253
+  },
+  {
+    "id": "hunt-country-vineyards",
+    "name": "Hunt Country Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "4021 Italy Hill Road, Branchport, NY 14418",
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntcountryvineyards.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Summer (peak-season) hours reported as Thu–Sat 10am–5pm, Sun noon–5pm, closed Mon–Wed. Verify on the official website or by phone before visiting; hours vary by season.",
+    "description": "Family-run Keuka Lake winery operating since 1981, recognized for sustainable farming (solar, geothermal, organic acreage). Offers tastings of 20+ estate wines including Riesling, Chardonnay, Cabernet Franc, and celebrated Vidal Ice Wine. Features a farm-to-table café, scenic deck seating among the vines, EV charging, and is pet-friendly.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 130
+    },
+    "sourceUrl": "https://www.huntcountryvineyards.com/",
+    "needsReview": true,
+    "lat": 42.598256,
+    "lng": -77.1724255
+  },
+  {
+    "id": "inspirations-trail",
+    "name": "Inspirations Trail",
+    "website": "https://inspirationstrail.com/",
+    "hoursNote": "Self-guided public-art trail through nine Livingston County downtowns; no single venue address, public phone, or set hours were verified.",
+    "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
+    "sourceUrl": "https://inspirationstrail.com/about",
+    "needsReview": true
+  },
+  {
+    "id": "inspire-moore-winery-vineyard",
+    "name": "Inspire Moore Winery & Vineyard",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Canandaigua",
+    "address": "197 N Main St, Naples, NY 14512",
+    "phone": "(585) 374-5970",
+    "website": "https://inspiremoorewinery.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Seasonal hours from official contact page: June-October Sunday-Friday 11:00-17:00 and Saturday 11:00-18:00; November-December/April-May Thursday-Monday 11:00-17:00; January-March Friday-Sunday 11:00-17:00.",
+    "description": "Winery, vineyard, and venue in Naples, NY, offering wine tastings, tours, public events, private events, and wedding celebrations.",
+    "sourceUrl": "https://inspiremoorewinery.com/contact/",
+    "needsReview": false,
+    "lat": 42.6252215,
+    "lng": -77.3948381
+  },
+  {
+    "id": "ira-davenport-memorial-hospital",
+    "name": "Ira Davenport Memorial Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "7571 State Route 54, Bath, NY 14810",
+    "phone": "(607) 776-8500",
+    "website": "https://www.arnothealth.org/ira-davenport-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Rural emergency hospital in Bath.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.arnothealth.org/ira-davenport-memorial-hospital",
+    "needsReview": false,
+    "lat": 42.3370164,
+    "lng": -77.3177577
+  },
+  {
+    "id": "its-a-wonderful-life-museum",
+    "name": "It's A Wonderful Life Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "76 Fall Street, Seneca Falls, NY 13148",
+    "phone": "(315) 568-5838",
+    "website": "https://www.wonderfullifemuseum.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Open Tuesday-Saturday 11:00 AM-4:00 PM at the current 76 Fall Street location.",
+    "description": "Seneca Falls museum dedicated to the film It's a Wonderful Life and the town's connections to the story.",
+    "sourceUrl": "https://www.wonderfullifemuseum.com/",
+    "needsReview": false,
+    "lat": 42.9106201,
+    "lng": -76.7974243
+  },
+  {
+    "id": "ithaca-farmers-market",
+    "name": "Ithaca Farmers Market",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "Steamboat Landing, 545 3rd St, Ithaca, NY 14850",
+    "phone": "607-273-7109",
+    "website": "https://www.ithacamarket.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": null,
+      "sat": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Saturday pavilion market is listed for April 4 through October 31; seasonal and holiday markets vary.",
+    "description": "Waterfront farmers market at Steamboat Landing with local produce, prepared foods, crafts, and other vendors.",
+    "sourceUrl": "https://www.ithacamarket.com/",
+    "needsReview": false,
+    "lat": 42.4374175,
+    "lng": -76.5483724
+  },
+  {
+    "id": "johnson-museum-of-art",
+    "name": "Johnson Museum of Art",
+    "address": "114 Central Avenue, Ithaca, NY 14853",
+    "phone": "(607) 255-6464",
+    "website": "https://museum.cornell.edu/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Official name is Herbert F. Johnson Museum of Art. Summer hours are Wednesday-Friday 11:00 AM-4:00 PM and Saturday-Sunday 12:00 PM-4:00 PM; closed Monday and Tuesday. Check official site for holiday and Cornell-break closures.",
+    "description": "Cornell University's art museum in an I. M. Pei-designed building overlooking Ithaca and Cayuga Lake.",
+    "sourceUrl": "https://museum.cornell.edu/about/visit/",
+    "needsReview": false,
+    "lat": 42.4507213,
+    "lng": -76.4862064
+  },
+  {
+    "id": "kanuk-board-co",
+    "name": "Kanuk Board Co",
+    "categories": [
+      "marina-boat-rental",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://kanukboardco.com/",
+    "description": "Wakesurf-board brand selling boards online; no boat-rental availability was verified.",
+    "sourceUrl": "https://kanukboardco.com/",
+    "needsReview": true,
+    "hoursNote": "No public Finger Lakes storefront, phone number, or boat-rental operation was verified."
+  },
+  {
+    "id": "kindred-fare",
+    "name": "Kindred Fare",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "512 Hamilton St, Geneva, NY 14456",
+    "phone": "(315) 787-0400",
+    "website": "https://kindredfare.com/",
+    "hours": {
+      "mon": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "17:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Dinner served daily; last seating is listed as 20:45.",
+    "description": "Farm-to-table restaurant in Geneva with a seasonal menu, visible kitchen, craft cocktails, and Finger Lakes wines.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 443
+    },
+    "sourceUrl": "https://kindredfare.com/locations-hours",
+    "needsReview": false,
+    "lat": 42.8570427,
+    "lng": -77.0071032
+  },
+  {
+    "id": "krooked-tusker-distillery",
+    "name": "Krooked Tusker Distillery",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Keuka",
+    "address": "10303 County Route 76, Hammondsport, NY 14840",
+    "phone": "(607) 868-3006",
+    "website": "https://www.krookedtusker.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "13:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "13:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "13:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Confirm tasting-room hours and group policies before visiting.",
+    "description": "West-side Keuka Lake distillery with small-batch spirits, cocktails, tastings, and panoramic lake views.",
+    "sourceUrl": "https://www.krookedtusker.com/",
+    "needsReview": false,
+    "lat": 42.4906791,
+    "lng": -77.1901311
+  },
+  {
+    "id": "lake-life-catering-company",
+    "name": "Lake Life Catering Company",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "8719 Coryell Road, Hammondsport, NY 14840",
+    "description": "Finger Lakes catering business registered in Hammondsport; public restaurant hours, phone, and website were not verified.",
+    "sourceUrl": "https://opengovny.com/corporation/6626291",
+    "needsReview": true,
+    "lat": 42.4247625,
+    "lng": -77.1695064
+  },
+  {
+    "id": "lakewood-vineyards",
+    "name": "Lakewood Vineyards",
+    "categories": [
+      "dog-friendly",
+      "winery"
+    ],
+    "lake": "Seneca",
+    "address": "4024 NY State Route 14, Watkins Glen, NY 14891",
+    "phone": "(607) 535-9252",
+    "website": "https://www.lakewoodvineyards.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Closed New Year's Day, Easter, Thanksgiving, and Christmas; confirm before visiting.",
+    "description": "Watkins Glen winery on Seneca Lake that welcomes dogs in outdoor areas.",
+    "sourceUrl": "https://lakewoodvineyards.com/contact-us/",
+    "needsReview": false,
+    "lat": 42.3810555,
+    "lng": -76.8705777
+  },
+  {
+    "id": "lamoreaux-landing-wine-cellars",
+    "name": "Lamoreaux Landing Wine Cellars",
+    "categories": [
+      "museum-historical",
+      "winery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "9224 NY-414, Lodi, NY 14860",
+    "phone": "(607) 582-6011",
+    "website": "https://lamoreauxwine.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Last tastings at 16:00; wine by the glass until 16:30; purchases until 17:00. Closed New Year's Day, Easter, Thanksgiving, and Christmas Day.",
+    "description": "Estate winery on the east side of Seneca Lake offering tastings of estate-grown wines with panoramic lake views. Its building was designed to resemble a Greek Revival temple.",
+    "sourceUrl": "https://lamoreauxwine.com/visit/",
+    "needsReview": false,
+    "lat": 42.5741209,
+    "lng": -76.8574242
+  },
+  {
+    "id": "laurentide-beer-company",
+    "name": "Laurentide Beer Company",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "12 Maiden Lane, Penn Yan, NY 14527",
+    "phone": "(315) 694-7605",
+    "website": "https://www.laurentidebeer.com",
+    "hours": {
+      "mon": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Hours may vary for events or holidays; confirm with the brewery.",
+    "description": "Penn Yan craft brewery established in 2020 and named for the Laurentide Ice Sheet that formed the Finger Lakes.",
+    "sourceUrl": "https://www.laurentidebeer.com/",
+    "needsReview": false,
+    "lat": 42.6618366,
+    "lng": -77.055174
+  },
+  {
+    "id": "livingston-county-historical-society-museum",
+    "name": "Livingston County Historical Society Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "14:00",
+        "close": "17:00"
+      },
+      "fri": null,
+      "sat": null,
+      "sun": {
+        "open": "14:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open May 1-October 31 on Thursdays and Sundays from 2:00 PM-5:00 PM; closed other days. Earlier local listings may also mention Saturday hours, so call ahead before visiting.",
+    "description": "Museum in Geneseo's historic cobblestone District #5 schoolhouse preserving and interpreting Livingston County history.",
+    "sourceUrl": "https://www.livingstoncountyhistoricalsociety.com/hours",
+    "needsReview": false,
+    "address": "30 Center Street, Geneseo, NY 14454",
+    "phone": "(585) 243-9147",
+    "website": "https://www.livingstoncountyhistoricalsociety.com/",
+    "lat": 42.7954305,
+    "lng": -77.8132371
+  },
+  {
+    "id": "livingston-county-inspirations-trail",
+    "name": "Livingston County Inspirations Trail",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "website": "https://inspirationstrail.com/",
+    "hoursNote": "Self-guided public-art trail through nine Livingston County downtowns; no single venue address, public phone, or set hours were verified.",
+    "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
+    "sourceUrl": "https://inspirationstrail.com/about",
+    "needsReview": true
+  },
+  {
+    "id": "love-geneva-mural",
+    "name": "LOVE Geneva Mural",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "Linden Street behind Super Casuals, Geneva, NY 14456",
+    "description": "Downtown Geneva public mural showing four hands spelling LOVE, inspired by Baltimore artist Michael Owen's design.",
+    "sourceUrl": "https://www.visitfingerlakes.com/blog/post/which-finger-lakes-mural-is-your-favorite/",
+    "needsReview": true,
+    "hoursNote": "Outdoor public mural; no dedicated phone, website, or posted venue hours were verified.",
+    "lat": 42.8690271,
+    "lng": -76.9786122
+  },
+  {
+    "id": "mackenzie-childs",
+    "name": "MacKenzie-Childs",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Cayuga",
+    "address": "3260 State Route 90, Aurora, NY 13026",
+    "lat": 42.776563,
+    "lng": -76.707696,
+    "phone": "315-364-6118",
+    "website": "https://www.mackenzie-childs.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Aurora store hours should be rechecked for holidays and special events.",
+    "description": "Aurora headquarters store with new items, an Outlet Room, and a year-round Christmas Room.",
+    "sourceUrl": "https://www.mackenzie-childs.com/faq-aurora.html",
+    "needsReview": false
+  },
+  {
+    "id": "main-deck",
+    "name": "Main Deck",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "301 Lake Street, Penn Yan, NY 14527",
+    "phone": "(315) 694-7536",
+    "website": "https://www.maindeckpy.com/",
+    "hoursNote": "Hours vary seasonally; confirm current service times before visiting.",
+    "description": "Waterfront restaurant on Keuka Lake in Penn Yan with lake views, cocktails, and seasonal dining.",
+    "sourceUrl": "https://www.maindeckpy.com/contact/",
+    "needsReview": false,
+    "lat": 42.6504045,
+    "lng": -77.0629585
+  },
+  {
+    "id": "mico-diner",
+    "name": "Mico Diner",
+    "description": "Could not verify a separate Finger Lakes restaurant under this spelling; likely needs review against Micro Diner in Watkins Glen.",
+    "needsReview": true
+  },
+  {
+    "id": "micro-diner",
+    "name": "Micro Diner",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "501 N Franklin St, Watkins Glen, NY 14891",
+    "phone": "(607) 377-6000",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "11:00",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "Seasonal operation; no official website was verified and public directory hours should be confirmed before visiting.",
+    "description": "Tiny seasonal Watkins Glen diner known as the world's smallest diner.",
+    "sourceUrl": "https://www.dinerville.info/ny/watkins-glen/micro-diner",
+    "needsReview": true,
+    "lat": 42.379735,
+    "lng": -76.8733908
+  },
+  {
+    "id": "mill-art-center-gallery",
+    "name": "Mill Art Center & Gallery",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "61 North Main Street, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-7740",
+    "website": "https://www.millartcenter.com/",
+    "hoursNote": "Gallery hours are Thursday 11:00 AM-3:00 PM, Friday-Saturday 12:00 PM-5:00 PM, and Sunday 1:00 PM-4:00 PM; hours may vary by exhibition or event.",
+    "description": "Honeoye Falls community art center and gallery offering exhibitions, classes, workshops, and lectures.",
+    "sourceUrl": "https://www.millartcenter.com/new-page-3",
+    "needsReview": false,
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "11:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "16:00"
+      }
+    },
+    "lat": 42.9560001,
+    "lng": -77.5887408
+  },
+  {
+    "id": "mill-art-center-an-gallery",
+    "name": "Mill Art Center an Gallery",
+    "address": "61 North Main Street, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-7740",
+    "website": "https://www.millartcenter.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "11:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Existing name appears to be a typo for Mill Art Center & Gallery. Gallery hours are Thursday 11:00 AM-3:00 PM, Friday-Saturday 12:00 PM-5:00 PM, and Sunday 1:00 PM-4:00 PM; hours may vary by exhibition or event.",
+    "description": "Honeoye Falls community art center and gallery offering exhibitions, classes, workshops, and lectures.",
+    "sourceUrl": "https://www.millartcenter.com/new-page-3",
+    "needsReview": false,
+    "lat": 42.9560001,
+    "lng": -77.5887408
+  },
+  {
+    "id": "mill-creek-cafe",
+    "name": "Mill Creek Cafe",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8705 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2620",
+    "website": "https://millcreekcafe.com/",
+    "hoursNote": "Official site states open Thursday through Monday, 11am to 8pm.",
+    "description": "Honeoye cafe and restaurant serving breakfast items, American favorites, baked goods, coffee, and dinner specials.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 89
+    },
+    "sourceUrl": "https://millcreekcafe.com/",
+    "needsReview": false,
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "12:00"
+      }
+    },
+    "lat": 42.789395,
+    "lng": -77.5142608
+  },
+  {
+    "id": "muranda-cheese-company",
+    "name": "Muranda Cheese Company",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "address": "3075 Route 96, Waterloo, NY 13165",
+    "phone": "315-651-0216",
+    "website": "https://www.murandacheese.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours from official structured data.",
+    "description": "Waterloo cheese producer offering cheese tastings and retail sales.",
+    "sourceUrl": "https://www.murandacheese.com/",
+    "needsReview": false,
+    "lat": 42.9046933,
+    "lng": -76.8627887
+  },
+  {
+    "id": "the-social-restaurant-and-tap-room-at-the-naples-hotel",
+    "name": "Naples Hotel Restaurant and Taproom",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "111 S Main St, Naples, NY 14512",
+    "phone": "(585) 374-5630",
+    "website": "https://napleshotelny.com/",
+    "hoursNote": "Dining operates seasonally; check the official restaurant/bar page for current hours.",
+    "description": "Historic Naples Hotel restaurant and taproom offering casual upscale dining, weekend brunch, Friday fish fry, craft cocktails, and live music.",
+    "sourceUrl": "https://napleshotelny.com/the-restaurant-and-bar/",
+    "needsReview": false,
+    "lat": 42.614846,
+    "lng": -77.4032015
+  },
+  {
+    "id": "nascar-at-the-glen",
+    "name": "NASCAR at The Glen",
+    "address": "2790 County Route 16, Watkins Glen, NY 14891",
+    "lat": 42.3363805,
+    "lng": -76.9250488,
+    "website": "https://www.theglen.com",
+    "hoursNote": "Drive The Glen paced laps ($25/vehicle, 3 laps) available Apr–Oct, Mon–Fri; closed Sat–Sun except on event days. Schedule varies around race events—confirm at theglen.com or call ahead.",
+    "description": "Watkins Glen International is a legendary 3.4-mile road-course race track in the Finger Lakes. Visitors can drive their own car around the full circuit via the Drive The Glen experience ($25/vehicle, 3 paced laps, Mon–Fri Apr–Oct). The track hosts NASCAR, IMSA, and vintage racing events throughout the season and offers grandstand viewing for ticketed race weekends.",
+    "sourceUrl": "https://www.theglen.com/calendar/",
+    "needsReview": false,
+    "categories": [
+      "race-track"
+    ],
+    "phone": "607-535-2486",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "16:30"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "16:30"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "16:30"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "16:30"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "16:30"
+      },
+      "sat": null,
+      "sun": null
+    }
+  },
+  {
+    "id": "national-memorial-day-museum",
+    "name": "National Memorial Day Museum",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "address": "35 East Main Street, Waterloo, NY 13165",
+    "phone": "(315) 539-9611",
+    "website": "https://wlhs-ny.com/national-memorial-day-museum/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Open Memorial Day through Labor Day only; also available by appointment or by chance.",
+    "description": "Museum operated by the Waterloo Library & Historical Society interpreting Waterloo's role as the federally recognized birthplace of Memorial Day. Exhibits cover the 1866 observance and local Memorial Day founders and traditions.",
+    "sourceUrl": "https://wlhs-ny.com/national-memorial-day-museum/",
+    "needsReview": false,
+    "lat": 42.9045496,
+    "lng": -76.8609803
+  },
+  {
+    "id": "new-york-kitchen",
+    "name": "New York Kitchen",
+    "categories": [
+      "museum-historical",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "800 South Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-7070",
+    "website": "https://www.nykitchen.com",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Guest Services hours; tasting room and class schedules vary by day and event.",
+    "description": "Nonprofit culinary center in Canandaigua promoting New York State agriculture, food, wine, beer, and spirits. It offers cooking classes, tastings, events, and a New York-focused tasting room.",
+    "sourceUrl": "https://www.nykitchen.com/plan-your-visit",
+    "needsReview": false,
+    "lat": 42.875847,
+    "lng": -77.2733782
+  },
+  {
+    "id": "nicks-chop-house-martini-bar",
+    "name": "Nick's Chop House & Martini Bar",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "5 Beeman Street, Canandaigua, NY 14424",
+    "phone": "(585) 393-0303",
+    "website": "https://nickschophouseandbar.com/",
+    "hours": {
+      "mon": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours should be confirmed because the official hours page was not consistently accessible.",
+    "description": "Downtown Canandaigua steakhouse and martini bar serving steaks, chops, seafood, duck, pasta, cocktails, and pub fare.",
+    "sourceUrl": "https://nickschophouseandbar.com/",
+    "needsReview": false,
+    "lat": 42.8849944,
+    "lng": -77.2789646
+  },
+  {
+    "id": "no-bs-brew-company",
+    "name": "No BS Brew Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "3474 Bronson Hill Road, Livonia, NY 14487",
+    "phone": "(585) 346-7268",
+    "website": "https://www.bsbrewcompany.com",
+    "hours": {
+      "mon": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Livonia location hours; confirm current hours and dog policy before visiting.",
+    "description": "Livonia brewery near Conesus Lake with a large tap list, food options, and reported leashed-dog-friendly spaces.",
+    "sourceUrl": "https://www.bsbrewcompany.com/",
+    "needsReview": false,
+    "lat": 42.8337682,
+    "lng": -77.6919168
+  },
+  {
+    "id": "noble-shepherd-craft-brewery",
+    "name": "Noble Shepherd Craft Brewery",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Canandaigua",
+    "address": "7853 State Route 20A, Bloomfield, NY 14469",
+    "phone": "(585) 229-7661",
+    "website": "https://www.nobleshepherdbrewery.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "Official site labels these as Noble Kitchen hours; confirm taproom and pet policy before visiting.",
+    "description": "Bloomfield craft brewery with food service; pet-travel listings report dogs are welcome in the taproom and outdoor patio.",
+    "sourceUrl": "https://www.nobleshepherdbrewery.com/",
+    "needsReview": false,
+    "lat": 42.8950641,
+    "lng": -77.4347128
+  },
+  {
+    "id": "oak-hill-bulk-foods",
+    "name": "Oak Hill Bulk Foods",
+    "categories": [
+      "shopping"
+    ],
+    "address": "3173 Route 14A, Penn Yan, NY 14527",
+    "phone": "315-536-0836",
+    "website": "https://oakhillbulkfoods.com/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Official schema lists Monday through Saturday hours; Sunday was not listed.",
+    "description": "Bulk-food grocery, bakery, deli, and cafe in Penn Yan serving the Finger Lakes area.",
+    "sourceUrl": "https://oakhillbulkfoods.com/",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "oak-leaf-cafe-bakery",
+    "name": "Oak Leaf Cafe & Bakery",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "3173 State Route 14A, Penn Yan, NY 14527",
+    "phone": "(315) 536-0836",
+    "website": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Cafe is part of Oak Hill Bulk Foods and is closed Sundays.",
+    "description": "Cafe and bakery at Oak Hill Bulk Foods serving breakfast, lunch, soups, baked goods, and fry pies.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 97
+    },
+    "sourceUrl": "https://oakhillbulkfoods.com/oak-leaf-cafe/",
+    "needsReview": false,
+    "lat": 42.6603037,
+    "lng": -77.0540989
+  },
+  {
+    "id": "osb-ciderworks",
+    "name": "OSB Ciderworks",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "5901 Big Tree Road, Lakeville, NY 14480",
+    "phone": "(585) 346-7027",
+    "website": "https://www.osbciderworks.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Current hours were found only in third-party pet-friendly listings, not on the official site; confirm before visiting.",
+    "description": "Lakeville cidery also known as Original Stump Blower Ciderworks; pet-friendly listings report dogs are welcome indoors and outdoors.",
+    "sourceUrl": "https://www.bringfido.com/restaurant/80370",
+    "needsReview": true,
+    "lat": 42.83517,
+    "lng": -77.6987144
+  },
+  {
+    "id": "philippe-farauts-gallery",
+    "name": "Philippe Faraut's Gallery",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "phone": "(585) 229-2976",
+    "website": "https://philippefaraut.com/",
+    "hoursNote": "No fixed public hours were verified; official page says the gallery is open when the open flag is out and recommends calling or messaging ahead to schedule a visit.",
+    "description": "Honeoye gallery associated with sculptor Philippe Faraut, located in the Cornerstone Building on Main Street.",
+    "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
+    "needsReview": false,
+    "address": "8732 Main Street, Honeoye, NY 14471",
+    "lat": 42.790512,
+    "lng": -77.516387
+  },
+  {
+    "id": "phillipe-faraut-s-gallery",
+    "name": "Phillipe Faraut�s Gallery",
+    "address": "8732 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2976",
+    "website": "https://philippefaraut.com/",
+    "hoursNote": "Existing name appears to be a misspelling of Philippe Faraut's Gallery. No fixed public hours were verified; official page says the gallery is open when the open flag is out and recommends calling or messaging ahead to schedule a visit.",
+    "description": "Honeoye gallery associated with sculptor Philippe Faraut, located in the Cornerstone Building on Main Street.",
+    "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
+    "needsReview": false,
+    "lat": 42.790512,
+    "lng": -77.516387
+  },
+  {
+    "id": "pleasant-valley-wine-company",
+    "name": "Pleasant Valley Wine Company",
+    "categories": [
+      "museum-historical",
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "8260 Pleasant Valley Road, Hammondsport, NY 14840",
+    "phone": "(607) 569-6111",
+    "website": "https://www.pleasantvalleywine.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Visitor Center April–December hours; January–March hours are Tuesday–Saturday 10:00–16:00. Tours run Memorial Day through mid-November, weather permitting.",
+    "description": "Historic Hammondsport winery established in 1860 and known as U.S. Bonded Winery No. 1. Its Great Western Winery Visitor Center includes historic exhibits, winemaking displays, and a theatre in a wine tank.",
+    "sourceUrl": "https://www.pleasantvalleywine.com/visit/",
+    "needsReview": false,
+    "lat": 42.4020574,
+    "lng": -77.2515522
+  },
+  {
+    "id": "point-of-the-bluff-vineyards",
+    "name": "Point of the Bluff Vineyards",
+    "categories": [
+      "winery"
+    ],
+    "lake": "Keuka",
+    "address": "10489 County Road 76, Hammondsport, NY 14840",
+    "phone": "(607) 220-5222",
+    "website": "https://pointofthebluffvineyards.com",
+    "hours": {
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours can vary for concerts and special events.",
+    "description": "Keuka Lake winery in a restored 1800s schoolhouse, known for tastings, events, and views over the vineyard grounds.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 116
+    },
+    "sourceUrl": "https://pointofthebluffvineyards.com/contact/",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302
+  },
+  {
+    "id": "pops-bakery-deli",
+    "name": "Pop's Bakery & Deli",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "8608 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-1328",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "14:00"
+      }
+    },
+    "hoursNote": "No official website verified; hours are from Restaurantji and should be confirmed.",
+    "description": "Honeoye bakery and deli known for baked goods, deli sandwiches, subs, and casual meals near Honeoye Lake.",
+    "sourceUrl": "https://www.restaurantji.com/ny/honeoye/pop-s-bakery-and-deli-/",
+    "needsReview": true,
+    "lat": 42.78997,
+    "lng": -77.5083115
+  },
+  {
+    "id": "ports-cafe",
+    "name": "Ports Cafe",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "4432 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 789-2020",
+    "website": "https://portscafe.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "22:00"
+      },
+      "sun": null
+    },
+    "description": "Seneca Lake-area restaurant serving seasonal American fare, steaks, seafood, Finger Lakes wines, and craft beer.",
+    "sourceUrl": "https://portscafe.com/",
+    "needsReview": false,
+    "lat": 42.814932,
+    "lng": -76.9778823
+  },
+  {
+    "id": "prison-city-pub-brewery",
+    "name": "Prison City Pub & Brewery",
+    "categories": [
+      "brewery-distillery",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "28 State Street, Auburn, NY 13021",
+    "phone": "(315) 604-1277",
+    "website": "https://www.prisoncitybrewing.com",
+    "hours": {
+      "mon": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Pub hours may change for holidays or special events; confirm before visiting.",
+    "description": "Downtown Auburn brewpub serving house-brewed beer and a full pub menu.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 400
+    },
+    "sourceUrl": "https://www.prisoncitybrewing.com/home-3",
+    "needsReview": false,
+    "lat": 42.9317672,
+    "lng": -76.5682427
+  },
+  {
+    "id": "red-jacket-orchards",
+    "name": "Red Jacket Orchards",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "website": "https://redjacketorchards.com/",
+    "description": "Geneva farm store and Finger Lakes orchard brand producing fruit, cider, and cold-pressed juices.",
+    "sourceUrl": "https://redjacketorchards.com/",
+    "needsReview": false,
+    "address": "957 Routes 5 & 20, Geneva, NY 14456",
+    "phone": "(315) 781-2749",
+    "hoursNote": "Farm store hours may vary seasonally.",
+    "lat": 42.8551,
+    "lng": -76.9935,
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    }
+  },
+  {
+    "id": "relative-risk-brewing",
+    "name": "Relative Risk Brewing",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "1166 Earls Hill Road, Penn Yan, NY 14527",
+    "phone": "(315) 325-4292",
+    "website": "https://www.relativeriskbrewing.com",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": null,
+      "fri": {
+        "open": "14:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Limited weekly hours; confirm current hours and events before visiting.",
+    "description": "Family-friendly craft brewery on Earls Hill Road with local ingredients, picnic space, and reported dog-friendly amenities.",
+    "sourceUrl": "https://www.relativeriskbrewing.com/",
+    "needsReview": false,
+    "lat": 42.7584095,
+    "lng": -76.9874047
+  },
+  {
+    "id": "rheinblick-german-restaurant",
+    "name": "Rheinblick German Restaurant",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "224 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 905-0950",
+    "website": "https://www.rheinblick.net/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Saturday has split lunch and dinner service (12:00-15:30 and 16:00-20:00), which cannot be represented as a single interval here.",
+    "description": "German restaurant in Canandaigua serving traditional German entrees, beer, and weekend lunch specials.",
+    "sourceUrl": "https://www.rheinblick.net/",
+    "needsReview": false,
+    "lat": 42.8841838,
+    "lng": -77.2794924
+  },
+  {
+    "id": "rio-tamatlan",
+    "name": "Rio Tamatlan",
+    "address": "106 Bemis St, Canandaigua, NY 14424",
+    "lat": 42.882284,
+    "lng": -77.282676,
+    "phone": "(585) 394-9380",
+    "website": "https://www.familiatomatlan.com/riotomatlan",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "15:00",
+        "close": "20:00"
+      },
+      "sun": null
+    },
+    "description": "Canandaigua Mexican restaurant from Familia Tomatlan, serving Mexican dishes, margaritas, and cocktails.",
+    "sourceUrl": "https://www.familiatomatlan.com/riotomatlan",
+    "needsReview": false
+  },
+  {
+    "id": "rio-tomatlan",
+    "name": "Rio Tomatlan",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "106 Bemis St, Canandaigua, NY 14424",
+    "phone": "(585) 394-9380",
+    "website": "https://www.familiatomatlan.com/riotomatlan",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "21:00"
+      }
+    },
+    "description": "Mexican restaurant in Canandaigua from Familia Tomatlan, known for regional Mexican dishes, margaritas, and cocktails.",
+    "sourceUrl": "https://www.familiatomatlan.com/riotomatlan",
+    "needsReview": false,
+    "lat": 42.88548,
+    "lng": -77.2827125
+  },
+  {
+    "id": "rising-storm-brewing-company",
+    "name": "Rising Storm Brewing Company",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Conesus",
+    "address": "5750 South Lima Road, Avon, NY 14414",
+    "phone": "(585) 572-3009",
+    "website": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "The official site currently emphasizes a Rochester location; confirm Avon/Farm location details before recommending.",
+    "description": "Rising Storm's Livonia/Avon taproom sits on a 12-acre property; visitor listings describe its outdoor areas as dog-friendly.",
+    "sourceUrl": "https://www.risingstormbrewing.com/rsbc-livonia/",
+    "needsReview": false,
+    "lat": 42.8550204,
+    "lng": -77.7062297
+  },
+  {
+    "id": "sampson-state-park",
+    "name": "Sampson State Park",
+    "categories": [
+      "museum-historical",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "6096 Route 96A, Romulus, NY 14541",
+    "phone": "(315) 585-6392",
+    "website": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "hoursNote": "Sampson Veterans Memorial Museum season listed May 15-October 12, 2026, Wednesday-Sunday 10:00 AM-3:00 PM. Park grounds are generally dawn to dusk; call ahead for facility changes.",
+    "description": "Seneca Lake state park on the former Sampson Naval Training Station and Air Force Base site, with camping, marina, beach, trails, and military-history interpretation.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "needsReview": false,
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "15:00"
+      }
+    },
+    "lat": 42.7520803,
+    "lng": -76.833708
+  },
+  {
+    "id": "scuteris-cannoli-connection",
+    "name": "Scuteri's Cannoli Connection",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "409 E 4th Street, Watkins Glen, NY 14891",
+    "phone": "(607) 535-7568",
+    "website": "https://www.scuteriscannoliconnection.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Tuesday hours are listed as summer-only, and closing times may be shorter in winter; confirm before visiting.",
+    "description": "Watkins Glen bakery and takeout spot known for cannoli, Italian pastries, pizza, and wings.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 175
+    },
+    "sourceUrl": "https://www.scuteriscannoliconnection.com/contact-us/4521890",
+    "needsReview": false,
+    "lat": 42.3810555,
+    "lng": -76.8705777
+  },
+  {
+    "id": "seneca-falls-urgent-care",
+    "name": "Seneca Falls Urgent Care",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Seneca",
+    "address": "1991 Balsley Road, Seneca Falls, NY 13148",
+    "phone": "(315) 835-4900",
+    "website": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-seneca-falls",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-emergency care; open 8 a.m. to 5 p.m. every day.",
+    "description": "Urgent care center in Seneca Falls.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.flhealth.org/location/flh-medical-pc-urgent-care-seneca-falls",
+    "needsReview": false,
+    "lat": 42.9072786,
+    "lng": -76.8327844
+  },
+  {
+    "id": "seneca-salt-company",
+    "name": "Seneca Salt Company",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "website": "https://senecasalt.com/",
+    "hoursNote": "No public storefront address, phone number, or retail hours were verified.",
+    "description": "Culinary salt brand with an official online presence; public visitor details were not verified.",
+    "sourceUrl": "https://senecasalt.com/",
+    "needsReview": true
+  },
+  {
+    "id": "simply-crepes",
+    "name": "Simply Crêpes",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "1229 Bay Road, Canandaigua, NY 14424",
+    "phone": "(585) 236-1056",
+    "website": "https://www.simplycrepes.com/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Canandaigua location of the family-owned crêpe restaurant serving sweet and savory crêpes, brunch, lunch, dinner, and cocktails.",
+    "sourceUrl": "https://www.simplycrepes.com/all-locations",
+    "needsReview": false,
+    "lat": 42.850682,
+    "lng": -77.3191454
+  },
+  {
+    "id": "simply-crepes-canandaigua",
+    "name": "Simply Crepes Canandaigua",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "101 S Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-9090",
+    "website": "https://www.simplycrepes.com/canandaigua-ny",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "description": "Canandaigua restaurant serving sweet and savory crepes, brunch, dinner, and seasonal patio dining on South Main Street.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 498
+    },
+    "sourceUrl": "https://www.simplycrepes.com/canandaigua-ny",
+    "needsReview": false,
+    "lat": 42.8864291,
+    "lng": -77.2802013
+  },
+  {
+    "id": "smokin-petes-bbq",
+    "name": "Smokin' Pete's BBQ",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "5286 W Lake Rd, Geneva, NY 14456",
+    "phone": "(315) 412-9542",
+    "website": "https://www.smokinpetes.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:30",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:30",
+        "close": "21:00"
+      }
+    },
+    "description": "Texas-style barbecue restaurant on Seneca Lake's west side with brisket, ribs, pulled pork, wings, bourbon, and craft beer.",
+    "sourceUrl": "https://www.smokinpetes.com/",
+    "needsReview": false,
+    "lat": 42.8381354,
+    "lng": -76.9787419
+  },
+  {
+    "id": "snug-harbor-restaurant",
+    "name": "Snug Harbor Restaurant",
+    "categories": [
+      "restaurant",
+      "dog-friendly"
+    ],
+    "lake": "Keuka",
+    "address": "9068A Snug Harbor Dr, Hammondsport, NY 14840",
+    "phone": "(607) 868-7684",
+    "website": "https://www.snugharborkeukalake.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:30",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "16:30",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Sunday has split brunch/lunch and dinner service; OCR correction: 'Butchar Boards' refers to the restaurant's Butcher Board menu item, not its name.",
+    "description": "Waterfront Keuka Lake restaurant in Hammondsport serving seafood, steaks, American dishes, local wines, desserts, and a signature Butcher Board sharing platter.",
+    "reviews": {
+      "rating": 4.2,
+      "count": 254
+    },
+    "sourceUrl": "https://www.snugharborkeukalake.com/contact",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302
+  },
+  {
+    "id": "snug-harbor-s-butchar-boards",
+    "name": "Snug Harbor’s Butchar Boards",
+    "address": "9068 Snug Harbor Dr A, Hammondsport, NY 14840",
+    "lat": 42.422001,
+    "lng": -77.20414,
+    "phone": "(607) 868-7684",
+    "website": "https://www.snugharborkeukalake.com/",
+    "hoursNote": "Official site currently says Snug Harbor is closed through 9/7 and fall hours are coming soon.",
+    "description": "Snug Harbor Restaurant on Keuka Lake; the entry appears to refer to its shareable butcher-board menu items.",
+    "sourceUrl": "https://www.snugharborkeukalake.com/",
+    "needsReview": false
+  },
+  {
+    "id": "soldiers-and-sailors-memorial-hospital",
+    "name": "Soldiers & Sailors Memorial Hospital",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "418 North Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 531-2000",
+    "website": "https://www.flhealth.org/services/inpatient-care/soldiers-sailors-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Emergency Department open 24/7.",
+    "description": "Hospital emergency department in Penn Yan.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-soldiers-sailors",
+    "needsReview": false,
+    "lat": 42.6710791,
+    "lng": -77.0612986
+  },
+  {
+    "id": "soldiers-and-sallors-memorial-hospital",
+    "name": "Soldiers & Sallors Memorial Hospital",
+    "address": "418 North Main Street, Penn Yan, NY 14527",
+    "lat": 42.6706422,
+    "lng": -77.0610591,
+    "phone": "(315) 531-2000",
+    "website": "https://www.flhealth.org/location/soldiers-sailors-memorial-hospital",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "Finger Lakes Health states the Soldiers & Sailors Emergency Department is open 24 hours a day, seven days a week; call 911 for life-threatening emergencies.",
+    "description": "Finger Lakes Health acute-care hospital in Penn Yan with an emergency department and inpatient and outpatient services.",
+    "sourceUrl": "https://www.flhealth.org/location/soldiers-sailors-memorial-hospital",
+    "needsReview": false
+  },
+  {
+    "id": "sonnenberg-gardens",
+    "name": "Sonnenberg Gardens",
+    "address": "250 Gibson Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-4922",
+    "website": "https://www.sonnenberg.org/",
+    "hours": {
+      "mon": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "fri": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "09:30",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "2026 season hours are Thursday-Monday 9:30 AM-4:30 PM, closed Tuesday and Wednesday; admissions close at 4:00 PM.",
+    "description": "Canandaigua estate, gardens, mansion, and New York State Historic Park preserving the former Thompson estate.",
+    "sourceUrl": "https://www.sonnenberg.org/visit/",
+    "needsReview": false,
+    "lat": 42.8957477,
+    "lng": -77.2737329
+  },
+  {
+    "id": "sonnenberg-gardens-mansion-state-historic-park",
+    "name": "Sonnenberg Gardens & Mansion State Historic Park",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Canandaigua",
+    "address": "250 Gibson Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-4922",
+    "website": "https://www.sonnenberg.org",
+    "hours": {
+      "mon": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "fri": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "09:30",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "Open May 1 through October 31, Thursday–Monday; admissions close at 16:00. Closed Tuesdays and Wednesdays.",
+    "description": "State historic park in Canandaigua featuring a Queen Anne-style mansion and formal gardens on a historic estate. Sonnenberg opened to the public in 1973 and is a major Ontario County landmark.",
+    "sourceUrl": "https://www.sonnenberg.org/visit/",
+    "needsReview": false,
+    "lat": 42.8957477,
+    "lng": -77.2737329
+  },
+  {
+    "id": "the-staving-artist",
+    "name": "Staving Artist Woodwork",
+    "categories": [
+      "museum-historical",
+      "shopping",
+      "dog-friendly"
+    ],
+    "lake": "Keuka",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 384-1110",
+    "website": "https://stavingartist.com/",
+    "hoursNote": "Official store-location page listed April-June hours as Monday and Wednesday-Friday 10:00 AM-5:00 PM, Saturday 10:00 AM-3:00 PM, closed Tuesday and Sunday; hours may vary seasonally.",
+    "description": "Penn Yan artisan woodwork shop specializing in handcrafted decor, gifts, and upcycled wine-barrel pieces.",
+    "sourceUrl": "https://stavingartist.com/pages/store-mapper",
+    "needsReview": false,
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sun": null
+    },
+    "lat": 42.661103,
+    "lng": -77.0535
+  },
+  {
+    "id": "steuben-brewing-company",
+    "name": "Steuben Brewing Company",
+    "categories": [
+      "brewery-distillery"
+    ],
+    "lake": "Keuka",
+    "address": "10286 Judson Road, Hammondsport, NY 14840",
+    "phone": "(607) 332-3000",
+    "website": "https://www.steubenbrewingcompany.com",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "19:00"
+      }
+    },
+    "hoursNote": "Hours and food-vendor schedules can change; confirm with the brewery.",
+    "description": "Hammondsport-area farm brewery known for Finger Lakes views, live music, and rotating food vendors.",
+    "reviews": {
+      "rating": 4.6,
+      "count": 147
+    },
+    "sourceUrl": "https://www.steubenbrewingcompany.com/",
+    "needsReview": false,
+    "lat": 42.5015308,
+    "lng": -77.1870816
+  },
+  {
+    "id": "steuben-glass",
+    "name": "Steuben Glass",
+    "categories": [
+      "shopping"
+    ],
+    "address": "One Museum Way, Corning, NY 14830",
+    "phone": "800-783-8236",
+    "website": "https://www.steuben.com/",
+    "hoursNote": "Independent retail hours were not verified; Steuben is managed by The Corning Museum of Glass.",
+    "description": "Historic luxury glass brand owned by Corning Incorporated and managed by The Corning Museum of Glass.",
+    "sourceUrl": "https://steuben.com/contact",
+    "needsReview": false,
+    "lat": 42.1488068,
+    "lng": -77.053161
+  },
+  {
+    "id": "sudsys-hot-sauce",
+    "name": "Sudsy's Hot Sauce",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "315-384-1110",
+    "website": "https://sudsyshotsauce.com/",
+    "description": "Small-batch hot sauce sold through retail stockists including Staving Artist Woodwork in Penn Yan.",
+    "sourceUrl": "https://sudsyshotsauce.com/",
+    "needsReview": true,
+    "hoursNote": "Official site lists retail stockists but no dedicated public address, phone number, or hours for the hot sauce maker.",
+    "lat": 42.661103,
+    "lng": -77.0535
+  },
+  {
+    "id": "sweet-melissas",
+    "name": "Sweet Melissa's",
+    "categories": [
+      "cafe"
+    ],
+    "lake": null,
+    "description": "Could not confidently verify a Skaneateles-area bakery or cafe by this exact name; it may be an OCR or source-name error.",
+    "needsReview": true
+  },
+  {
+    "id": "birkett-mills-pancakes",
+    "name": "The Birkett Mills",
+    "categories": [
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "1 East Main Street, Penn Yan, NY 14527",
+    "phone": "315-536-3311",
+    "website": "https://www.thebirkettmills.com/",
+    "hoursNote": "Retail/public visitor hours were not verified.",
+    "description": "Penn Yan specialty grain mill producing buckwheat, wheat flour, pancake mixes, and other milled grain products since 1797.",
+    "sourceUrl": "https://www.thebirkettmills.com/contact-us/",
+    "needsReview": false,
+    "lat": 42.660102,
+    "lng": -77.0527919
+  },
+  {
+    "id": "the-boat-yard-grill",
+    "name": "The Boatyard Grill",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "525 Taughannock Boulevard, Ithaca, NY 14850",
+    "phone": "(607) 256-2628",
+    "website": "https://www.boatyardgrill.com/",
+    "hoursNote": "Current hours were not verified from the official website scrape; no boat-rental availability was verified.",
+    "description": "Waterfront Ithaca restaurant on the Cayuga Inlet with a nautical setting, group dining, and reservations.",
+    "sourceUrl": "https://www.boatyardgrill.com/",
+    "needsReview": false,
+    "lat": 42.4458669,
+    "lng": -76.5125127,
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "16:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "16:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "16:00",
+        "close": "21:00"
+      }
+    }
+  },
+  {
+    "id": "the-cove",
+    "name": "The Cove",
+    "categories": [
+      "restaurant",
+      "dog-friendly"
+    ],
+    "lake": "Canandaigua",
+    "address": "205 Lakeshore Drive, Canandaigua, NY 14424",
+    "phone": "(585) 577-3500",
+    "website": "https://www.hotelcanandaiguany.com/dining",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "22:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "23:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "23:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "22:00"
+      }
+    },
+    "hoursNote": "Hotel restaurant hours; Corsair's Cove outdoor bar is seasonal.",
+    "description": "Contemporary American restaurant at Hotel Canandaigua with lake views, a wraparound patio, seasonal Finger Lakes ingredients, and cocktails.",
+    "sourceUrl": "https://www.hotelcanandaiguany.com/dining",
+    "needsReview": false,
+    "lat": 42.8727871,
+    "lng": -77.2558081
+  },
+  {
+    "id": "the-gallery-in-the-valley",
+    "name": "The Gallery in the Valley",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": null,
+    "description": "Downtown Geneseo art gallery showcasing local artists from the Genesee Valley and surrounding region.",
+    "needsReview": false,
+    "address": "79 Main Street, Geneseo, NY 14454",
+    "phone": "(585) 880-9026",
+    "sourceUrl": "https://www.visitgeneseo.com/arts-culture-directory/gallery-in-the-valley",
+    "lat": 42.7963075,
+    "lng": -77.8165485
+  },
+  {
+    "id": "the-lake-house-on-canandaigua-lake",
+    "name": "The Lake House on Canandaigua",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "770 S Main St, Canandaigua, NY 14424",
+    "phone": "(585) 394-7800",
+    "website": "https://www.lakehousecanandaigua.com/",
+    "hoursNote": "Hotel, dining, and Willowbrook Spa schedules vary by outlet, service, reservation, and season.",
+    "description": "Upscale lakefront resort on Canandaigua Lake with Rose Tavern, other dining outlets, and Willowbrook Spa.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 410
+    },
+    "sourceUrl": "https://www.lakehousecanandaigua.com/",
+    "needsReview": false,
+    "lat": 42.8744207,
+    "lng": -77.2742877
+  },
+  {
+    "id": "the-new-york-kitchen",
+    "name": "The New York Kitchen",
+    "address": "800 South Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-7070",
+    "website": "https://nykitchen.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Restaurant, tasting room, class, and event hours vary by program and season; check the official website before visiting.",
+    "description": "Canandaigua culinary center celebrating New York State food, agriculture, craft beverages, cooking classes, tasting room experiences, and events.",
+    "sourceUrl": "https://nykitchen.com/",
+    "needsReview": false,
+    "lat": 42.871446,
+    "lng": -77.277754
+  },
+  {
+    "id": "the-olney-place",
+    "name": "The Olney Place",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "823 E Lake Rd, Penn Yan, NY 14527",
+    "phone": "(315) 536-5454",
+    "website": "https://www.keukalake.com/",
+    "hours": {
+      "mon": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "07:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "07:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "07:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "07:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Hours may vary seasonally.",
+    "description": "Keuka Lake market, deli, eatery, beverage stop, and gas dock at The Olney Place.",
+    "sourceUrl": "https://www.keukalake.com/",
+    "needsReview": false,
+    "lat": 42.59938,
+    "lng": -77.1516827
+  },
+  {
+    "id": "the-park-inn",
+    "name": "The Park Inn",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Keuka",
+    "address": "37 Shethar St, Hammondsport, NY 14840",
+    "phone": "(607) 224-4004",
+    "website": "https://www.parkinnflx.com/",
+    "hoursNote": "Inn lodging is by reservation; restaurant hours vary and should be confirmed before visiting.",
+    "description": "Historic boutique inn and farm-to-table restaurant in Hammondsport near Keuka Lake.",
+    "sourceUrl": "https://www.parkinnflx.com/",
+    "needsReview": false,
+    "lat": 42.4079347,
+    "lng": -77.2236302,
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "17:00",
+        "close": "21:00"
+      },
+      "sun": null
+    }
+  },
+  {
+    "id": "the-rabbit-room",
+    "name": "The Rabbit Room",
+    "categories": [
+      "restaurant"
+    ],
+    "lake": "Honeoye",
+    "address": "61 N Main St, Honeoye Falls, NY 14472",
+    "website": "http://thelowermill.com/rabbit-room",
+    "description": "Former restaurant/event space at the Lower Mill in Honeoye Falls; reports indicate the space has been replaced by Grist.",
+    "sourceUrl": "https://mhflsentinel.com/new-restaurant-opens-in-honeoye-falls-in-lower-mill/",
+    "needsReview": true,
+    "lat": 42.9560001,
+    "lng": -77.5887408
+  },
+  {
+    "id": "the-social-restaurant-tap-room-at-the-naples-hotel",
+    "name": "The Social Restaurant & Tap Room at The Naples Hotel",
+    "categories": [
+      "lodging-rental",
+      "restaurant"
+    ],
+    "lake": "Canandaigua",
+    "address": "111 S Main St, Naples, NY 14512",
+    "phone": "(585) 374-5630",
+    "website": "https://napleshotelny.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "15:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "The former Social branding has been replaced by Naples Hotel Restaurant and Taproom; dining operates seasonally, so confirm current restaurant hours.",
+    "description": "Historic Naples Hotel restaurant and taproom offering casual upscale dining, weekend brunch, craft cocktails, Friday fish fry, live music, and lodging.",
+    "sourceUrl": "https://napleshotelny.com/the-restaurant-and-bar/",
+    "needsReview": false,
+    "lat": 42.614846,
+    "lng": -77.4032015
+  },
+  {
+    "id": "inns-of-aurora-spa",
+    "name": "The Spa at the Inns of Aurora",
+    "categories": [
+      "lodging-rental",
+      "spa"
+    ],
+    "lake": "Cayuga",
+    "address": "700 Sherwood Rd, Aurora, NY 13026",
+    "phone": "315-364-8888",
+    "website": "https://www.innsofaurora.com/spa/",
+    "hours": {
+      "mon": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:30",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:30",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Spa reservations are required to access the facility.",
+    "description": "Farm-inspired day spa on the Inns of Aurora campus overlooking Cayuga Lake; the property is associated with inn lodging in Aurora.",
+    "sourceUrl": "https://www.innsofaurora.com/spa/",
+    "needsReview": false,
+    "lat": 42.7574665,
+    "lng": -76.693082
+  },
+  {
+    "id": "the-wisdom-mural",
+    "name": "The Wisdom Mural",
+    "address": "125 Main Street, Geneseo, NY 14454",
+    "website": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "hoursNote": "Outdoor public mural; no dedicated phone or posted venue hours were verified.",
+    "description": "Geneseo LivCo Walls mural by artist duo KEY DETAIL, part of Livingston County's Inspirations Trail.",
+    "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "needsReview": true,
+    "lat": 42.7949731,
+    "lng": -77.8168356
+  },
+  {
+    "id": "three-brothers-wineries-estates",
+    "name": "Three Brothers Wineries & Estates",
+    "categories": [
+      "brewery-distillery",
+      "winery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "623 Lerch Road, Geneva, NY 14456",
+    "phone": "(315) 585-4432",
+    "website": "https://www.3brotherswinery.com",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Estate hours can change seasonally and by holiday; confirm before visiting.",
+    "description": "Seneca Lake estate with three wineries, War Horse Brewing Co., a cafe, and multiple tasting rooms on one property.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 1700
+    },
+    "sourceUrl": "https://www.3brotherswinery.com/pages/war-horse-brewing-co",
+    "needsReview": false,
+    "lat": 42.8233525,
+    "lng": -76.923675
+  },
+  {
+    "id": "tree-huggers-cafe",
+    "name": "Tree Huggers Café",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "description": "Could not verify a Finger Lakes cafe or restaurant by this name from public listings.",
+    "needsReview": true
+  },
+  {
+    "id": "twisted-rail-brewing",
+    "name": "Twisted Rail Brewing",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Canandaigua",
+    "address": "169 Lakeshore Drive, Canandaigua, NY 14424",
+    "phone": "(585) 396-0683",
+    "website": "https://www.twistedrailbrewing.com",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Canandaigua location hours; confirm holiday or event changes.",
+    "description": "Canandaigua brewery and pub on Lakeshore Drive with craft beer, food, live music, and reported dog-friendly seating.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 288
+    },
+    "sourceUrl": "https://www.twistedrailbrewing.com/locations",
+    "needsReview": false,
+    "lat": 42.8749936,
+    "lng": -77.2621098
+  },
+  {
+    "id": "two-goats-brewing",
+    "name": "Two Goats Brewing",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly"
+    ],
+    "lake": "Seneca",
+    "address": "5027 State Route 414, Burdett, NY 14818",
+    "phone": "(607) 546-2337",
+    "website": "https://twogoatsbrewing.com",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "12:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "22:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "June-September hours found; confirm seasonal hours before visiting.",
+    "description": "Locally owned Seneca Lake brewpub known for beer, lake views, live music, and its Beef-on-Weck sandwich.",
+    "sourceUrl": "https://twogoatsbrewing.com/",
+    "needsReview": false,
+    "lat": 42.4766954,
+    "lng": -76.8697173
+  },
+  {
+    "id": "ur-medicine-thompson-health",
+    "name": "UR Medicine Thompson Health",
+    "address": "350 Parrish Street, Canandaigua, NY 14424",
+    "phone": "(585) 396-6000",
+    "website": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "hours": {
+      "mon": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tue": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wed": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thu": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "fri": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sat": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sun": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "hoursNote": "UR Medicine lists the F.F. Thompson Hospital Emergency Department as open 24/7; call 911 for life-threatening emergencies.",
+    "description": "UR Medicine emergency department at F.F. Thompson Hospital in Canandaigua for life-threatening and serious medical emergencies.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/er-thompson",
+    "needsReview": false,
+    "lat": 42.8763062,
+    "lng": -77.2904945
+  },
+  {
+    "id": "ur-medicine-ungent-care",
+    "name": "UR Medicine Ungent Care",
+    "address": "50 East South Street, 1st Floor, Geneseo, NY 14454-1300",
+    "phone": "(585) 243-9595",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "UR Medicine page lists Geneseo urgent care hours as daily 9:00 AM-8:00 PM; call or check online before visiting because urgent care hours can change on holidays.",
+    "description": "UR Medicine Noyes urgent care in Geneseo for non-life-threatening illnesses and injuries, with no appointment needed.",
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "needsReview": false,
+    "lat": 42.795896,
+    "lng": -77.816947
+  },
+  {
+    "id": "ur-medicine-urgent-care-canandaigua",
+    "name": "UR Medicine Urgent Care - Canandaigua",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "699 South Main Street, Suite 5, Canandaigua, NY 14424",
+    "phone": "(585) 978-8240",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening illness or injury; walk-ins accepted.",
+    "description": "Urgent care center in Canandaigua.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-canandaigua",
+    "needsReview": false,
+    "lat": 42.850682,
+    "lng": -77.3191454
+  },
+  {
+    "id": "ur-medicine-urgent-care-geneseo",
+    "name": "UR Medicine Urgent Care - Geneseo",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "50 East South Street, 1st Floor, Geneseo, NY 14454",
+    "phone": "(585) 243-9595",
+    "website": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening illness or injury; open daily.",
+    "description": "Urgent care center in Geneseo.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.urmc.rochester.edu/locations/urgent-care-geneseo",
+    "needsReview": false,
+    "lat": 42.795896,
+    "lng": -77.816947
+  },
+  {
+    "id": "urgent-care-of-auburn",
+    "name": "Urgent care of Auburn",
+    "address": "303 Grant Avenue, Auburn, NY 13021",
+    "phone": "(315) 258-7100",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Auburn Community Hospital lists Finger Lakes Medical Urgent Care Center hours as Mon-Fri 8:00 AM-8:00 PM, Sat-Sun 8:00 AM-6:00 PM, holidays 8:00 AM-5:00 PM; closed Thanksgiving and Christmas Day.",
+    "description": "Auburn Community Hospital urgent care clinic for non-emergent conditions, minor medical needs, lab and port draws, and X-rays; no appointment needed.",
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false,
+    "lat": 42.955046,
+    "lng": -76.5445255
+  },
+  {
+    "id": "urgent-medical-care-of-skaneateles",
+    "name": "Urgent Medical Care of Skaneateles",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "793 Genesee Street, Skaneateles, NY 13152",
+    "phone": "(315) 685-9355",
+    "website": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Urgent care hours are Monday-Friday 8 a.m.-8 p.m., Saturday-Sunday 8 a.m.-6 p.m.; holiday hours may differ and Thanksgiving/Christmas are closed.",
+    "description": "Urgent care center in Skaneateles.",
+    "reviews": {
+      "rating": null,
+      "count": null
+    },
+    "sourceUrl": "https://www.auburnhospital.org/programs-services/urgent-care-clinics/",
+    "needsReview": false,
+    "lat": 42.9447857,
+    "lng": -76.4470895
+  },
+  {
+    "id": "verns-bakery",
+    "name": "Vern's Bakery",
+    "categories": [
+      "cafe"
+    ],
+    "lake": "Keuka",
+    "address": "49 Shethar St, Hammondsport, NY 14840",
+    "phone": "(680) 867-3803",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "wed": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "thu": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "fri": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sat": {
+        "open": "06:30",
+        "close": "11:30"
+      },
+      "sun": {
+        "open": "06:30",
+        "close": "11:30"
+      }
+    },
+    "hoursNote": "No official website verified; hours are from Restaurantji and should be confirmed.",
+    "description": "Hammondsport bakery at 49 Shethar St.",
+    "reviews": {
+      "rating": 4.5,
+      "count": 14
+    },
+    "sourceUrl": "https://www.restaurantji.com/ny/hammondsport/verns-bakery-/",
+    "needsReview": true,
+    "lat": 42.4091308,
+    "lng": -77.2229081
+  },
+  {
+    "id": "wagner-valley-brewing-co",
+    "name": "Wagner Valley Brewing Co",
+    "categories": [
+      "brewery-distillery",
+      "dog-friendly",
+      "restaurant"
+    ],
+    "lake": "Seneca",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnerbrewing.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Hours may vary for seasons and special events.",
+    "description": "Seneca Lake craft brewery at Wagner Vineyards with rotating taps and nearby Ginny Lee Cafe food service.",
+    "sourceUrl": "https://wagnerbrewing.com/contact-us/",
+    "needsReview": false,
+    "lat": 42.5713572,
+    "lng": -76.8588534
+  },
+  {
+    "id": "wagner-vineyards-estate-winery",
+    "name": "Wagner Vineyards Estate Winery",
+    "categories": [
+      "dog-friendly",
+      "winery",
+      "brewery-distillery",
+      "cafe"
+    ],
+    "lake": "Seneca",
+    "address": "9322 State Route 414, Lodi, NY 14860",
+    "phone": "(607) 582-6450",
+    "website": "https://wagnervineyards.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Standard daily hours; some sources note occasional extended Friday hours.",
+    "description": "Seneca Lake estate winery where leashed dogs are allowed on the lawn and Vantage Point deck, with service animals only inside.",
+    "sourceUrl": "https://wagnervineyards.com/",
+    "needsReview": false,
+    "lat": 42.5713572,
+    "lng": -76.8588534
+  },
+  {
+    "id": "water-st-cafe",
+    "name": "Water St. Cafe",
+    "categories": [
+      "cafe",
+      "restaurant"
+    ],
+    "lake": null,
+    "address": "467 Exchange Street, Geneva, NY 14456",
+    "phone": "(315) 789-2560",
+    "website": "https://www.waterstcafeny.com/",
+    "hours": {
+      "mon": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "tue": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "wed": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "thu": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "fri": {
+        "open": "06:00",
+        "close": "14:00"
+      },
+      "sat": {
+        "open": "06:00",
+        "close": "13:00"
+      },
+      "sun": {
+        "open": "06:00",
+        "close": "13:00"
+      }
+    },
+    "description": "Geneva cafe serving coffee, pastries, breakfast, and lunch from its Exchange Street location.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 295
+    },
+    "sourceUrl": "https://www.waterstcafeny.com/",
+    "needsReview": false,
+    "lat": 42.8676499,
+    "lng": -76.9812246
+  },
+  {
+    "id": "water-street-coffee",
+    "name": "Water Street Coffee",
+    "needsReview": true
+  },
+  {
+    "id": "welinow-urgent-care",
+    "name": "WelINow Urgent Care",
+    "address": "1 White Springs Road, Geneva, NY 14456",
+    "lat": 42.857209,
+    "lng": -76.999753,
+    "phone": "(315) 230-4074",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "WellNow official location data lists Geneva office hours as 8:00 AM-8:00 PM Monday-Sunday; check online or call for holiday changes.",
+    "description": "WellNow urgent care center in Geneva treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "needsReview": false
+  },
+  {
+    "id": "wellnow-urgent-care-canandaigua",
+    "name": "WellNow Urgent Care - Canandaigua",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": "Canandaigua",
+    "address": "288 Eastern Blvd, Canandaigua, NY 14424",
+    "phone": "(585) 412-5630",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Canandaigua.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 567
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "needsReview": false,
+    "lat": 42.8782606,
+    "lng": -77.2687265
+  },
+  {
+    "id": "wellnow-urgent-care-geneva",
+    "name": "WellNow Urgent Care - Geneva",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "1 White Springs Road, Geneva, NY 14456",
+    "phone": "(315) 230-4074",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Geneva.",
+    "reviews": {
+      "rating": 4.8,
+      "count": 797
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/geneva/1-white-springs-road-14456/",
+    "needsReview": false,
+    "lat": 42.8572749,
+    "lng": -76.9996655
+  },
+  {
+    "id": "wellnow-urgent-care-ithaca",
+    "name": "WellNow Urgent Care - Ithaca",
+    "categories": [
+      "hospital-urgent-care"
+    ],
+    "lake": null,
+    "address": "740 South Meadow Street, Ithaca, NY 14850",
+    "phone": "(607) 319-4563",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/ithaca/740-south-meadow-street-14850/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Urgent care for non-life-threatening conditions; open daily 8 a.m. to 8 p.m.",
+    "description": "Urgent care center in Ithaca.",
+    "reviews": {
+      "rating": 4.4,
+      "count": 914
+    },
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/ithaca/740-south-meadow-street-14850/",
+    "needsReview": false,
+    "lat": 42.4301306,
+    "lng": -76.5085266
+  },
+  {
+    "id": "wellnow-urgent-care-canandaiguia",
+    "name": "WellNow Urgent Care (Canandaiguia)",
+    "address": "288 Eastern Blvd, Canandaigua, NY 14424",
+    "lat": 42.878719,
+    "lng": -77.257511,
+    "phone": "(585) 412-5630",
+    "website": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "hours": {
+      "mon": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "tue": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "wed": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "thu": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "08:00",
+        "close": "20:00"
+      },
+      "sat": null,
+      "sun": {
+        "open": "08:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "WellNow official location data lists Canandaigua office hours as 8:00 AM-8:00 PM Monday-Friday and Sunday, with no Saturday office hours listed; call or check online before visiting.",
+    "description": "WellNow urgent care center in Canandaigua treating non-life-threatening illnesses and injuries, with X-ray, stitching, and point-of-care lab testing.",
+    "sourceUrl": "https://www.wellnow.com/urgent-care-centers/new-york/canandaigua/288-eastern-blvd-14424/",
+    "needsReview": false
+  },
+  {
+    "id": "wisdom-livco-walls-mural",
+    "name": "Wisdom (LivCo Walls Mural)",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Conesus",
+    "address": "125 Main Street, Geneseo, NY 14454",
+    "hoursNote": "Outdoor public mural; no dedicated phone or posted venue hours were verified.",
+    "description": "Geneseo LivCo Walls mural by artist duo KEY DETAIL, part of Livingston County's Inspirations Trail.",
+    "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "needsReview": true,
+    "website": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "lat": 42.7949731,
+    "lng": -77.8168356
+  },
+  {
+    "id": "wolffys-grill-and-marina",
+    "name": "Wolffy's Grill & Marina",
+    "categories": [
+      "marina-boat-rental",
+      "restaurant"
+    ],
+    "lake": "Cayuga",
+    "address": "2943 Lower Lake Road, Seneca Falls, NY 13148",
+    "phone": "(315) 257-0077",
+    "website": "https://www.wolffysgrill.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    },
+    "hoursNote": "Restaurant hours are seasonal; check the official website or call before visiting.",
+    "description": "Lakeside grill and marina on Cayuga Lake with dock-and-dine access.",
+    "sourceUrl": "https://www.wolffysgrill.com/",
+    "needsReview": false,
+    "lat": 42.8830081,
+    "lng": -76.7451945
+  },
+  {
+    "id": "wolffys-house-on-the-hill",
+    "name": "Wolffy's House on the Hill",
+    "categories": [
+      "lodging-rental"
+    ],
+    "lake": "Cayuga",
+    "address": "Near 2943 Lower Lake Road, Seneca Falls, NY 13148",
+    "phone": "315-257-0077",
+    "website": "https://www.vrbo.com/2431668",
+    "hoursNote": "Vacation-rental availability is by booking; exact street address and direct official booking site were not verified.",
+    "description": "Cayuga Lake vacation rental listed on booking platforms as a three-bedroom private home near Seneca Falls with lake access and space for up to nine guests.",
+    "sourceUrl": "https://www.vrbo.com/2431668",
+    "needsReview": true,
+    "lat": 42.910719,
+    "lng": -76.7967848
+  },
+  {
+    "id": "womens-rights-national-historical-park",
+    "name": "Women's Rights National Historical Park",
+    "categories": [
+      "museum-historical"
+    ],
+    "lake": "Seneca",
+    "address": "136 Fall Street, Seneca Falls, NY 13148",
+    "phone": "(315) 568-0024",
+    "website": "https://www.nps.gov/wori/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "tue": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Visitor Center and Wesleyan Chapel summer-season hours; grounds are open dawn to dusk. Closed Thanksgiving Day, Christmas Day, and New Year's Day.",
+    "description": "National Park Service site preserving places associated with the first Women's Rights Convention held in Seneca Falls in 1848. The park includes the visitor center, Wesleyan Chapel, and Elizabeth Cady Stanton-related sites.",
+    "sourceUrl": "https://www.nps.gov/wori/planyourvisit/hours.htm",
+    "needsReview": false,
+    "lat": 42.9108267,
+    "lng": -76.8001575
+  },
+  {
+    "id": "y-knot-country-store-and-eatery",
+    "name": "Y Knot Country Store & Eatery",
+    "categories": [
+      "restaurant",
+      "shopping"
+    ],
+    "lake": "Keuka",
+    "address": "9208 County Route 74, Pulteney, NY 14874",
+    "phone": "(607) 868-3839",
+    "website": "https://yknotkeuka.com/",
+    "hoursNote": "Official site scrape verified the store/eatery description but not current hours; call before visiting.",
+    "description": "Country store and eatery on Keuka Lake's west side offering food, drinks, groceries, and lake essentials.",
+    "sourceUrl": "https://yknotkeuka.com/",
+    "needsReview": false,
+    "lat": 42.52565,
+    "lng": -77.1661492,
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "20:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "20:00"
+      }
+    }
+  }
+]

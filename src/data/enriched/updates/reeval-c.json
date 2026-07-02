@@ -1,0 +1,52 @@
+[
+  {
+    "id": "naples-grape-festival",
+    "name": "Naples Grape Festival",
+    "remove": true
+  },
+  {
+    "id": "glorious-garlic-festival",
+    "name": "Glorious Garlic Festival",
+    "remove": true
+  },
+  {
+    "id": "hammondsport-festival-of-crafts",
+    "name": "Hammondsport Festival of Crafts",
+    "remove": true
+  },
+  {
+    "id": "keuka-arts-festival",
+    "name": "Keuka Arts Festival",
+    "remove": true
+  },
+  {
+    "id": "italian-american-festival",
+    "name": "Italian American Festival",
+    "remove": true
+  },
+  {
+    "id": "schuyler-county-italian-american-festival",
+    "name": "Schuyler County Italian American Festival",
+    "remove": true
+  },
+  {
+    "id": "ports-of-call",
+    "name": "Ports of Call",
+    "remove": true
+  },
+  {
+    "id": "2025-ports-of-call",
+    "name": "2025 Ports of Call",
+    "remove": true
+  },
+  {
+    "id": "bacon-on-the-lakein",
+    "name": "Bacon on the Lakein",
+    "remove": true
+  },
+  {
+    "id": "finger-lakes-grassroots-festival-of-music-and-dance",
+    "name": "Finger Lakes GrassRoots Festival of Music and Dance",
+    "remove": true
+  }
+]

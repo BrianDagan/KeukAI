@@ -1,0 +1,722 @@
+[
+  {
+    "id": "artizanns",
+    "name": "Artizanns Gifts of the Finger Lakes",
+    "address": "118 North Main Street, Naples, NY 14512",
+    "phone": "(585) 374-6740",
+    "website": "https://artizanns.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Official hours page lists Wednesday-Saturday 11:00 AM-5:00 PM and Sunday 12:00 PM-5:00 PM; closed Monday and Tuesday.",
+    "description": "Naples gallery and gift shop featuring handmade work by Finger Lakes artisans.",
+    "sourceUrl": "https://artizanns.com/pages/hours-and-location",
+    "needsReview": false
+  },
+  {
+    "id": "arts-center-of-yates-county",
+    "name": "Arts Center of Yates County",
+    "address": "127 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-8226",
+    "website": "https://artscenteryatescounty.org/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Flick Gallery hours are Tuesday-Saturday 10:00 AM-5:00 PM; closed Sunday and Monday.",
+    "description": "Penn Yan arts organization with the Flick Gallery, exhibits, classes, workshops, and local art programs.",
+    "sourceUrl": "https://artscenteryatescounty.org/gallery/",
+    "needsReview": false
+  },
+  {
+    "id": "artscape-ithaca",
+    "name": "Artscape Ithaca",
+    "website": "https://www.artscapeithaca.com/",
+    "hoursNote": "Distributed public-art map/initiative; no single street address, public phone, or venue hours were verified.",
+    "description": "Interactive public-art resource for murals, sculptures, mosaics, and other artworks around Ithaca and Tompkins County.",
+    "sourceUrl": "https://www.artscapeithaca.com/",
+    "needsReview": true
+  },
+  {
+    "id": "cmac-performing-arts",
+    "name": "CMAC Performing Arts",
+    "address": "3355 Marvin Sands Drive, Canandaigua, NY 14424",
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "thu": null,
+      "fri": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Box office hours are Monday, Wednesday, and Friday 12:00 PM-4:00 PM, plus all show days starting at noon; Bridge Box Office opens on show days one hour before doors.",
+    "description": "Seasonal outdoor performing-arts amphitheater on the Finger Lakes Community College campus in Canandaigua.",
+    "sourceUrl": "https://www.cmacevents.com/cmac-venue/",
+    "needsReview": false
+  },
+  {
+    "id": "constellation-brands-marvin-sands-performing-arts-center-cmac",
+    "name": "Constellation Brands � Marvin Sands Performing Arts Center (CMAC)",
+    "address": "3355 Marvin Sands Drive, Canandaigua, NY 14424",
+    "phone": "(585) 678-6938",
+    "website": "https://www.cmacevents.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "thu": null,
+      "fri": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sat": null,
+      "sun": null
+    },
+    "hoursNote": "Box office hours are Monday, Wednesday, and Friday 12:00 PM-4:00 PM, plus all show days starting at noon; Bridge Box Office opens on show days one hour before doors.",
+    "description": "Seasonal outdoor performing-arts amphitheater on the Finger Lakes Community College campus in Canandaigua.",
+    "sourceUrl": "https://www.cmacevents.com/cmac-venue/",
+    "needsReview": false
+  },
+  {
+    "id": "curtiss-museum",
+    "name": "Curtiss Museum",
+    "address": "8419 State Route 54, Hammondsport, NY 14840",
+    "phone": "(607) 569-2160",
+    "website": "https://glennhcurtissmuseum.org/",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Official site lists daily hours; confirm holiday closures and special-event changes before visiting.",
+    "description": "Hammondsport museum preserving the legacy of Glenn H. Curtiss and early aviation, motorcycles, and regional transportation history.",
+    "sourceUrl": "https://glennhcurtissmuseum.org/",
+    "needsReview": false
+  },
+  {
+    "id": "frames-galore-and-more",
+    "name": "Frames Galore & More",
+    "address": "111 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 536-6826",
+    "hours": {
+      "mon": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "tue": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "wed": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "09:00",
+        "close": "15:00"
+      },
+      "sat": {
+        "open": "09:00",
+        "close": "12:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Hours and contact were verified from business-directory listings; no dedicated official website was verified.",
+    "description": "Penn Yan custom framing shop offering frames, mats, mounting, glass, repairs, and related services.",
+    "sourceUrl": "https://local.us-info.com/USNY100304755-3155366826/frames_galore_more-penn_yan.html",
+    "needsReview": false
+  },
+  {
+    "id": "genesee-country-village-museum",
+    "name": "Genesee Country Village & Museum",
+    "address": "1410 Flint Hill Road, Mumford, NY 14511",
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "2026 admission schedule: May 2-September 6 open Wednesday-Sunday 10:00 AM-4:00 PM; September 10-October 11 open Thursday-Sunday 10:00 AM-4:00 PM, closed September 17-24, open Monday October 12; October 16-November 22 open Friday-Sunday 10:00 AM-3:00 PM.",
+    "description": "Living-history museum in Mumford interpreting 19th-century New York life through a historic village, collections, nature center, and programs.",
+    "sourceUrl": "https://www.gcv.org/admission/",
+    "needsReview": false
+  },
+  {
+    "id": "genesee-valley-country-village-and-museum",
+    "name": "Genesee Valley Country Village & Museum",
+    "address": "1410 Flint Hill Road, Mumford, NY 14511",
+    "phone": "(585) 538-6822",
+    "website": "https://www.gcv.org/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Official name is Genesee Country Village & Museum. 2026 admission schedule: May 2-September 6 open Wednesday-Sunday 10:00 AM-4:00 PM; September 10-October 11 open Thursday-Sunday 10:00 AM-4:00 PM, closed September 17-24, open Monday October 12; October 16-November 22 open Friday-Sunday 10:00 AM-3:00 PM.",
+    "description": "Living-history museum in Mumford interpreting 19th-century New York life through a historic village, collections, nature center, and programs.",
+    "sourceUrl": "https://www.gcv.org/admission/",
+    "needsReview": false
+  },
+  {
+    "id": "greater-ithaca-art-trail",
+    "name": "Greater Ithaca Art Trail",
+    "website": "https://arttrail.com/",
+    "hoursNote": "Distributed artist-studio trail; studio availability varies by artist and appointment, with no single venue hours verified.",
+    "description": "Guide to visual artists and studios in the Tompkins County area, operated as a Community Arts Partnership of Tompkins County program.",
+    "sourceUrl": "https://arttrail.com/",
+    "needsReview": true
+  },
+  {
+    "id": "herbert-f-johnson-museum-of-art",
+    "name": "Herbert F. Johnson Museum of Art",
+    "address": "114 Central Avenue, Ithaca, NY 14853",
+    "phone": "(607) 255-6464",
+    "website": "https://museum.cornell.edu/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Summer hours are Wednesday-Friday 11:00 AM-4:00 PM and Saturday-Sunday 12:00 PM-4:00 PM; closed Monday and Tuesday. Check official site for holiday and Cornell-break closures.",
+    "description": "Cornell University's art museum in an I. M. Pei-designed building, with collections including Asian art, prints, drawings, photography, and contemporary works.",
+    "sourceUrl": "https://museum.cornell.edu/about/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "inspirations-trail",
+    "name": "Inspirations Trail",
+    "website": "https://inspirationstrail.com/",
+    "hoursNote": "Self-guided public-art trail through nine Livingston County downtowns; no single venue address, public phone, or set hours were verified.",
+    "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
+    "sourceUrl": "https://inspirationstrail.com/about",
+    "needsReview": true
+  },
+  {
+    "id": "its-a-wonderful-life-museum",
+    "name": "It's A Wonderful Life Museum",
+    "address": "76 Fall Street, Seneca Falls, NY 13148",
+    "phone": "(315) 568-5838",
+    "website": "https://www.wonderfullifemuseum.com/",
+    "hours": {
+      "mon": null,
+      "tue": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Open Tuesday-Saturday 11:00 AM-4:00 PM at the current 76 Fall Street location.",
+    "description": "Seneca Falls museum dedicated to the film It's a Wonderful Life and the town's connections to the story.",
+    "sourceUrl": "https://www.wonderfullifemuseum.com/",
+    "needsReview": false
+  },
+  {
+    "id": "johnson-museum-of-art",
+    "name": "Johnson Museum of Art",
+    "address": "114 Central Avenue, Ithaca, NY 14853",
+    "phone": "(607) 255-6464",
+    "website": "https://museum.cornell.edu/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "16:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "16:00"
+      },
+      "sun": {
+        "open": "12:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Official name is Herbert F. Johnson Museum of Art. Summer hours are Wednesday-Friday 11:00 AM-4:00 PM and Saturday-Sunday 12:00 PM-4:00 PM; closed Monday and Tuesday. Check official site for holiday and Cornell-break closures.",
+    "description": "Cornell University's art museum in an I. M. Pei-designed building overlooking Ithaca and Cayuga Lake.",
+    "sourceUrl": "https://museum.cornell.edu/about/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "livingston-county-historical-society-museum",
+    "name": "Livingston County Historical Society Museum",
+    "address": "30 Center Street, Geneseo, NY 14454",
+    "phone": "(585) 243-9147",
+    "website": "https://www.livingstoncountyhistoricalsociety.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "14:00",
+        "close": "17:00"
+      },
+      "fri": null,
+      "sat": null,
+      "sun": {
+        "open": "14:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Open May 1-October 31 on Thursdays and Sundays from 2:00 PM-5:00 PM; closed other days. Earlier local listings may also mention Saturday hours, so call ahead before visiting.",
+    "description": "Museum in Geneseo's historic cobblestone District #5 schoolhouse preserving and interpreting Livingston County history.",
+    "sourceUrl": "https://www.livingstoncountyhistoricalsociety.com/hours",
+    "needsReview": false
+  },
+  {
+    "id": "livingston-county-inspirations-trail",
+    "name": "Livingston County Inspirations Trail",
+    "website": "https://inspirationstrail.com/",
+    "hoursNote": "Self-guided public-art trail through nine Livingston County downtowns; no single venue address, public phone, or set hours were verified.",
+    "description": "Livingston County self-guided public-art tour featuring murals, sculptures, and other inspirational artworks in village downtowns.",
+    "sourceUrl": "https://inspirationstrail.com/about",
+    "needsReview": true
+  },
+  {
+    "id": "love-geneva-mural",
+    "name": "LOVE Geneva Mural",
+    "address": "Linden Street behind Super Casuals, Geneva, NY 14456",
+    "hoursNote": "Outdoor public mural; no dedicated phone, website, or posted venue hours were verified.",
+    "description": "Downtown Geneva public mural showing four hands spelling LOVE, inspired by Baltimore artist Michael Owen's design.",
+    "sourceUrl": "https://www.visitfingerlakes.com/blog/post/which-finger-lakes-mural-is-your-favorite/",
+    "needsReview": true
+  },
+  {
+    "id": "mill-art-center-gallery",
+    "name": "Mill Art Center & Gallery",
+    "address": "61 North Main Street, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-7740",
+    "website": "https://www.millartcenter.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "11:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Gallery hours are Thursday 11:00 AM-3:00 PM, Friday-Saturday 12:00 PM-5:00 PM, and Sunday 1:00 PM-4:00 PM; hours may vary by exhibition or event.",
+    "description": "Honeoye Falls community art center and gallery offering exhibitions, classes, workshops, and lectures.",
+    "sourceUrl": "https://www.millartcenter.com/new-page-3",
+    "needsReview": false
+  },
+  {
+    "id": "mill-art-center-an-gallery",
+    "name": "Mill Art Center an Gallery",
+    "address": "61 North Main Street, Honeoye Falls, NY 14472",
+    "phone": "(585) 624-7740",
+    "website": "https://www.millartcenter.com/",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "11:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "sun": {
+        "open": "13:00",
+        "close": "16:00"
+      }
+    },
+    "hoursNote": "Existing name appears to be a typo for Mill Art Center & Gallery. Gallery hours are Thursday 11:00 AM-3:00 PM, Friday-Saturday 12:00 PM-5:00 PM, and Sunday 1:00 PM-4:00 PM; hours may vary by exhibition or event.",
+    "description": "Honeoye Falls community art center and gallery offering exhibitions, classes, workshops, and lectures.",
+    "sourceUrl": "https://www.millartcenter.com/new-page-3",
+    "needsReview": false
+  },
+  {
+    "id": "philippe-farauts-gallery",
+    "name": "Philippe Faraut's Gallery",
+    "address": "8732 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2976",
+    "website": "https://philippefaraut.com/",
+    "hoursNote": "No fixed public hours were verified; official page says the gallery is open when the open flag is out and recommends calling or messaging ahead to schedule a visit.",
+    "description": "Honeoye gallery associated with sculptor Philippe Faraut, located in the Cornerstone Building on Main Street.",
+    "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
+    "needsReview": false
+  },
+  {
+    "id": "phillipe-faraut-s-gallery",
+    "name": "Phillipe Faraut�s Gallery",
+    "address": "8732 Main Street, Honeoye, NY 14471",
+    "phone": "(585) 229-2976",
+    "website": "https://philippefaraut.com/",
+    "hoursNote": "Existing name appears to be a misspelling of Philippe Faraut's Gallery. No fixed public hours were verified; official page says the gallery is open when the open flag is out and recommends calling or messaging ahead to schedule a visit.",
+    "description": "Honeoye gallery associated with sculptor Philippe Faraut, located in the Cornerstone Building on Main Street.",
+    "sourceUrl": "https://philippefaraut.com/pages/philippe-faraut-sculptures-in-honeoye-ny",
+    "needsReview": false
+  },
+  {
+    "id": "ring-of-fire",
+    "name": "Ring of Fire",
+    "address": "Canandaigua Lake shoreline, Canandaigua, NY 14424",
+    "website": "https://www.visitfingerlakes.com/events/annual-events/ring-of-fire/",
+    "hoursNote": "2025 Ring of Fire was listed for Saturday, August 30 at dusk; no event-specific public phone was verified.",
+    "description": "Labor Day weekend Canandaigua Lake tradition in which residents and visitors light flares or lights around the shoreline at dusk.",
+    "sourceUrl": "https://www.visitfingerlakes.com/events/annual-events/ring-of-fire/",
+    "needsReview": true
+  },
+  {
+    "id": "sampson-state-park",
+    "name": "Sampson State Park",
+    "address": "6096 Route 96A, Romulus, NY 14541",
+    "phone": "(315) 585-6392",
+    "website": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "hours": {
+      "mon": null,
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "15:00"
+      }
+    },
+    "hoursNote": "Sampson Veterans Memorial Museum season listed May 15-October 12, 2026, Wednesday-Sunday 10:00 AM-3:00 PM. Park grounds are generally dawn to dusk; call ahead for facility changes.",
+    "description": "Seneca Lake state park on the former Sampson Naval Training Station and Air Force Base site, with camping, marina, beach, trails, and military-history interpretation.",
+    "sourceUrl": "https://parks.ny.gov/visit/state-parks/sampson-state-park",
+    "needsReview": false
+  },
+  {
+    "id": "sonnenberg-gardens",
+    "name": "Sonnenberg Gardens",
+    "address": "250 Gibson Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-4922",
+    "website": "https://www.sonnenberg.org/",
+    "hours": {
+      "mon": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "fri": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sat": {
+        "open": "09:30",
+        "close": "16:30"
+      },
+      "sun": {
+        "open": "09:30",
+        "close": "16:30"
+      }
+    },
+    "hoursNote": "2026 season hours are Thursday-Monday 9:30 AM-4:30 PM, closed Tuesday and Wednesday; admissions close at 4:00 PM.",
+    "description": "Canandaigua estate, gardens, mansion, and New York State Historic Park preserving the former Thompson estate.",
+    "sourceUrl": "https://www.sonnenberg.org/visit/",
+    "needsReview": false
+  },
+  {
+    "id": "the-staving-artist",
+    "name": "Staving Artist Woodwork",
+    "address": "101 Main Street, Penn Yan, NY 14527",
+    "phone": "(315) 384-1110",
+    "website": "https://stavingartist.com/",
+    "hours": {
+      "mon": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "10:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "10:00",
+        "close": "15:00"
+      },
+      "sun": null
+    },
+    "hoursNote": "Official store-location page listed April-June hours as Monday and Wednesday-Friday 10:00 AM-5:00 PM, Saturday 10:00 AM-3:00 PM, closed Tuesday and Sunday; hours may vary seasonally.",
+    "description": "Penn Yan artisan woodwork shop specializing in handcrafted decor, gifts, and upcycled wine-barrel pieces.",
+    "sourceUrl": "https://stavingartist.com/pages/store-mapper",
+    "needsReview": false
+  },
+  {
+    "id": "the-gallery-in-the-valley",
+    "name": "The Gallery in the Valley",
+    "address": "79 Main Street, Geneseo, NY 14454",
+    "phone": "(585) 880-9026",
+    "description": "Downtown Geneseo art gallery showcasing local artists from the Genesee Valley and surrounding region.",
+    "sourceUrl": "https://www.visitgeneseo.com/arts-culture-directory/gallery-in-the-valley",
+    "needsReview": false
+  },
+  {
+    "id": "the-new-york-kitchen",
+    "name": "The New York Kitchen",
+    "address": "800 South Main Street, Canandaigua, NY 14424",
+    "phone": "(585) 394-7070",
+    "website": "https://nykitchen.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "tue": null,
+      "wed": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "21:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    },
+    "hoursNote": "Tasting Room spring/summer hours: Monday 12:00 PM-6:00 PM, Tuesday closed, Wednesday 12:00 PM-6:00 PM, Thursday-Saturday 11:00 AM-9:00 PM, Sunday 11:00 AM-8:00 PM. Guest services phone hours differ and hours may change seasonally.",
+    "description": "Canandaigua culinary center with tasting room, cooking and beverage classes, events, and New York State food and drink experiences.",
+    "sourceUrl": "https://nykitchen.com/tasting-room/",
+    "needsReview": false
+  },
+  {
+    "id": "the-wisdom-mural",
+    "name": "The Wisdom Mural",
+    "address": "125 Main Street, Geneseo, NY 14454",
+    "website": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "hoursNote": "Outdoor public mural; no dedicated phone or posted venue hours were verified.",
+    "description": "Geneseo LivCo Walls mural by artist duo KEY DETAIL, part of Livingston County's Inspirations Trail.",
+    "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "needsReview": true
+  },
+  {
+    "id": "wisdom-livco-walls-mural",
+    "name": "Wisdom (LivCo Walls Mural)",
+    "address": "125 Main Street, Geneseo, NY 14454",
+    "website": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "hoursNote": "Outdoor public mural; no dedicated phone or posted venue hours were verified.",
+    "description": "Geneseo LivCo Walls mural by artist duo KEY DETAIL, part of Livingston County's Inspirations Trail.",
+    "sourceUrl": "https://www.visitlivco.com/things-to-do/inspirations-trail/wisdom-mural/",
+    "needsReview": true
+  }
+]

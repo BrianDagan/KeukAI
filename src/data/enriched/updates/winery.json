@@ -1,0 +1,118 @@
+[
+  {
+    "id": "deer-run-winery",
+    "name": "Deer Run Winery",
+    "address": "3772 West Lake Road, Geneseo, NY 14454",
+    "lat": 42.82222,
+    "lng": -77.7178,
+    "phone": "(585) 346-0850",
+    "website": "https://www.deerrunwinery.com/",
+    "hours": {
+      "mon": {
+        "open": "12:00",
+        "close": "17:00"
+      },
+      "tue": null,
+      "wed": null,
+      "thu": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "fri": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "sat": {
+        "open": "12:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "10:00",
+        "close": "18:00"
+      }
+    },
+    "hoursNote": "Official site lists tasting room and caf\u00e9 hours; Sunday brunch 10:00-14:00.",
+    "description": "Conesus Lake's oldest operating winery, offering Finger Lakes wines and food in the Tankroom Caf\u00e9.",
+    "reviews": {
+      "rating": 4.7,
+      "count": 116
+    },
+    "sourceUrl": "https://www.deerrunwinery.com/",
+    "needsReview": false
+  },
+  {
+    "id": "eagle-crest-vineyards",
+    "name": "Eagle Crest Vineyards",
+    "address": "7107 Vineyard Rd, Conesus, NY 14435",
+    "phone": "(585) 346-2321",
+    "website": "https://www.eaglecrestvineyards.com/",
+    "hoursNote": "Official site directs visitors to its event calendar for tasting room hours and special events.",
+    "sourceUrl": "https://www.eaglecrestvineyards.com/contact/",
+    "needsReview": false
+  },
+  {
+    "id": "harvest-festival-at-hunt-country-vineyards",
+    "name": "Harvest Festival at Hunt Country Vineyards",
+    "address": "4021 Italy Hill Rd, Branchport, NY 14418",
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntcountryvineyards.com/",
+    "hoursNote": "37th Annual Harvest Festival: Saturday, October 4, 2025, 10:00-17:00.",
+    "description": "Annual Hunt Country Harvest Festival with grape stomping, vineyard trolley tours, sustainability tours, live music, food, and Hunt Country wines.",
+    "sourceUrl": "https://www.localwineevents.com/view/event/hunt-country-vineyards-37th-annual-harvest-festival-2025/917095",
+    "needsReview": false
+  },
+  {
+    "id": "hunt-country-vineyards-annual-harvest-festival",
+    "name": "Hunt Country Vineyards Annual Harvest Festival",
+    "address": "4021 Italy Hill Rd, Branchport, NY 14418",
+    "phone": "(315) 595-2812",
+    "website": "https://www.huntcountryvineyards.com/",
+    "hoursNote": "37th Annual Harvest Festival: Saturday, October 4, 2025, 10:00-17:00.",
+    "description": "Annual Hunt Country Harvest Festival with grape stomping, vineyard trolley tours, sustainability tours, live music, food, and Hunt Country wines.",
+    "sourceUrl": "https://www.localwineevents.com/view/event/hunt-country-vineyards-37th-annual-harvest-festival-2025/917095",
+    "needsReview": false
+  },
+  {
+    "id": "inspire-moore-winery-vineyard",
+    "name": "Inspire Moore Winery & Vineyard",
+    "address": "197 N Main St, Naples, NY 14512",
+    "lat": 42.6252215,
+    "lng": -77.3948381,
+    "phone": "(585) 374-5970",
+    "website": "https://inspiremoorewinery.com/",
+    "hours": {
+      "mon": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "tue": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "wed": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "thu": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "fri": {
+        "open": "11:00",
+        "close": "17:00"
+      },
+      "sat": {
+        "open": "11:00",
+        "close": "18:00"
+      },
+      "sun": {
+        "open": "11:00",
+        "close": "17:00"
+      }
+    },
+    "hoursNote": "Seasonal hours from official contact page: June-October Sunday-Friday 11:00-17:00 and Saturday 11:00-18:00; November-December/April-May Thursday-Monday 11:00-17:00; January-March Friday-Sunday 11:00-17:00.",
+    "description": "Winery, vineyard, and venue in Naples, NY, offering wine tastings, tours, public events, private events, and wedding celebrations.",
+    "sourceUrl": "https://inspiremoorewinery.com/contact/",
+    "needsReview": false
+  }
+]
